@@ -2,5 +2,5 @@
 <resources>
     <string name="zzzzz_gn_def_flip_on_sound">/system/media/audio/ui/FlipOn.ogg</string>
     <string name="zzzzz_gn_def_flip_off_sound">/system/media/audio/ui/FlipOff.ogg</string>
-    <string name="app_label">IUNI Settings Storage</string>
+    <string name="app_label">Хранилище настроек IUNI</string>
 </resources>
