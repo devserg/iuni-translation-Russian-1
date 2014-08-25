@@ -14,6 +14,6 @@
     <string name="debug_tool_message">Вы собираетесь: 1) сделать копию своей базы данных календаря на SD-карту/USB-хранилище, которая наиболее удобна для чтения любым приложением и 2) послать по E-mail. Не забудьте удалить копию, как только вы успешно скопировали ее с устройства или электронное письмо получено.</string>
     <string name="debug_tool_email_sender_picker">Выберите программу для отправки вашего файла</string>
     <string name="debug_tool_email_subject">База данных календаря добавлена</string>
-    <string name="debug_tool_email_body">Добавить мою базу данных календаря ко всем назначениям и личной информацией. Использовать осторожно!</string>
-    <string name="gn_calendar_sync_account_disaply_name">本地帐户</string>
+    <string name="debug_tool_email_body">Добавить мою базу данных календаря ко всем назначениям и личной информацией. Используйте эту функцию с осторожностью!</string>
+    <string name="gn_calendar_sync_account_disaply_name">Локальные аккаунты</string>
 </resources>
