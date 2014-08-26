@@ -124,13 +124,13 @@
         <item>0</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>English</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Chinese</item>
-        <item>Hebrew</item>
+        <item>Английский</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Китайский</item>
+        <item>Иврит</item>
     </string-array>
     <string-array name="list_language_values">
         <item>1</item>
@@ -142,8 +142,8 @@
         <item>7</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Только дома</item>
+        <item>Автоматически</item>
     </string-array>
     <string-array name="cdma_system_select_values">
         <item>0</item>
@@ -170,8 +170,8 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>Нормальный</item>
+        <item>Длинный</item>
     </string-array>
     <string-array name="dtmf_tone_values">
         <item>0</item>
@@ -182,19 +182,19 @@
         <item>ABSENTNUMBER</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Всегда</item>
+        <item>Только при silent</item>
+        <item>Никогда</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
+        <item>всегда</item>
         <item>silent</item>
-        <item>never</item>
+        <item>никогда</item>
     </string-array>
     <string-array name="aurora_preferred_network_mode_choices">
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>только WCDMA</item>
+        <item>только GSM</item>
+        <item>предпочтительно GSM/WCDMA</item>
     </string-array>
     <string-array name="aurora_preferred_network_mode_values">
         <item>2</item>
@@ -203,9 +203,9 @@
     </string-array>
     <string-array name="cm_preferred_network_mode_choices">
         <item>GSM/WCDMA/LTE</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>только WCDMA</item>
+        <item>только GSM</item>
+        <item>предпочтительно GSM/WCDMA</item>
     </string-array>
     <string-array name="cm_preferred_network_mode_values">
         <item>9</item>
