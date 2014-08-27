@@ -64,14 +64,14 @@
         <item>@null</item>
     </array>
     <string-array name="clir_display_values">
-        <item>Network default</item>
-        <item>Hide number</item>
-        <item>Show number</item>
+        <item>Настройки сети по умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
     </string-array>
     <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
+        <item>По умолчанию</item>
+        <item>Скрыть</item>
+        <item>Показать</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD_SCDMA_LTE_CDMA_EVDO_GSM_WCDMA</item>
@@ -90,13 +90,13 @@
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>EvDo only</item>
+        <item>Только EvDo</item>
         <item>CDMA w/o EvDo</item>
-        <item>CDMA/EvDo auto</item>
-        <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
-        <item>GSM only</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>CDMA/EvDo (автоматический режим)</item>
+        <item>GSM/WCDMA (автоматический режим)</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтительно)</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
         <item>22</item>
@@ -142,7 +142,7 @@
         <item>7</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Только дома</item>
+        <item>Только домашняя</item>
         <item>Автоматически</item>
     </string-array>
     <string-array name="cdma_system_select_values">
@@ -170,8 +170,8 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Нормальный</item>
-        <item>Длинный</item>
+        <item>Обычные</item>
+        <item>Длинные</item>
     </string-array>
     <string-array name="dtmf_tone_values">
         <item>0</item>
@@ -183,18 +183,18 @@
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Всегда</item>
-        <item>Только при silent</item>
+        <item>В режиме "Без звука"</item>
         <item>Никогда</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
         <item>всегда</item>
-        <item>silent</item>
+        <item>"без звука"</item>
         <item>никогда</item>
     </string-array>
     <string-array name="aurora_preferred_network_mode_choices">
-        <item>только WCDMA</item>
-        <item>только GSM</item>
-        <item>предпочтительно GSM/WCDMA</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтительно)</item>
     </string-array>
     <string-array name="aurora_preferred_network_mode_values">
         <item>2</item>
@@ -203,9 +203,9 @@
     </string-array>
     <string-array name="cm_preferred_network_mode_choices">
         <item>GSM/WCDMA/LTE</item>
-        <item>только WCDMA</item>
-        <item>только GSM</item>
-        <item>предпочтительно GSM/WCDMA</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA (предпочтительно)</item>
     </string-array>
     <string-array name="cm_preferred_network_mode_values">
         <item>9</item>
