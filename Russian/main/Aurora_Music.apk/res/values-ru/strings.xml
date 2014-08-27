@@ -53,6 +53,12 @@
     <string name="aurora_add_playlist">Добавить</string>
     <string name="aurora_edit_playlist">Редактировать</string>
     <string name="aurora_delete_playlist">Удалить</string>
+    <string name="aurora_clear_search_history">Очистить историю поиска</string>
+    <string name="aurora_search_lyric">Поиск слов</string>
+    <string name="aurora_search_lyric_name">Название песни:</string>
+    <string name="aurora_search_lyric_artist">Исполнитель:</string>
+    <string name="aurora_now_playing">Воспроизвести</string>
+    <string name="aurora_lyricsize">Сопоставлять %dслова</string>
     <string name="img_desc_tens_of_hour">Десятки часов</string>
     <string name="img_desc_units_of_hour">Единицы часов</string>
     <string name="img_desc_tens_of_min">Десятки минут</string>
@@ -64,8 +70,8 @@
     <string name="dialog_delete_album_con_message">Удалить альбом?</string>
     <string name="dialog_delete_albums_con_message">Удалить выбранные альбомы?</string>
     <string name="num_albums_num_songs" formatted="false">%sАльбомы, и%sПесни</string>
-    <string name="num_songs_of_album">%sПесни</string>
-    <string name="release_date_of_album">Время выхода:%s</string>
+    <string name="num_songs_of_album">%sПесен</string>
+    <string name="release_date_of_album">Время релиза:%s</string>
     <string name="open_fail">не удалось открыть</string>
     <string name="song_name">xxxx</string>
     <string name="song_album">yyy.yyyy</string>
@@ -80,7 +86,7 @@
     <string name="playlist_artist">Исполнитель</string>
     <string name="playlist_files">Папка</string>
     <string name="playlist_addsongs">Добавить песню</string>
-    <string name="playlist_selectsongs">%d выбранные песни</string>
+    <string name="playlist_selectsongs">%d выбранных песен</string>
     <string name="player_songs">Список</string>
     <string name="player_downs">Вниз</string>
     <string name="player_ringer">Ring</string>
