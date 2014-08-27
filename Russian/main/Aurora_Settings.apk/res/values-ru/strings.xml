@@ -1974,7 +1974,7 @@ Ready to start? Touch Next."</string>
     <string name="background_data">Фоновый режим</string>
     <string name="background_data_summary">Синхронизация, отправка и получение данных доступны всегда</string>
     <string name="background_data_dialog_title">Выкл. фоновый режим?</string>
-    <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем трафика, однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
+    <string name="background_data_dialog_message">Отключение фонового режима обмена данными экономит заряд батареи и уменьшает объем расходуемого трафика, однако некоторые приложения могут использовать этот режим даже после его отключения.</string>
     <string name="sync_automatically">Автосинхронизация данных приложений</string>
     <string name="sync_enabled">Синхронизация включена</string>
     <string name="sync_disabled">Синхронизация выключена</string>
