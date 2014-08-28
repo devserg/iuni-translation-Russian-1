@@ -12,12 +12,12 @@
     <string name="update_pic">Обновление фотографий...</string>
     <string name="appwidget_empty_video">Не видео файлов</string>
     <string name="aurora_wallpaper">IUNI альбом</string>
-    <string name="aurora_storage_root">Память телефона</string>
+    <string name="aurora_storage_root">Память</string>
     <string name="aurora_storage_external">SD-карта</string>
-    <string name="aurora_storage_internal">Внутренняя память</string>
+    <string name="aurora_storage_internal">sdcard</string>
     <string name="photo_edit_action_bar_save">Сохранить</string>
     <string name="photo_edit_action_bar_cancel">Отмена</string>
-    <string name="photo_edit_action_bar_confirm_crop">Подтвердите обрезку</string>
+    <string name="photo_edit_action_bar_confirm_crop">Обрезать</string>
     <string name="title_activity_filter_show">Редактор фотографий</string>
     <string name="cannot_load_image">Не удается загрузить изображение!</string>
     <string name="cannot_edit_original">Невозможно отредактировать оригинал</string>
@@ -235,7 +235,7 @@
     <string name="select_all">Выбрать все</string>
     <string name="deselect_all">Отменить выбор</string>
     <string name="slideshow">Слайд-шоу</string>
-    <string name="details">Подробно</string>
+    <string name="details">Свойства</string>
     <string name="details_title">%1$d из %2$d элементов:</string>
     <string name="close">Закрыть</string>
     <string name="switch_to_camera">Переключиться на камеру</string>
@@ -278,7 +278,7 @@
     <string name="sequence_in_set">%1$d из %2$d элементы:</string>
     <string name="title">Название</string>
     <string name="description">Описание</string>
-    <string name="time">Время</string>
+    <string name="time">Дата съемки</string>
     <string name="location">Местоположение</string>
     <string name="path">Путь</string>
     <string name="width">Ширина</string>
