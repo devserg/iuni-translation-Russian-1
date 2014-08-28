@@ -1,116 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLockScreen</string>
-    <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="security_accessibility_password_unlock">Password unlock.</string>
-    <string name="kg_emergency_call_label">Emergency call</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_invalid_pattern">Connect at least 4 dots.</string>
-    <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="kg_pattern_instructions">Draw your pattern</string>
-    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-    <string name="kg_pin_instructions">Enter PIN</string>
-    <string name="kg_password_instructions">Enter Password</string>
-    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_password_wrong_pin_code">Incorrect PIN code.</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">"Forgot your username or password?
-Visit "<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">You have incorrectly typed your PIN %d times. Try again in %d seconds.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">You have incorrectly typed your password %d times. Try again in %d seconds.</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">You have incorrectly drawn your unlock pattern %d times. Try again in %d seconds.</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+    <string name="app_name">Экран блокировки Аврора</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="security_accessibility_password_unlock">Пароль разблокировки.</string>
+    <string name="kg_emergency_call_label">Экстренный вызов</string>
+    <string name="kg_forgot_pattern_button_text">Забыли графический ключ</string>
+    <string name="kg_wrong_pattern">Неверный графический ключ</string>
+    <string name="kg_invalid_pattern">Соедините хотя бы 4 точки.</string>
+    <string name="kg_wrong_password">Неверный пароль</string>
+    <string name="kg_wrong_pin">Неверный PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d секунд.</string>
+    <string name="kg_pattern_instructions">Нарисуйте графический ключ</string>
+    <string name="kg_sim_pin_instructions">Введите PIN-код сим-карты</string>
+    <string name="kg_pin_instructions">Введите PIN</string>
+    <string name="kg_password_instructions">Введите пароль</string>
+    <string name="kg_puk_enter_puk_hint">Сим-карта заблокирована. Введите PUK-код для продолжения. Свяжитесь с оператором для уточнения деталей.</string>
+    <string name="kg_puk_enter_pin_hint">Введите желаемый PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите желаемый PIN-код</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка сим-карты...</string>
+    <string name="kg_password_wrong_pin_code">Неправильный PIN-код.</string>
+    <string name="kg_invalid_sim_pin_hint">Введите PIN-код от 4 до 8 цифр.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код должен состоять из 8 или более цифр.</string>
+    <string name="kg_invalid_puk">Повторите корректный PUK-код. Несколько неудачных попыток заблокируют сим-карту навсегда.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-код не совпадает</string>
+    <string name="kg_login_too_many_attempts">Слишком много неудачных попыток</string>
+    <string name="kg_login_instructions">Войдите в свой аккаунт Google для разблокировки.</string>
+    <string name="kg_login_username_hint">Логин (email)</string>
+    <string name="kg_login_password_hint">Пароль</string>
+    <string name="kg_login_submit_button">Войти</string>
+    <string name="kg_login_invalid_input">Неправильный логин или пароль.</string>
+    <string name="kg_login_account_recovery_hint">"Забыли логин или пароль?
+Посетите "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Проверка аккаунта…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Вы ввели неверный пин %d раз. Повторите попытку через %d секунд.</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Вы ввели неверный пароль %d раз. Повторите попытку через %d секунд.</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Вы ввели неверный графический ключ %d раз. Повторите попытку через %d секунд.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы произвели %d неудачных попыток разблокировать телефон. После еще %d таких попыток, телефон будет сброшен к заводским настройкам, а все пользовательские данные будут потеряны.</string>
+    <string name="kg_failed_attempts_now_wiping">Вы произвели %d неудачных попыток разблокировать телефон. Телефон будет сброшен к заводским настройкам.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы произвели %d неудачных попыток ввода графического ключа. После еще %d таких попыток, вы сможете разблокировать телефон только с помощью e-mail аккаунта.
 
- Try again in %d seconds."</string>
+ Повторите попытку через %d секунд."</string>
     <string name="kg_text_message_separator">" — "</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
-    <string name="keyguard_password_enter_puk_code">Type PUK and new PIN code</string>
-    <string name="keyguard_password_enter_puk_prompt">PUK code</string>
-    <string name="keyguard_password_enter_pin_prompt">New PIN code</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
-    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
-    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
-    <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
-    <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
-    <string name="emergency_call_dialog_number_for_display">Emergency number</string>
-    <string name="lockscreen_carrier_default">No service.</string>
-    <string name="lockscreen_screen_locked">Screen locked.</string>
-    <string name="lockscreen_instructions_when_pattern_enabled">Press Menu to unlock or place emergency call.</string>
-    <string name="lockscreen_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-    <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
-    <string name="lockscreen_emergency_call">Emergency call</string>
-    <string name="lockscreen_return_to_call">Return to call</string>
-    <string name="lockscreen_pattern_correct">Correct!</string>
-    <string name="lockscreen_pattern_wrong">Try again</string>
-    <string name="lockscreen_password_wrong">Try again</string>
-    <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
-    <string name="lockscreen_plugged_in">Charging, %d%%</string>
-    <string name="lockscreen_charged">Charged</string>
+    <string name="kg_reordering_delete_drop_target_text">Удалить</string>
+    <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
+    <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
+    <string name="keyguard_password_enter_puk_prompt">PUK-код</string>
+    <string name="keyguard_password_enter_pin_prompt">Новый PIN-код</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Коснитесь для ввода пароля</font></string>
+    <string name="keyguard_password_enter_password_code">Введите пароль для разблокировки</string>
+    <string name="keyguard_password_enter_pin_password_code">Введите PIN-код для разблокировки</string>
+    <string name="keyguard_password_wrong_pin_code">Неправильный PIN-код.</string>
+    <string name="keyguard_label_text">Для разблокировки нажмите Меню, и затем 0.</string>
+    <string name="emergency_call_dialog_number_for_display">Номер экстренного вызова</string>
+    <string name="lockscreen_carrier_default">Нет обслуживания.</string>
+    <string name="lockscreen_screen_locked">Экран заблокирован.</string>
+    <string name="lockscreen_instructions_when_pattern_enabled">Нажмите Меню для разблокировки или осуществления экстренного вызова.</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">Нажмите Меню для разблокировки.</string>
+    <string name="lockscreen_pattern_instructions">Введите графический ключ для разблокировки</string>
+    <string name="lockscreen_emergency_call">Экстренный вызов</string>
+    <string name="lockscreen_return_to_call">Вернуться к вызову</string>
+    <string name="lockscreen_pattern_correct">Верно!</string>
+    <string name="lockscreen_pattern_wrong">Попробуйте снова</string>
+    <string name="lockscreen_password_wrong">Попробуйте снова</string>
+    <string name="faceunlock_multiple_failures">Количество попыток разблокировки фейсконтролем превышено</string>
+    <string name="lockscreen_plugged_in">Заряжается, %d%%</string>
+    <string name="lockscreen_charged">Заряжено</string>
     <string name="lockscreen_battery_short">%d%%</string>
-    <string name="lockscreen_low_battery">Connect your charger.</string>
-    <string name="lockscreen_missing_sim_message_short">No SIM card</string>
-    <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>
-    <string name="lockscreen_missing_sim_instructions">Insert a SIM card.</string>
-    <string name="lockscreen_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
-    <string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
-    <string name="lockscreen_transport_prev_description">Previous track button</string>
-    <string name="lockscreen_transport_next_description">Next track button</string>
-    <string name="lockscreen_transport_pause_description">Pause button</string>
-    <string name="lockscreen_transport_play_description">Play button</string>
-    <string name="lockscreen_transport_stop_description">Stop button</string>
-    <string name="emergency_calls_only">Emergency calls only</string>
-    <string name="lockscreen_network_locked_message">Network locked</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM card is PUK-locked.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">See the User Guide or contact Customer Care.</string>
-    <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+    <string name="lockscreen_low_battery">Подсоедините зарядное устройство.</string>
+    <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="lockscreen_missing_sim_message">В телефоне нет SIM-карты.</string>
+    <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту.</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или не может быть прочитана. Вставьте SIM-карту.</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна для использования.</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-карта была заблокирована.
+ Свяжитесь с мобильным оператором для получения новой SIM-карты."</string>
+    <string name="lockscreen_transport_prev_description">Предыдущий трек</string>
+    <string name="lockscreen_transport_next_description">Следующий трек</string>
+    <string name="lockscreen_transport_pause_description">Пауза</string>
+    <string name="lockscreen_transport_play_description">Воспроизведение</string>
+    <string name="lockscreen_transport_stop_description">Остановка</string>
+    <string name="emergency_calls_only">Только экстренные вызовы</string>
+    <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована при помощи PUK-кода.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">Обратитесь к руководству пользователя или свяжитесь с горячей линией.</string>
+    <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы ввели неверный графический ключ %d раз. 
 
-Try again in %d seconds."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+Повторите попытку через %d секунд."</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы ввели неверный пароль %d раз.
 
-Try again in %d seconds."</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+Повторите попытку через %d секунд."</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы ввели неверный PIN %d раз.
 
-Try again in %d seconds."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google signin.
+Повторите попытку через %d секунд."</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы произвели %d неудачных попыток ввода графического ключа. После еще %d таких попыток вы сможете разблокировать телефон только с помощью аккаунта Google.
 
- Try again in %d seconds."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
-    <string name="lockscreen_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="lockscreen_forgot_pattern_button_text">Forgot pattern?</string>
-    <string name="lockscreen_glogin_forgot_pattern">Account unlock</string>
-    <string name="lockscreen_glogin_too_many_attempts">Too many pattern attempts</string>
-    <string name="lockscreen_glogin_instructions">To unlock, sign in with your Google account.</string>
-    <string name="lockscreen_glogin_username_hint">Username (email)</string>
-    <string name="lockscreen_glogin_password_hint">Password</string>
-    <string name="lockscreen_glogin_submit_button">Sign in</string>
-    <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
-    <string name="lockscreen_glogin_account_recovery_hint">"Forgot your username or password?
-Visit "<b>google.com/accounts/recovery</b>.</string>
+ Повторите попытку через %d секунд."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы произвели %d неудачных попыток разблокировать телефон. После еще %d таких попыток, телефон будет сброшен к заводским настройкам, а все пользовательские данные будут потеряны.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Вы произвели %d неудачных попыток разблокировать телефон. Телефон будет сброшен к заводским настройкам.</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d секунд.</string>
+    <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
+    <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
+    <string name="lockscreen_glogin_too_many_attempts">Слишком много неудачных попыток</string>
+    <string name="lockscreen_glogin_instructions">Для разблокировки войдите в свой аккаунт Google.</string>
+    <string name="lockscreen_glogin_username_hint">Логин (email)</string>
+    <string name="lockscreen_glogin_password_hint">Пароль</string>
+    <string name="lockscreen_glogin_submit_button">Войти</string>
+    <string name="lockscreen_glogin_invalid_input">Неправильный логин или пароль.</string>
+    <string name="lockscreen_glogin_account_recovery_hint">"Забыли логин или пароль?
+Посетите "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Checking…</string>
     <string name="lockscreen_unlock_label">Unlock</string>
     <string name="lockscreen_sound_on_label">Sound on</string>
