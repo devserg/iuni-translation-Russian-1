@@ -76,7 +76,7 @@
     <string name="root_view">Память</string>
     <string name="has_no_free_memory">Недостаточно места для хранения. Пожалуйста, освободите место на диске.</string>
     <string name="mkdir_no_permission">Недостаточно прав для создания новой папки</string>
-    <string name="newfolder">создать новую папку</string>
+    <string name="newfolder">Новая папка</string>
     <string name="msg_rename_ext">При изменении расширения файл может стать недоступным. Изменить расширение?</string>
     <string name="paste_same_folder">Папка назначения такая же, как и исходная папка</string>
     <string name="fail_to_create_folder">Ошибка создания папки</string>
