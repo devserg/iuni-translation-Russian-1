@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="share_max">800</string>
-    <string name="app_name">Управление файлами</string>
+    <string name="app_name">Проводник</string>
     <string name="category_music">Музыка</string>
     <string name="category_video">Видео</string>
     <string name="category_picture">Изображения</string>
