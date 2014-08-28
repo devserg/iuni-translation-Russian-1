@@ -32,9 +32,9 @@
     <string name="dialog_type_video">Видео</string>
     <string name="dialog_type_image">Изображения</string>
     <string name="msg_unable_open_file">Формат файла не поддерживается. Установите соответствующее приложение.</string>
-    <string name="operation_rename">Переименовть</string>
+    <string name="operation_rename">Переименовать</string>
     <string name="rename_exist">Файл с таким именем уже существует</string>
-    <string name="operation_delete">Удалить</string>
+    <string name="operation_delete">Удаление</string>
     <string name="operation_info">Свойства</string>
     <string name="file_info_name">Имя:</string>
     <string name="file_info_title">Свойства файла</string>
@@ -71,7 +71,7 @@
     <string name="cancel">Отмена</string>
     <string name="aurora_file_name_tint">Введите правильное имя файла</string>
     <string name="invalid_char_prompt">Введен недопустимый символ</string>
-    <string name="storage_internal">Емкость внутренней памяти</string>
+    <string name="storage_internal">sdcard</string>
     <string name="storage_external">SD-карты</string>
     <string name="root_view">Память</string>
     <string name="has_no_free_memory">Недостаточно места для хранения. Пожалуйста, освободите место на диске.</string>
