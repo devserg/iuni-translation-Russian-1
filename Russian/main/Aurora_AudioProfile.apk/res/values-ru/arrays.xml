@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="profile_title_list">
-        <item>Ring</item>
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Outdoor</item>
+        <item>Звонок</item>
+        <item>Тихо</item>
+        <item>Вибрация</item>
+        <item>Окружающий</item>
     </string-array>
     <string-array name="entries_list_profile">
-        <item>Ring</item>
-        <item>Silent</item>
-        <item>Vibrate</item>
-        <item>Outdoor</item>
+        <item>Звонок</item>
+        <item>Тихо</item>
+        <item>Вибрация</item>
+        <item>Окружающий</item>
     </string-array>
     <string-array name="entryvalues_list_profile">
         <item>0</item>
