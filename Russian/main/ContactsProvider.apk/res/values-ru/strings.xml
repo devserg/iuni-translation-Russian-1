@@ -13,10 +13,10 @@
     <string name="read_write_all_voicemail_description">Разрешить приложению сохранять и извлекать все голосовые сообщения, к которым есть доступ на этом устройстве</string>
     <string name="voicemail_from_column">"Голосовое сообщение от "</string>
     <string name="unknown">Неизвестный</string>
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
-    <string name="common_last_name_prefixes" />
-    <string name="common_name_conjunctions" />
+    <string name="common_name_prefixes">Приставки к имени</string>
+    <string name="common_name_suffixes">Суффиксы в имени</string>
+    <string name="common_last_name_prefixes">Приставки к фамилии</string>
+    <string name="common_name_conjunctions">Объединения имен</string>
     <string name="create_contact_using">"Создать контакт используя %s"</string>
     <string name="dial_number_using">"Набрать номер используя %s"</string>
     <string name="aurora_group_family">Семья</string>
