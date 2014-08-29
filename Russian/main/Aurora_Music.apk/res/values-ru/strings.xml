@@ -129,7 +129,7 @@
     <string name="aurora_cancel_collection_message">Удалить список из избранного?</string>
     <string name="aurora_collection_suceess">Добавлено в избранное!</string>
     <string name="aurora_status_url_not_found">Нет ссылки на скачивание</string>
-    <string name="aurora_search_result">Результат поиска</strinn>
+    <string name="aurora_search_result">Результат поиска</string>
     <string name="aurora_online_hot_songs">Популярные песни</string>
     <string name="num_songs_num_albums" formatted="false">total%ssongs %salbum</string>
     <string name="aurora_update_time">время обновления:%s</string>
