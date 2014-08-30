@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="num_seconds_ago">
-        <item quantity="other">%d seconds ago</item>
-        <item quantity="one">1 second ago</item>
+        <item quantity="other">%d секунд(-ы) назад</item>
+        <item quantity="one">1 секунду назад</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d минут(-ы) назад</item>
+        <item quantity="one">1 минуту назад</item>
     </plurals>
     <plurals name="num_hours_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">1 hour ago</item>
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">1 час назад</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Last %d days</item>
+        <item quantity="other">Более %d дней</item>
     </plurals>
     <plurals name="num_days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">yesterday</item>
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">вчера</item>
     </plurals>
     <plurals name="in_num_seconds">
-        <item quantity="other">in %d seconds</item>
-        <item quantity="one">in 1 second</item>
+        <item quantity="other">в %d секунд</item>
+        <item quantity="one">в 1 секунду</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">в %d минут</item>
+        <item quantity="one">в 1 минуту</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">in %d hours</item>
-        <item quantity="one">in 1 hour</item>
+        <item quantity="other">в %d часов</item>
+        <item quantity="one">в 1 час</item>
     </plurals>
     <plurals name="in_num_days">
-        <item quantity="other">in %d days</item>
-        <item quantity="one">tomorrow</item>
+        <item quantity="other">в %d дней</item>
+        <item quantity="one">завтра</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">%d secs ago</item>
-        <item quantity="one">1 sec ago</item>
+        <item quantity="other">%d секунд назад</item>
+        <item quantity="one">1 секуну назад</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">1 минуту назад</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">1 hour ago</item>
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">1 час назад</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">yesterday</item>
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">вчера</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">in %d secs</item>
-        <item quantity="one">in 1 sec</item>
+        <item quantity="other">в %d сек</item>
+        <item quantity="one">в 1 сек</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">в %d мин</item>
+        <item quantity="one">в 1 мин</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
-        <item quantity="other">in %d hours</item>
-        <item quantity="one">in 1 hour</item>
+        <item quantity="other">в %d часов</item>
+        <item quantity="one">в 1 час</item>
     </plurals>
     <plurals name="abbrev_in_num_days">
-        <item quantity="other">in %d days</item>
-        <item quantity="one">tomorrow</item>
+        <item quantity="other">в %d дней</item>
+        <item quantity="one">завтра</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%d секунд</item>
+        <item quantity="one">1 секунду</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%d минут</item>
+        <item quantity="one">1 минуту</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%d часов</item>
+        <item quantity="one">1 час</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Wi-Fi networks available</item>
-        <item quantity="one">Wi-Fi network available</item>
+        <item quantity="other">Доступных Wi-Fi сетей</item>
+        <item quantity="one">Доступная Wi-Fi сеть</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Open Wi-Fi networks available</item>
-        <item quantity="one">Open available Wi-Fi network</item>
+        <item quantity="other">Доступно открытых Wi-Fi сетей</item>
+        <item quantity="one">Доступна открытая Wi-Fi сеть</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">1 Match</item>
+        <item quantity="other">%1$d из %2$d</item>
+        <item quantity="one">1 совпадение</item>
     </plurals>
 </resources>
