@@ -33,12 +33,12 @@
         <item>m</item>
     </string-array>
     <string-array name="auroraWeekNumber">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tues</item>
-        <item>Wed</item>
-        <item>Thur</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чет</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
 </resources>
