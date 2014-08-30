@@ -163,7 +163,7 @@
     <string name="enter_SinrTh">Введите SINR порог</string>
     <string name="set_SinrTh">Настройка SINR порога</string>
     <string name="enter_IntfLowTh">Введите нижний порог Intf Det</string>
-    <string name="set_IntfLowTh">Конфигурация нижний порог Intf Detstring>
+    <string name="set_IntfLowTh">Конфигурация нижний порог Intf Detstring</string>
     <string name="enter_IntfHighTh">Введите высший порог Intf Det</string>
     <string name="set_IntfHighTh">Конфигурация высший порог Intf Det</string>
     <string name="station_name">Станция:</string>
