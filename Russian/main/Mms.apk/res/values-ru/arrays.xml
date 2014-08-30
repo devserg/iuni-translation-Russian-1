@@ -47,14 +47,14 @@
         <item>Без эмоций</item>
     </string-array>
     <string-array name="default_quick_texts">
-        <item>Где ты?</item>
-        <item>Чем вы занимаетесь?</item>
-        <item>Перезвони мне! Пожалуйста!</item>
-        <item>К сожалению у меня сейчас встреча.</item>
-        <item>Скоро вам позвоню.</item>
-        <item>"Не переживай! Все хорошо."</item>
-        <item>На пути домой.</item>
-        <item>Скоро прибытие.</item>
+        <item>Вы где?</item>
+        <item>Что Вы делаете?</item>
+        <item>Пожалуйста, перезвоните!</item>
+        <item>Извените, у меня деловая встреча.</item>
+        <item>Перезвоню в ближайшее время.</item>
+        <item>"Не волнуйтесь! Я в порядке."</item>
+        <item>По дороге домой.</item>
+        <item>Скоро буду.</item>
         <item>Буду там или в том квартале!</item>
     </string-array>
     <string-array name="pref_mms_creation_mode_choices">
