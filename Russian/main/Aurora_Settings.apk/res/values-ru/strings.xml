@@ -208,6 +208,7 @@
     <string name="sms_change_default_dialog_title">Измененить SMS приложение?</string>
     <string name="sms_change_default_dialog_text" formatted="false">Использовать %s вместо %s как SMS приложение по умолчанию?</string>
     <string name="sms_change_default_no_previous_dialog_text">Использовать %s как SMS приложение?</string>
+    <string name="art_title">изменение времени выполнения</string>
     <string name="lock_screen_notifications_title">Уведомления на экране блокировки</string>
     <string name="lock_screen_notifications_summary">Показывать информацию о пропущенных звонках и SMS на экране блокировки</string>
     <string name="virtual_key_setting_pref_title">Виртуальный ключ</string>
@@ -1027,10 +1028,9 @@
     <string name="wifi_p2p_settings_title">Wi-Fi передача P2P</string>
     <string name="wifi_p2p_device_info">Информация об устройстве</string>
     <string name="wifi_p2p_persist_network">Запомнить это соединение</string>
+    <string name="wifi_p2p_menu_search">Поиск устройств</string>
+    <string name="wifi_p2p_menu_searching">Поиск…</string>
     <string name="wifi_p2p_menu_rename">Переименовать</string>
-    <string name="wifi_p2p_menu_create_group">Создать группу</string>
-    <string name="wifi_p2p_menu_remove_group">Удалить группу</string>
-    <string name="wifi_p2p_menu_advanced">Дополнительно</string>
     <string name="wifi_p2p_peer_devices">Устройства сети</string>
     <string name="wifi_p2p_failed_connect_message">Невозможно соединиться</string>
     <string name="wifi_p2p_failed_rename_message">Ошибка переименовывания устройства</string>

@@ -134,6 +134,7 @@
     <string name="china_telecom">China Telecom</string>
     <string name="unknow_provider">Unknown carrier</string>
     <string name="no_sim">No SIM card was detected</string>
+    <string name="no_sim_for_MultiSim">With data function card slot has no sim card</string>
     <string name="flow_error_manual_correction">set data usage now</string>
     <string name="mb">MB</string>
     <string name="can_not_entry_empty">Entered value cannot be empty</string>

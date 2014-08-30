@@ -80,11 +80,11 @@
     <string name="msg_rename_ext">При изменении расширения файл может стать недоступным. Изменить расширение?</string>
     <string name="paste_same_folder">Папка назначения такая же, как и исходная папка</string>
     <string name="fail_to_create_folder">Ошибка создания папки</string>
-    <string name="phone_audio">Запись телефонных разговоров</string>
     <string name="warning">Предупреждение</string>
     <string name="wait_a_moment">Файлы копируются в фоновом режиме. Пожалуйста, подождите!</string>
     <string name="next">Вперёд</string>
     <string name="nexts">Вперёд %s  </string>
     <string name="gtext">G</string>
     <string name="get_more_pic">Вы можете выбрать до %1$d изображений</string>
+    <string name="phone_audio">Запись телефонных разговоров</string>
 </resources>

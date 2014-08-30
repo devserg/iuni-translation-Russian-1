@@ -22,12 +22,15 @@
     <string name="lock_settings_picker_title">Выберите режим блокировки экрана</string>
     <string name="sync_enabled">Синхронизация включена</string>
     <string name="really_remove_account_title">Удалить аккаунт?</string>
-    <string name="really_remove_account_message">Удаление аккаунта приведёт к потере всх сообщений, контактов и других данных, связанных с учетной записью.</string>
+    <string name="really_remove_account_message">При удалении аккаунта с устройства будут удалены все связанные с ней сообщения, контакты и другие данные. Продолжить?</string>
+    <string name="remove_account_failed">Учетная запись требуется некоторым приложениям. Чтобы удалить ее, необходимо сбросить параметры устройства (при этом удаляются все личные данные). Это можно сделать в меню \"Параметры\" &gt; \"Резервное копирование и сброс\"</string>
     <string name="cant_sync_dialog_message">В настоящее время функция синхронизации записи отключена. Чтобы изменить этот параметр, включите автоматическую синхронизацию учётных записей.</string>
     <string name="cant_sync_dialog_title">Невозможно синхронизировать</string>
     <string name="finish_button_label">Завершить</string>
     <string name="sync_menu_sync_now">Синхронизировать сейчас</string>
     <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
+    <string name="last_synced">"Нажмите Синхронизировать сейчас
+ Последняя синхронизация:%1$s"</string>
     <string name="auto_sync_start">Автоматическая синхронизация включена</string>
     <string name="sync_failed">Сбой синхронизации</string>
     <string name="sync_active">Синхронизирование</string>

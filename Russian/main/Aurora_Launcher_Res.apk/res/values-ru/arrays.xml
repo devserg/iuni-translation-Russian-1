@@ -14,9 +14,9 @@
         <item>com.android.settings$com.android.settings.Settings|Settings|设置#settings.png</item>
         <item>com.android.contacts$com.android.contacts.activities.AuroraPeopleActivity|Contacts|联系人#contacts.png</item>
         <item>com.android.contacts$com.android.contacts.activities.AuroraDialActivity|Phone|拨号#phone.png</item>
-        <item>gn.com.android.update$gn.com.android.update.ui.UpdateUiActivity|System Update|系统升级#system_update.png</item>
+        <item>gn.com.android.update$gn.com.android.update.ui.UpdateUiActivity|Updater|系统升级#system_update.png</item>
         <item>com.android.deskclock$com.android.deskclock.AlarmClock|Clock|时钟#deskclock.png</item>
-        <item>com.aurora.filemanager$com.aurora.filemanager.FileExplorerTabActivity|File Management|我的文件|文件管理#filemanager.png</item>
+        <item>com.aurora.filemanager$com.aurora.filemanager.FileExplorerTabActivity|File Manager|我的文件|文件管理#filemanager.png</item>
         <item>录音机#recorder.png</item>
         <item>视频#video.png</item>
         <item>SuperSU#supersu.png</item>
@@ -746,241 +746,348 @@
         <item>com.vipercn.viper4android4x$com.vipercn.viper4android4x.activity.ViPER4Android|ViPER4Android FX#yinxiaoqudong.png</item>
         <item>Shoot U!#shoot_u.png</item>
         <item>点心桌面#dianxinzhuomian.png</item>
-        <item>  通通电话#tongtongdianhua.png</item>
+        <item>com.snda.tt$com.snda.tt.ui.WelcomeActivity|Tongtong|  通通电话#tongtongdianhua.png</item>
         <item>com.qihoo360.launcher$com.qihoo360.launcher.Launcher|360 Launcher|360桌面#zhuomian360.png</item>
         <item>黄历天气#huanglitianqi_91.png</item>
         <item>com.xikang.android.slimcoach$com.xikang.android.slimcoach.ui.AppStart|瘦瘦#shoushou.png</item>
         <item>com.flightmanager.view$com.flightmanager.view.Loading|航班管家|航班管家#hangbanguanjia.png</item>
-        <item>有信#youxin.png</item>
-        <item>腾讯新闻#tengxunxinwen.png</item>
-        <item>朋友网#pengyouwang.png</item>
-        <item>WhatsApp#whatsapp_mes.png</item>
-        <item>WiFi Manager#wifi_mannger.png</item>
+        <item>com.yx$com.yx.ui.other.Splash|有信#youxin.png</item>
+        <item>com.tencent.news$com.tencent.news.activity.SplashActivity|Tencent news|腾讯新闻#tengxunxinwen.png</item>
+        <item>com.tencent.pengyou$com.tencent.pengyou.activity.SplashActivity|朋友网|朋友网#pengyouwang.png</item>
+        <item>com.whatsapp$com.whatsapp.Main|WhatsApp#whatsapp_mes.png</item>
+        <item>org.kman.WifiManager$org.kman.WifiManager.WifiControlActivity|WiFi Manager#wifi_mannger.png</item>
         <item>com.xlzapk.hotpingtai130220.game24$com.qqlove.MenuX|狙击恐怖分子#jujikongbufengzi.png</item>
         <item>pinkdiary.xiaoxiaotu.com$pinkdiary.xiaoxiaotu.com.LogoScreen|粉粉日记#fenfenriji.png</item>
         <item>com.mandi.carskong$com.mandi.carskong.Welcome|车标猜猜看#chebiaocaicaikan.png</item>
-        <item>趣味连连看#quweilianliankan.png</item>
+        <item>com.heqee.lianliankan$com.heqee.lianliankan.StartActivity|Interest Link|趣味连连看#quweilianliankan.png</item>
         <item>com.anzhuoshoudiantong$com.anzhuoshoudiantong.FlashlightActivity|Android Flashlight|手电筒+#flashligtplus.png</item>
         <item>com.douban.movie$com.douban.movie.SplashActivity|Douban Movie|豆瓣电影#doubandianying.png</item>
-        <item>Open Sea!#kaishanpishui.png</item>
+        <item>com.thepixelizers.android.opensea.uipn$com.thepixelizers.android.opensea.ui.SplashScreenActivity|Open Sea!#kaishanpishui.png</item>
         <item>搜狗地图#sougouditu.png</item>
         <item>AirPenguin#feixiangdeqie.png</item>
         <item>com.qqgame.mic$com.qqgame.mic.MicActivity|英雄杀#yingxiongsha.png</item>
-        <item>大智慧#dazhihui.png</item>
-        <item>快刀切木#kuaidaoqiemu.png</item>
-        <item>维基百科#weijibaike.png</item>
+        <item>com.android.dazhihui$com.android.dazhihui.dzh.dzh|大智慧|大智慧#dazhihui.png</item>
+        <item>com.moon.kuaidaoqiemu3$com.ielfgame.fireBall_plus.MainActivity|快到切木|快刀切木#kuaidaoqiemu.png</item>
+        <item>org.wikipedia$org.wikipedia.page.PageActivity|Wikipedia|维基百科#weijibaike.png</item>
         <item>cn.centuryincredible.llxjjucmrk$cn.centuryincredible.llxjjucmrk.MyActivity|烧饼修改器助手|烧饼修改器#shaobingyouxixiugaiqi.png</item>
         <item>com.mobiq.feimaor$com.mobiq.feimaor.FeimaorActivity|肥猫条码二维码扫描器#feimaotiaomaerweima.png</item>
-        <item>家园7：贵族#jiayuan7guizu.png</item>
+        <item>com.yodo1.townsmen7free$com.hg.android.cocos2dx.hgext.Main|家园7：贵族|家园7：贵族#jiayuan7guizu.png</item>
         <item>com.macropinch.hydra.android$com.macropinch.hydra.android.MainActivity|Cardiograph#xindiantu.png</item>
-        <item>Zombie Runaway#jiangshiyefengkuang.png</item>
+        <item>com.com2us.zr.normal.adfree.google.global.android.common$com.com2us.zr.normal.adfree.google.global.android.common.MainActivity|Zombie Runaway#jiangshiyefengkuang.png</item>
         <item>dolphin.qrshare.scanner$dolphin.qrshare.scanner.client.AddonScanActivity|Dolphin Scanner|条码扫描器#barcodscanner.png</item>
-        <item>美图GIF#meitugif.png</item>
-        <item>退休的巫师的故事#tuixiuwushidegushi.png</item>
-        <item>艾诺迪亚4#ainuodiya4.png</item>
+        <item>com.mt.mtgif$com.mt.mtgif.ActivityTopView|MeiTuGIF|美图GIF#meitugif.png</item>
+        <item>com.westriversw.RWS$com.westriversw.RWS.RWS|RetiredWizardStory|退休的巫师的故事#tuixiuwushidegushi.png</item>
+        <item>com.com2us.inotia4.normal.freefull.google.cn.android.common$com.com2us.inotia4.normal.freefull.google.cn.android.common.MainActivity|Inotia4|艾诺迪亚4#ainuodiya4.png</item>
         <item>Hungry Shark 3 Free#shixuekuangsha3.png</item>
-        <item>遇见#yujian.png</item>
-        <item>布丁怪兽#budingguaishou.png</item>
-        <item>重型机枪手3D#zhongxingjiqiangshou3d.png</item>
+        <item>net.iaround$net.iaround.StartActivity|iAround|遇见#yujian.png</item>
+        <item>com.zeptolab.game.gamebase$com.zeptolab.mvsl.MVSLActivity|布丁怪兽|布丁怪兽#budingguaishou.png</item>
+        <item>com.rgrthrthtyhty.HG$com.com2us.HG.MainActivity|Heavy gunner 3D|重型机枪手3D#zhongxingjiqiangshou3d.png</item>
         <item>com.halfbrick.jetpackjoyridefree$com.halfbrick.mortar.MortarGameActivity|疯狂喷气机#fengkuangpenqiji.png</item>
-        <item>傲游云浏览器#aoyouyunliulanqi.png</item>
+        <item>com.mx.browser$com.mx.browser.MxBrowserActivity|Maxthon Browser|傲游云浏览器#aoyouyunliulanqi.png</item>
         <item>Poweramp#poweramp.png</item>
         <item>com.cfinc.decopic$apps.android.dita.activity.SplashActivity|DECOPIC#zhaopiandatoutie.png</item>
         <item>Rail Maze#tielumigong.png</item>
         <item>net.osaris.turbofly$net.osaris.turbofly.TurboFlyHDActivity|超音速飞行|超音速飞行3D#chaoyinsufeiixng3d.png</item>
         <item>com.meilishuo$com.meilishuo.app.activity.WelcomeActivity|美丽说#meilishuo.png</item>
-        <item>QQ邮箱#qqyouxiang.png</item>
+        <item>com.tencent.androidqqmail$com.tencent.qqmail.LaucherActivity|QQ邮箱|QQ邮箱#qqyouxiang.png</item>
         <item>com.gau.go.launcherex.gowidget.taskmanager$com.gau.go.launcherex.gowidget.taskmanager.activity.MainActivity|GO TaskManager|GO任务管理器#gorenwuguanlqi.png</item>
         <item>cn.dxy.medicinehelper$cn.dxy.medicinehelper.activity.Startup|用药助手#yongyaozhushou.png</item>
-        <item>智能360#zhineng360.png</item>
+        <item>com.voice.assistant.main$com.voice.assistant.main.AssistantMainActivity|智能360#zhineng360.png</item>
         <item>predictor.ui$predictor.ui.AcLogo|灵占天下算命占卜#lingzhantianxiasuanming.png</item>
         <item>com.subatomicstudios$com.subatomicstudios.FieldrunnersActivity|Fieldrunners|坚守阵地#jianshouzhendi.png</item>
-        <item>Anyview阅读#anyview_yuedu.png</item>
-        <item>布丁优惠券#budingyouhuijuan.png</item>
-        <item>英雄联盟盒子#ying_xiong_lian_meng_he_zi.png</item>
-        <item>竞技摩托#jingjimotuo.png</item>
-        <item>百阅#baiyue.png</item>
-        <item>完美钢琴#wanmeigangqin.png</item>
-        <item>战争之王#zhanzhengzhiwang.png</item>
-        <item>脑筋急转弯大全#naojinjizhuanwan.png</item>
-        <item>暴击僵尸#shenghuaweijizhibaojijiangshi.png</item>
-        <item>正宗中国麻将#zhengzongzhongguomajiang.png</item>
-        <item>开心网#kaixinwang.png</item>
-        <item>X-Formula#jixianfangchengshisaiche.png</item>
+        <item>com.anyview$com.anyview.Splash|Anyview Reader|Anyview阅读#anyview_yuedu.png</item>
+        <item>cn.buding.coupon$cn.buding.coupon.activity.Main|布丁优惠券#budingyouhuijuan.png</item>
+        <item>com.duowan.lolbox$com.duowan.lolbox.LolBoxStartActivity|英雄联盟盒子#ying_xiong_lian_meng_he_zi.png</item>
+        <item>com.clean.menddds$com.common.EntryActivity|RacingMoto|竞技摩托#jingjimotuo.png</item>
+        <item>com.byread.reader$com.byread.reader.MainActivity|百阅#baiyue.png</item>
+        <item>com.gamestar.perfectpiano$com.gamestar.perfectpiano.Splash|Perfect Piano|完美钢琴#wanmeigangqin.png</item>
+        <item>com.feelingtouch.strikeforce$com.feelingtouch.strikeforce.FirstPage|战争之王#zhanzhengzhiwang.png</item>
+        <item>com.guangjun.brainteaser$com.guangjun.brainteaser.WelcomeActivity|脑筋急转弯大全#naojinjizhuanwan.png</item>
+        <item>cohm.feeehthch.gnz.jdmm$com.conans.forces.Coco|暴击僵尸#shenghuaweijizhibaojijiangshi.png</item>
+        <item>com.joygames.chinamj$com.joygames.chinamj.SplashActivity|正宗中国麻将#zhengzongzhongguomajiang.png</item>
+        <item>com.kaixin001.activity$com.kaixin001.activity.StartActivity|开心网#kaixinwang.png</item>
+        <item>com.GOGN.EFAndroid$com.GOGN.EFAndroid.AdMobTestActivity|X-Formula#jixianfangchengshisaiche.png</item>
         <item>Pool Break Pro#taiqiu_pool_master_pro.png</item>
-        <item>MX Player#mx_player.png</item>
-        <item>iStunt2#hua_xue_xiao_zi_2.png</item>
+        <item>com.mxtech.videoplayer.ad$com.mxtech.videoplayer.ad.ActivityMediaList|MX Player#mx_player.png</item>
+        <item>com.miniclip.istunt2$com.miniclip.istunt2.iStunt2Activity|iStunt2#hua_xue_xiao_zi_2.png</item>
         <item>植物大战僵尸无尽版#zhiwudazhanjiangshiwujinban.png</item>
-        <item>保龄球 3D#bao_ling_qiu3d_.png</item>
-        <item>QQ降龙#qq_xiang_long_2.png</item>
-        <item>3D飞行器#feixingqi_3d.png</item>
-        <item>七彩祖玛2体感版#qicaizuma2.png</item>
+        <item>com.threed.bowling$com.threed.bowling.Main|3D Bowling|保龄球 3D#bao_ling_qiu3d_.png</item>
+        <item>com.tencent.qqxl2$com.tencent.qqxl2.QQXLHD|QQ降龙2|QQ降龙#qq_xiang_long_2.png</item>
+        <item>net.osaris.turbofly$net.osaris.turbofly.TurboFlyHDActivity|超音速飞行|3D飞行器#feixingqi_3d.png</item>
+        <item>com.vee.project.gamehall.qicaizuma2$com.vee.project.gamehall.famous.LogoStartActivity|七彩祖玛2体感版#qicaizuma2.png</item>
         <item>性价比#xing_jia_bi.png</item>
-        <item>迅雷看看#xunleikankan.png</item>
-        <item>新华字典#xinhuazidian.png</item>
-        <item>Root Explorer#root_explprer.png</item>
-        <item>Int. Snooker#guojisinuoke.png</item>
-        <item>海卓HiAPN#haizhuo_hiapn.png</item>
+        <item>com.xunlei.kankan$com.kankan.phone.StartupActivity|迅雷看看#xunleikankan.png</item>
+        <item>hugh.android.app.zidian$hugh.android.app.common.SplashActivity|新华字典#xinhuazidian.png</item>
+        <item>com.speedsoftware.rootexplorer$com.speedsoftware.rootexplorer.RootExplorer|Root Explorer#root_explprer.png</item>
+        <item>uk.co.bigheadgames.Snooker$uk.co.bigheadgames.Snooker.Main|Int. Snooker#guojisinuoke.png</item>
+        <item>net.hidroid.hiapn$net.hidroid.hiapn.InitialActivity|HiAPN|海卓HiAPN#haizhuo_hiapn.png</item>
         <item>3D台球大师#zhuoqiu3d.png</item>
-        <item>嘻哈三国塔防#xi_ha_san_guo_shu_zhuan.png</item>
-        <item>360隐私保险箱#yinsibaoxianxiang_360.png</item>
-        <item>在身边#zaishenbianjiaoyou.png</item>
-        <item>把钱装进手机(魔术)-正式版#baqianzhuangjinshouji.png</item>
-        <item>善听听书#shanshantingshu.png</item>
-        <item>绿豆刷机神器#lvdoushuajishenqi.png</item>
-        <item>ArmySniper#jujishou.png</item>
-        <item>UC浏览器HD#ucliulanqi_hd.png</item>
+        <item>gpm.eaolnsvrc.ddgpucfnwihdrn.ivbq$com.RgNDHueaH.G|嘻哈三国塔防#xi_ha_san_guo_shu_zhuan.png</item>
+        <item>com.qihoo360.mobilesafe.strongbox$com.qihoo360.mobilesafe.strongbox.ui.EntryActivity|360隐私保险箱#yinsibaoxianxiang_360.png</item>
+        <item>com.clou.sns.android.anywhered$com.clou.sns.android.anywhered.MainActivity|在身边#zaishenbianjiaoyou.png</item>
+        <item>show.magicicon$show.magicicon.mainActivity|把钱装进手机(魔术)-正式版#baqianzhuangjinshouji.png</item>
+        <item>tiger.unfamous$com.zhangyue.ting.splash.SplashActivity|善听听书#shanshantingshu.png</item>
+        <item>pj.ishuaji$pj.ishuaji.splash.ActSplash|绿豆刷机神器#lvdoushuajishenqi.png</item>
+        <item>com.sniper.activity$com.sniper.activity.GameActivity|ArmySniper#jujishou.png</item>
+        <item>com.uc.browser.hd$com.ucweb.activity.MainActivity|UC Browser HD|UC浏览器HD#ucliulanqi_hd.png</item>
         <item>3D终极狂飙3#zhongjikuangbiao3_3d.png</item>
-        <item>智能工具箱#smarttool.png</item>
-        <item>益盟操盘手#yimengcaopanshou.png</item>
-        <item>GO 开关小部件#kaiguan_gozhuomian.png</item>
-        <item>No Root Screenshot It#wurootjieping.png</item>
-        <item>360 Panorama#quanjingpaizhao_360.png</item>
-        <item>右腦的運動會#ranshaoba_younao.png</item>
-        <item>Bridge Constructor#qiaolianggouzaozhe.png</item>
-        <item>快手下载#kuaishouxiazai.png</item>
-        <item>Dungeon Hunter 2#dilaolieren2.png</item>
-        <item>割绳子-实验室版#geshengzi2.png</item>
-        <item>卡牛信用卡管家#kaniuxinyongkaguanjia.png</item>
-        <item>ADWLauncher EX#adwqidongqi.png</item>
-        <item>现代战争2黑色飞马#xiandaizhanzheng2.png</item>
-        <item>Robo Defense#xingjifangta.png</item>
-        <item>酷音铃声#kuyinlingsheng.png</item>
-        <item>VANCL#fankechengpin.png</item>
-        <item>豆瓣阅读#doubanyuedu.png</item>
+        <item>kr.aboy.toolss$kr.aboy.tools.MsgCheck|智能工具箱#smarttool.png</item>
+        <item>cn.emoney.level2$cn.emoney.level2.CStock|EStock|益盟操盘手#yimengcaopanshou.png</item>
+        <item>com.gau.go.launcherex.gowidget.switchwidget$com.gau.go.launcherex.gowidget.framework.GoWidgetActivity|GO Switch Widget|GO 开关小部件#kaiguan_gozhuomian.png</item>
+        <item>com.edwardkim.android.screenshotitfullnoroot$com.edwardkim.android.screenshotit.activities.ScreenShotIt|No Root Screenshot It#wurootjieping.png</item>
+        <item>com.occipital.panoraaa$com.occipital.panorama.activities.CaptureActivity|360 Panorama#quanjingpaizhao_360.png</item>
+        <item>com.auer.rbsummer.zhtw$com.unity3d.player.UnityPlayerProxyActivity|右腦的運動會#ranshaoba_younao.png</item>
+        <item>com.headupgames.bridgeconstructorvht$com.prime31.UnityPlayerProxyActivity|Bridge Constructor#qiaolianggouzaozhe.png</item>
+        <item>com.kandian.hdtogoapp$com.kandian.vodapp.IndexActivity|快手下载#kuaishouxiazai.png</item>
+        <item>com.gameloft.android.TBFV.GloftD2HP.MLfwy$com.gameloft.android.TBFV.GloftD2HP.ML.installer.GameInstaller|Dungeon Hunter 2#dilaolieren2.png</item>
+        <item>com.yodo1.ctrexperiments.WANDOUJIA_01$com.yodo1.sdk.game.Yodo14GameSplashActivity|割绳子实验室版|割绳子-实验室版#geshengzi2.png</item>
+        <item>com.mymoney.sms$com.mymoney.sms.ui.SplashActivity|卡牛信用卡管家#kaniuxinyongkaguanjia.png</item>
+        <item>org.adwfreak.launcher$org.adw.launcherlib.Launcher|ADWLauncher EX#adwqidongqi.png</item>
+        <item>com.gameloft.android.GAND.GloftBPHP.ML$com.gameloft.android.GAND.GloftBPHP.ML.installer.GameInstaller|现代战争2黑色飞马#xiandaizhanzheng2.png</item>
+        <item>com.magicwach.rdefenseol$com.magicwach.rdefense.TitleActivity|Robo Defense#xingjifangta.png</item>
+        <item>com.iflytek.ringdiyclient$com.iflytek.ui.SplashActivity|酷音铃声#kuyinlingsheng.png</item>
+        <item>com.vancl.activity$com.vancl.vancl.activity.WelcomeActivity|VANCL#fankechengpin.png</item>
+        <item>com.douban.book.reader$com.douban.book.reader.activity.WelcomeActivity|豆瓣阅读#doubanyuedu.png</item>
         <item>太平洋空战1#taipingyangkongzhan_3d.png</item>
-        <item>Mr. Runner#duobixia.png</item>
-        <item>SF IV HD#jieba4sanxing.png</item>
-        <item>百思不得姐#baisibudejiejie.png</item>
-        <item>百度文库#baiduwenku.png</item>
-        <item>Jelly Defense#guodongfangta.png</item>
-        <item>新浪新闻#xinlangxinwen.png</item>
-        <item>UC影音#ucyingyin.png</item>
-        <item>玛雅谜题#mayamiti.png</item>
-        <item>SpeedCar#duomingkuangbiao.png</item>
-        <item>VPlayer#vplayer.png</item>
-        <item>和风物语#hefengwuyu.png</item>
-        <item>GTA III 10-YEAR ANNIVERSARY#xiadaolieche3.png</item>
-        <item>优听Radio#youtingradio.png</item>
+        <item>com.Az.game.mrrunner$com.Az.game.mrrunner.GameActivity|Mr. Runner#duobixia.png</item>
+        <item>jp.co.capcom.android.sf4hd$com.inject.InjectActivity|SF IV HD#jieba4sanxing.png</item>
+        <item>com.budejie.www$com.budejie.www.activity.LaucherActivity|百思不得姐#baisibudejiejie.png</item>
+        <item>com.baidu.wenku$com.baidu.wenku.ui.WelcomeActivity|百度文库#baiduwenku.png</item>
+        <item>pl.idreams.suahfutsadfuta$com.unity3d.player.UnityPlayerProxyActivity|Jelly Defense#guodongfangta.png</item>
+        <item>com.sina.news$com.sina.news.ui.PowerOnScreen|SinaNews|新浪新闻#xinlangxinwen.png</item>
+        <item>uc.ucplayer$uc.ucplayer.UcplayerEntry|UC影音#ucyingyin.png</item>
+        <item>com.yodo1.infecct$com.hg.infecct.Main|玛雅谜题#mayamiti.png</item>
+        <item>Game.NDK$Game.NDK.MyActivity|SpeedCar#duomingkuangbiao.png</item>
+        <item>me.abitno.vplayer.t$me.abitno.media.explorer.FileExplorerContainer|VPlayer#vplayer.png</item>
+        <item>com.nubee.japanlife$com.nubee.japanlife.GameActivity|Japan Life|和风物语#hefengwuyu.png</item>
+        <item>com.rockstar.gta3nd$com.rockstar.gta3.GTA3|GTA III 10-YEAR ANNIVERSARY#xiadaolieche3.png</item>
+        <item>InternetRadio.all$InternetRadio.all.Welcome|优听Radio#youtingradio.png</item>
         <item>宁静田园#gozhutiningjing.png</item>
-        <item>三国KILL#sanguokill.png</item>
-        <item> 云中书城#yunzhongshucheng.png</item>
-        <item>避孕大作战#biyuntaodazuozhan.png</item>
-        <item>招商银行#zhaoshangyinhang.png</item>
+        <item>com.gale.sanguokill.hd$com.sanguoq.android.sanguokill.SanGuoKillActivity|三国KILL#sanguokill.png</item>
+        <item>com.snda.cloudary$com.snda.cloudary.CloudaryMobile| 云中书城#yunzhongshucheng.png</item>
+        <item>com.AndPhone.game.Sperminator$com.AndPhone.game.Sperminator.CoverActivity|避孕大作战#biyuntaodazuozhan.png</item>
+        <item>cmb.pb$cmb.pb.ui.PBInitActivity|CMB|招商银行#zhaoshangyinhang.png</item>
         <item>新概念英语#xingainianyingyu.png</item>
-        <item>怪物射手#guaiwusheshou.png</item>
-        <item>灵犀(语点版)#yudianlingxiban.png</item>
-        <item>合金弹头5#hejindantou5.png</item>
-        <item>面包旅行#mianbaolvxing.png</item>
-        <item>辐射查查看#fushechachakan.png</item>
-        <item>Adobe AIR#adbeair.png</item>
-        <item>掌中天涯#zhangzhongtianya.png</item>
-        <item>手机导航#zhongguoyidongshoujidaohang.png</item>
-        <item>在身边#zaishenbianjiaoyou.png</item>
-        <item>硬件检测#antutuyingjianjiance.png</item>
-        <item>Galaxy S3/S4#galaxy_s3.png</item>
-        <item>iLightr#huolun.png</item>
-        <item>AndroZip Pro#yasuodashizhuanyeban.png</item>
-        <item>AppMgr Pro III#yingyongqudongqi.png</item>
-        <item>百度一键root#baiduyijianroot.png</item>
-        <item>SpeedCar#jingjisaiche.png</item>
-        <item>xPiano#quanjianpangangqin.png</item>
-        <item>旅游攻略#lvyougonglue.png</item>
-        <item>唐诗宋词#tangshisongci.png</item>
-        <item>悟空蹦蹦蹦#wukongbengbengtiao.png</item>
-        <item>uc卧龙吟#wolongyin.png</item>
-        <item>乐动舞指#ledongwuzhi.png</item>
+        <item>com.gamelion.MonsterShooter$com.idreamsky.gamecenter.ui.SkynetSplashActivity|怪物射手#guaiwusheshou.png</item>
+        <item>com.iflytek.viafly$com.iflytek.viafly.Home|灵犀(语点版)#yudianlingxiban.png</item>
+        <item>lsh.mslug5$lsh.mslug5.Home|合金弹头5#hejindantou5.png</item>
+        <item>com.breadtrip$com.breadtrip.view.MainActivity|面包旅行#mianbaolvxing.png</item>
+        <item>com.yskj.djp.activity$com.yskj.djp.activity.SplashActivity|辐射查查看#fushechachakan.png</item>
+        <item>com.adobe.air$com.adobe.air.AdobeAIRMainActivity|Adobe AIR#adbeair.png</item>
+        <item>cn.tianya.android$cn.tianya.android.SplashActivity|掌中天涯#zhangzhongtianya.png</item>
+        <item>com.telenav.app.android$com.telenav.app.android.TeleNavApp|Navigation|手机导航#zhongguoyidongshoujidaohang.png</item>
+        <item>com.clou.sns.android.anywhered$com.clou.sns.android.anywhered.MainActivity|在身边#zaishenbianjiaoyou.png</item>
+        <item>com.antutu.tester$com.antutu.tester.HardMainPage|AnTuTu Tester|硬件检测#antutuyingjianjiance.png</item>
+        <item>com.androidwasabi.livewallpaper.dandelion$com.androidwasabi.livewallpaper.dandelion.AppLauncher|Galaxy S3/S5|Galaxy S3/S4#galaxy_s3.png</item>
+        <item>com.ubermind.ilightr$com.ubermind.ilightr.activity.SplashActivity|iLightr#huolun.png</item>
+        <item>com.asrazpaid$com.asrazpaid.MainView|AndroZip Pro#yasuodashizhuanyeban.png</item>
+        <item>com.a0soft.gphone.app2sd$com.a0soft.gphone.app2sd.free.MainWnd|AppMgr III|AppMgr Pro III#yingyongqudongqi.png</item>
+        <item>com.baidu.easyroot$com.baidu.easyroot.SplashActivity|百度一键root#baiduyijianroot.png</item>
+        <item>Game.NDK$Game.NDK.MyActivity|SpeedCar#jingjisaiche.png</item>
+        <item>com.game.tool2.activity$com.game.tool2.activity.KKActivity|全键盘钢琴|xPiano#quanjianpangangqin.png</item>
+        <item>com.mfw.roadbook$com.mfw.roadbook.main.StartActivity|旅游攻略#lvyougonglue.png</item>
+        <item>com.screw.activity.poetry$com.screw.poetry.activity.FlickerActivity|唐诗宋词#tangshisongci.png</item>
+        <item>com.com2us.escapetheape.normal.freefull.google.global.android.common$com.com2us.escapetheape.normal.freefull.google.global.android.common.MainActivity|ETA|悟空蹦蹦蹦#wukongbengbengtiao.png</item>
+        <item>com.uqee.lying.maingameuc$com.uqee.lying.maingameuc.Wly_Uqee|uc卧龙吟#wolongyin.png</item>
+        <item>com.ledong.musicbox$com.ledong.musicbox.MainActivity|乐动舞指#ledongwuzhi.png</item>
         <item>MIUI天气#miuitianqi.png</item>
-        <item>Boss 2+#tilaoban2.png</item>
-        <item>GuerrillaBob#youjiduibaobo.png</item>
-        <item>火线指令#huoxianzhiling_guanfangban.png</item>
-        <item>地球#googlediqiu.png</item>
+        <item>com.gamehivecorp.kicktheboss2r$com.prime31.UnityPlayerProxyActivity|Boss 2+#tilaoban2.png</item>
+        <item>com.appgames.guerrillabo$com.unity3d.player.UnityPlayerActivity|GuerrillaBob#youjiduibaobo.png</item>
+        <item>com.glu.modwarsniper_91$com.glu.plugins.AUnityInstaller.UnityLauncherActivity|火线指令#huoxianzhiling_guanfangban.png</item>
+        <item>com.google.earth$com.google.earth.EarthActivity|Earth|地球#googlediqiu.png</item>
         <item>拔拔蔓陀萝#babamantuoluo.png</item>
-        <item>搜狗号码通#sougouhaomatong.png</item>
-        <item>UCam#quannengxiangji.png</item>
-        <item>砸罐子II#zaguanzi.png</item>
+        <item>com.sg.sledog$com.sogou.sledog.app.tabhost.MainTabHostActivity|搜狗号码通#sougouhaomatong.png</item>
+        <item>com.ucamera.ucamtablet$com.ucamera.ucamtablet.Camera|UCam#quannengxiangji.png</item>
+        <item>pl.idreams.kkdsfkjdsfngjdfgfhfg234vbb$com.unity3d.player.UnityPlayerActivity|砸罐子II#zaguanzi.png</item>
         <item>佐佐日历#zuozuorili.png</item>
-        <item>招商银行#zhaoshangyinhang.png</item>
-        <item>掌中天涯#zhangzhongtianya.png</item>
-        <item> 云中书城#yunzhongshucheng.png</item>
-        <item>优听Radio#youtingradio.png</item>
-        <item>操盘手L2主力版#yimengcaopanshou.png</item>
-        <item>宝贝涂涂看#baobeitutukan.png</item>
-        <item>糗事百科#qiushibaike.png</item>
-        <item>Asphalt5#dushisaiche5_hd.png</item>
-        <item>高德导航#gaodedaohan.png</item>
-        <item>电池管家#dianchiguanjia.png</item>
-        <item>路路通#lulutongshikebiao.png</item>
+        <item>cmb.pb$cmb.pb.ui.PBInitActivity|CMB|招商银行#zhaoshangyinhang.png</item>
+        <item>cn.tianya.android$cn.tianya.android.SplashActivity|掌中天涯#zhangzhongtianya.png</item>
+        <item>com.snda.cloudary$com.snda.cloudary.CloudaryMobile| 云中书城#yunzhongshucheng.png</item>
+        <item>InternetRadio.all$InternetRadio.all.Welcome|优听Radio#youtingradio.png</item>
+        <item>cn.emoney.pad$cn.emoney.pad.CStock|EStock|操盘手L2主力版#yimengcaopanshou.png</item>
+        <item>com.kunpeng.babypaintmobileer$com.kunpeng.babypaintmobile.BabyPaintAty|宝贝涂涂看#baobeitutukan.png</item>
+        <item>com.feidou.flydouqiushi$com.feidou.flydouqiushi.mainclass|糗事百科#qiushibaike.png</item>
+        <item>com.gameloft.android.GAND.GloftAsphalt5.asphalt5$com.gameloft.android.GAND.GloftAsphalt5.asphalt5.Asphalt5|Asphalt5#dushisaiche5_hd.png</item>
+        <item>com.autonavi.xmgd.navigator$com.autonavi.xmgd.navigator.Warn|AutoNavi|高德导航#gaodedaohan.png</item>
+        <item>com.tencent.powermanager$com.tencent.powermanager.ui.GuideActivity|电池管家#dianchiguanjia.png</item>
+        <item>com.lltskb.lltskb$com.lltskb.lltskb.MainLLTSkb|路路通#lulutongshikebiao.png</item>
         <item>剪贴库#cut_picture_lib.png</item>
         <item>智能备忘录#smart_note.png</item>
-        <item>央视影音#yangshiyinyin.png</item>
-        <item> 91助手 #zhushou_91.png</item>
-        <item>MC4#xindaizhanzhen.png</item>
-        <item>阅FM#yuefm.png</item>
-        <item>PP助手#ppzhushou.png</item>
-        <item>高铁管家#gaotieguanjia.png</item>
-        <item>LINE camera#line_crm.png</item>
-        <item>追书神器#zhuishushenqi.png</item>
-        <item>快读#kuaidumianfeiyuedu.png</item>
-        <item>考拉FM#kaolafm.png</item>
-        <item>豆瓣广播#doubanguangbo.png</item>
-        <item>快的打车#kuaididache.png</item>
-        <item>嘀嘀打车#dididache.png</item>
-        <item>助手贴吧#tiebazhushou.png</item>
+        <item>cn.cntv$cn.cntv.activity.LogoActivity|央视影音#yangshiyinyin.png</item>
+        <item>com.dragon.android.pandaspace$com.dragon.android.pandaspace.main.MainActivity| 91助手 #zhushou_91.png</item>
+        <item>com.gameloft.android.ANMP.GloftM4HM$com.inject.InjectActivity|MC4#xindaizhanzhen.png</item>
+        <item>fm.yue.android$fm.yue.android.activities.YueFMActivity|阅FM#yuefm.png</item>
+        <item>com.pp.assistant$com.pp.assistant.PPWelComeActivity|PP助手#ppzhushou.png</item>
+        <item>com.gtgj.view$com.gtgj.view.LaunchActivity|高铁管家#gaotieguanjia.png</item>
+        <item>jp.naver.linecamera.android$jp.naver.pick.android.camera.activity.ProxyActivity|LINE camera#line_crm.png</item>
+        <item>com.ushaqi.zhuishushenqi$com.ushaqi.zhuishushenqi.ui.SplashActivity|追书神器#zhuishushenqi.png</item>
+        <item>cn.htjyb.reader$cn.htjyb.reader.ActivityMain|快读#kuaidumianfeiyuedu.png</item>
+        <item>com.itings.myradio$com.itings.myradio.home.Act_Flash|考拉FM电台|考拉FM#kaolafm.png</item>
+        <item>com.douban.shuo$com.douban.shuo.app.WelcomeActivity|豆瓣广播#doubanguangbo.png</item>
+        <item>com.funcity.taxi.passenger$com.funcity.taxi.passenger.activity.LoadActivity|快的打车#kuaididache.png</item>
+        <item>com.sdu.didi.psnger$com.didi.frame.MainActivity|滴滴打车|嘀嘀打车#dididache.png</item>
+        <item>com.baidu.tiebaz$com.baidu.tieba.LogoActivity|助手贴吧#tiebazhushou.png</item>
         <item>Acfun#funkehuduan.png</item>
         <item>隐私空间#lbeyinsikongjian.png</item>
-        <item>车轮考驾照#chelunjiazhaokao.png</item>
-        <item>同程旅游#tongchenglvyou.png</item>
-        <item>全民飞机大战#quanminfeijidaz.png</item>
+        <item>ci.eslicks.drivimgteet$cn.eclicks.drivingtest.StartPageActivity|车轮考驾照#chelunjiazhaokao.png</item>
+        <item>com.tongcheng.android$com.tongcheng.android.LoadingActivity|同程旅游#tongchenglvyou.png</item>
+        <item>com.tencent.feiji$com.tencent.feiji.MainActivity|全民飞机大战#quanminfeijidaz.png</item>
         <item>轻松天气#qingsongtianqi.png</item>
         <item>Screen Filter#humujing.png</item>
-        <item>荔枝FM#lizhifm.png</item>
-        <item>跑步控#paobukong.png</item>
-        <item>易迅网#yixun.png</item>
-        <item>商业价值#shangyejiazhi.png</item>
-        <item>平安口袋银行#pinganyinhang.png</item>
-        <item>广发银行#guangfayinhang.png</item>
-        <item>中国银行#zhongguoyinhang.png</item>
-        <item>微可拍#weikepai.png</item>
-        <item>地铁通#ditietong.png</item>
-        <item>猎豹浏览器#liebaoliulanqi.png</item>
-        <item>浦发手机银行#pufayinhang.png</item>
-        <item>中信银行#zhongxinyinhang.png</item>
-        <item>宁波银行#nongboyinhang.png</item>
-        <item>百度日历#baidurili.png</item>
-        <item>薄荷#bohe.png</item>
-        <item>PicLab#piclab.png</item>
-        <item>TickTick#ticktick.png</item>
-        <item>2048#_2048.png</item>
-        <item>乐动力#ledongli.png</item>
-        <item>淘宝阅读#taobaoyuedu.png</item>
-        <item>旅行箱#lvxingxiang.png</item>
-        <item>美咖相机#meikaxiangji.png</item>
-        <item>LINE Brush#linebush.png</item>
-        <item>超级课程表#chaojikechengbiao.png</item>
-        <item>饭否#fanfou.png</item>
-        <item>Naver Memo#naver_memo.png</item>
-        <item>Spotify#spotify.png</item>
-        <item>Vine#vine.png</item>
-        <item>旅游攻略#lvyougonglv.png</item>
-        <item>别踩白块儿#biecaiheibaikuaier.png</item>
-        <item>找你玩#zhaoniwan.png</item>
-        <item>全民炫舞#quanminxuanwu.png</item>
-        <item>来往#laiwang.png</item>
-        <item>春雨医生#chunyuyisheng.png</item>
-        <item>17173#youxigonglue.png</item>
-        <item>Naver Calendar#navercalendar.png</item>
-        <item>Naver Music#naver_music.png</item>
+        <item>com.yibasan.lizhifm$com.yibasan.lizhifm.activities.EntryPointActivity|荔枝FM#lizhifm.png</item>
+        <item>com.active.aps.pbk$com.active.aps.pbk.activities.SplashActivity|跑步控#paobukong.png</item>
+        <item>com.icson$com.icson.portal.PortalActivity|易迅网#yixun.png</item>
+        <item>com.businessvalue.android.app$com.businessvalue.android.app.activities.BVStartPageActivity|商业价值#shangyejiazhi.png</item>
+        <item>com.pingan.pabank.activity$com.paic.pabank.activity.LoadingActivity|平安口袋银行#pinganyinhang.png</item>
+        <item>com.rytong.bankgdb$com.rytong.bankgdb.EMPView|广发银行#guangfayinhang.png</item>
+        <item>com.chinamworld.bocmbci$com.chinamworld.bocmbci.biz.GuidePageActivity|中国银行#zhongguoyinhang.png</item>
+        <item>com.weico.plus$com.weico.plus.activity.WelcomeActivity|微可拍#weikepai.png</item>
+        <item>com.tc.cm$com.tc.cm.activity.CMCoverActivity|地铁通#ditietong.png</item>
+        <item>com.ijinshan.browser_fast$com.ijinshan.browser.screen.SplashActivity|猎豹浏览器#liebaoliulanqi.png</item>
+        <item>cn.com.spdb.mobilebank.per$cn.com.spdb.mobilebank.per.Splash|浦发手机银行#pufayinhang.png</item>
+        <item>com.ecitic.bank.mobile$com.hundsun.mobile.hsbrowser.HSBrowserStartUp|中信银行#zhongxinyinhang.png</item>
+        <item>com.nbbank$com.nbbank.ui.ActivityShow|宁波银行#nongboyinhang.png</item>
+        <item>com.baidu.smartcalendar$com.baidu.smartcalendar.MainActivity|百度日历#baidurili.png</item>
+        <item>com.boohee.one$com.boohee.main.SplashActivity|薄荷#bohe.png</item>
+        <item>com.apperto.piclabappan$com.apperto.piclabapp.SplashScreenActivity|PicLab#piclab.png</item>
+        <item>com.ticktick.task$com.ticktick.task.activity.TickTickStartActivity|TickTick#ticktick.png</item>
+        <item>com.royalgame.t2048$cn.domob.android.UnityActivity|2048#_2048.png</item>
+        <item>cn.ledongli.ldl$cn.ledongli.ldl.SplashScreenActivity|乐动力|#ledongli.png</item>
+        <item>com.taobao.reader$com.taobao.reader.ui.SplashActivity|淘宝阅读#taobaoyuedu.png</item>
+        <item>com.focustech.suitcase$com.focustech.suitcase.business.load.activity.LoadActivity|旅行箱#lvxingxiang.png</item>
+        <item>com.rongcai.show$com.rongcai.show.LaunchActivity|MeCam|美咖相机#meikaxiangji.png</item>
+        <item>jp.naver.linebrush.android$jp.naver.linebrush.android.activity.MainActivity|LINE Brush#linebush.png</item>
+        <item>com.xtuone.android.syllabus$com.xtuone.android.friday.InitActivity|超级课程表#chaojikechengbiao.png</item>
+        <item>com.fanfou.app$com.fanfou.app.SplashPage|FanFou|饭否#fanfou.png</item>
+        <item>com.nhn.android.navermemo$com.nhn.android.navermemo.main.MainActivity|Naver Memo#naver_memo.png</item>
+        <item>com.spotify.mobile.android.ui$com.spotify.mobile.android.ui.activity.MainActivity|Spotify#spotify.png</item>
+        <item>co.vine.android$co.vine.android.StartActivity|Vine#vine.png</item>
+        <item>com.mfw.roadbook$com.mfw.roadbook.main.StartActivity|旅游攻略#lvyougonglv.png</item>
+        <item>com.umonistudio.tile$com.umonistudio.tile.tile|Piano Tiles|别踩白块儿#biecaiheibaikuaier.png</item>
+        <item>com.xhbn.core$com.xhbn.core.activity.MainActivity|找你玩#zhaoniwan.png</item>
+        <item>com.tencent.ttx5$com.tencent.ttx5.H3DProxyActivity|全民炫舞#quanminxuanwu.png</item>
+        <item>com.alibaba.android.babylon$com.alibaba.android.babylon.biz.InitActivity|来往#laiwang.png</item>
+        <item>me.chunyu.ChunyuDoctor$me.chunyu.ChunyuDoctor.Activities.WelcomeActivity|春雨医生#chunyuyisheng.png</item>
+        <item>com.mobile17173.game$com.mobile17173.game.GuideActivity|游戏头条|17173#youxigonglue.png</item>
+        <item>com.nhn.android.calendar$com.nhn.android.calendar.MainActivity|Naver Calendar#navercalendar.png</item>
+        <item>com.nhn.android.music$com.nhn.android.music.view.activities.MainHolderActivity|Naver Music#naver_music.png</item>
         <item>Mailbox#mailbox.png</item>
-        <item>秘密#mimia.png</item>
-        <item>Pocket#pocket1.png</item>
-        <item>自选股#zixuangu.png</item>
-        <item>Flickr#flickr.png</item>
-        <item>品酷#pinku.png</item>
-        <item>搜狗壁纸#sougoubizi.png</item>
-        <item>花瓣#huaban.png</item>
-        <item>S-peek#s_peek.png</item>
-        <item>QQ电影票#qqdianyingp.png</item>
+        <item>com.wumii.android.mimi$com.wumii.android.controller.activity.MainActivity|无秘|秘密#mimia.png</item>
+        <item>com.ideashower.readitlater.pro$com.ideashower.readitlater.activity.AppCacheCheckActivity|Pocket#pocket1.png</item>
+        <item>com.tencent.portfolio$com.tencent.portfolio.CSplashActivity|自选股#zixuangu.png</item>
+        <item>com.yahoo.mobile.client.android.flickr$com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity|Flickr#flickr.png</item>
+        <item>com.weico.brand$com.weico.brand.activity.SplashPageActivity|品酷#pinku.png</item>
+        <item>com.sogou.wallpaper$com.sogou.wallpaper.LaunchActivity|搜狗壁纸#sougoubizi.png</item>
+        <item>com.huaban.android$com.huaban.android.activity.MainActivity|花瓣#huaban.png</item>
+        <item>com.rhomobile.speek$com.rhomobile.rhodes.RhodesActivity|S-peek#s_peek.png</item>
+        <item>com.tencent.movieticket$com.tencent.movieticket.activity.QQMovieTicketActivity|QQ电影票#qqdianyingp.png</item>
+        <item>com.dolphin.browser.xf$mobi.mgeek.TunnyBrowser.MainActivity| 海豚浏览器 #haitunliulanqi.png</item>
+        <item>com.qihoo.yunpan$com.qihoo.yunpan.phone.MainProxyActivity|360云盘#yunpan_360.png</item>
+        <item>com.qihoo.video$com.qihoo.video.SplashActivity|360影视大全#yingshidaquan.png</item>
+        <item>com.jiubang.app.sports$com.jiubang.app.sports.MainScreen|3G门户体育#gmenhutiyu.png</item>
+        <item>com.sookin.cs7tlsjdxz$com.sookin.companyshow.ui.SplashActivity|7天连锁酒店下载#severntianliansuojiudian.png</item>
+        <item>com.gionee.amiweather$com.gionee.amiweather.business.activities.SplashActivity_InLauncher|AmiWeather|Ami天气#amitianqi.png</item>
+        <item>com.baiwang.instablend$com.baiwang.instablend.activity.HomeActivity|BlendPic#blendpic.png</item>
+        <item>com.threebanana.notes$com.threebanana.notes.Notes|Catch#catchnotes.png</item>
+        <item>com.cnn.mobile.android.phone$com.cnn.mobile.android.phone.ui.SplashActivity|CNN#cnn.png</item>
+        <item>com.socialnmobile.dictapps.notepad.color.note$com.socialnmobile.colornote.activity.Main|ColorNote|彩色笔记#caisebiji.png</item>
+        <item>com.ct.client$com.ct.client.SplashActivity|Ct Client|电信营业厅#dianxinyingyeting.png</item>
+        <item>com.sevendosoftday$com.sevendosoftday.activity.MainActivity|everyday#everyday.png</item>
+        <item>jp.co.toshiba.android.FlashAir$jp.co.toshiba.android.FlashAir.FSWifiActivity|FlashAir#flashair.png</item>
+        <item>com.kokozu.android$com.kokozu.ui.activity.ActivityLoading|koMovie|抠电影#koudianying.png</item>
+        <item>net.luoo.LuooFM$net.luoo.LuooFM.ui.SplashActivity|Luoo|落网#luowang.png</item>
+        <item>com.miantan.myoface$com.miantan.myoface.LoadingPageActivity|MYOTee脸萌#lianmeng.png</item>
+        <item>com.pipcamera.activity$com.pipcamera.activity.SplashScreenActivity|PIP Camera#huazhonghuaxiangji.png</item>
+        <item>com.lenovo.leos.cloud.sync$com.lenovo.leos.cloud.sync.common.activity.SplashScreenActivity|SYNCit|云服务#letongbu.png</item>
+        <item>com.qxtimes.ring$com.qxtimes.ring.SplashActivity|中国好铃声#haolingsheng.png</item>
+        <item>com.chinamworld.main$com.ccb.mbs.main.StartActivity|中国建设银行#jiansheyinhang.png</item>
+        <item>com.xdf.recite$com.xdf.recite.android.ui.activity.ActivitySplsh|乐词#leci.png</item>
+        <item>com.ss.android.article.news$com.ss.android.article.news.activity.SplashActivity|今日头条#jinritoutiao.png</item>
+        <item>com.cebbank.bankebb$com.cebbank.bankebb.LPSplashScreen|光大银行#guangdayinhang.png</item>
+        <item>sh.lilith.dgame.wdj$sh.lilith.dgame.DGame|刀塔传奇#daotachuanqi.png</item>
+        <item>com.citiccard.mobilebank$com.citicbank.creditspace.DkkjClient|动卡空间#dongkakongjian.png</item>
+        <item>tv.danmaku.bili$tv.danmaku.bili.LauncherActivity|哔哩哔哩动画#bilibili.png</item>
+        <item>com.zhuoyou.slowlife$com.zhuoyou.slowlife.ui.Welcome|慢生活#manshenghuo.png</item>
+        <item>com.easylife.weather$com.easylife.weather.main.activity.LaunchActivity|懒人天气#lanrentianqi.png</item>
+        <item>com.lakala.android$com.lakala.android.ui.SplashActivity|拉卡拉#lakala.png</item>
+        <item>com.wumii.android.mimi$com.wumii.android.controller.activity.MainActivity|无秘#wumi.png</item>
+        <item>com.gewara$com.gewara.main.CoverActivity|格瓦拉@电影#gewaladianying.png</item>
+        <item>com.sz.order$com.sz.order.activity.WelcomeActivity|爱牙#aiya.png</item>
+        <item>com.ifanr.activitys$com.ifanr.activitys.WelcomeActivity|爱范儿#ifanr.png</item>
+        <item>com.sankuai.movie$com.sankuai.movie.welcome.Welcome|猫眼电影#maoyandianying.png</item>
+        <item>cn.opda.a.phonoalbumshoushou$cn.com.opda.android.mainui.MainActivity|百度卫士#baiduweishi.png</item>
+        <item>com.baidu.navi$com.baidu.navi.NaviActivity|百度导航#baidudaohang.png</item>
+        <item>com.nuomi$com.baidu.bainuo.splash.SplashActivity|百度糯米#baidunuomi.png</item>
+        <item>com.yixia.videoeditor$com.yixia.videoeditor.ui.login.SplashActivity|秒拍#miaopai.png</item>
+        <item>ly.secret.android.china$ly.secret.android.ui.MainActivity|秘密#mimi.png</item>
+        <item>com.lzsoft.TV_Chaser$com.lzsoft.TV_Chaser.MainActivity|美剧猎人#meijulieren.png</item>
+        <item>cn.coupon.kfc$cn.coupon.kfc.activity.SplashActivity|肯德基优惠券#kendeji.png</item>
+        <item>com.umetrip.android.msky.app$com.umetrip.android.msky.activity.SplashActivity|航旅纵横#hanglvzongheng.png</item>
+        <item>com.duowan.lolbox$com.duowan.lolbox.LolBoxStartActivity|英雄联盟盒子#lolhezi.png</item>
+        <item>com.puntek.calculator$com.calc.talent.CalcActivity|超级计算器#chaojijisuanqi.png</item>
+        <item>com.fanli.android.apps$com.fanli.android.activity.SplashActivity|返利网#fanliwang.png</item>
+        <item>cn.kuaipan.android$cn.kuaipan.android.home.LogoActivity|金山快盘#jinshankuaipan.png</item>
+        <item>a5game.leidian2$a5game.leidian2.Leidian2Activity|雷霆战机2(完美版)#leitingzhanji2.png</item>
+        <item>net.icycloud.fdtodolist$net.icycloud.fdtodolist.Louncher|高效Todo#gaoxiaotodo.png</item>
+        <item>com.thestore.main$com.thestore.main.LoadingActivity|1号店#yihaodian.png</item>
+        <item>com.chaozh.iReaderFree15$com.chaozh.iReader.ui.activity.WelcomeActivity|iReader#zhangyue.png</item>
+        <item>com.miui.miuilite$com.android.launcher2.LauncherFacade|MIUI Express#xiaomixitong.png</item>
+        <item>com.nice.main$com.nice.main.activities.LaunchActivity|nice#nice.png</item>
+        <item>com.path$com.path.activities.EntryPointActivity|Path#path.png</item>
+        <item>com.readability$com.readability.activities.splash.SplashActivity|Readability#readability.png</item>
+        <item>com.sf.activity$com.sf.ui.main.LauncherActivity|SF Express#shunfengsudi.png</item>
+        <item>com.taptu.streams$com.taptu.streams.activities.MainActivity|Taptu#taptu.png</item>
+        <item>com.hustunique.tuudo$com.hustunique.tuudo.activity.InitActivity|Tuudo#tuudo.png</item>
+        <item>com.uu$com.guoling.netphone.SplashActivity|UU网络电话#uudianhua.png</item>
+        <item>com.vipercn.viper4android_v2$com.vipercn.viper4android_v2.activity.ViPER4Android|ViPER4Android FX#v4yinxiao.png</item>
+        <item>com.xiaomi.market$com.xiaomi.market.ui.MainTabActivity|Xiaomi Market|小米应用商店#xiaomiyingyongshangdian.png</item>
+        <item>com.womai$com.womai.activity.MainActivity|中粮我买网#womaiwang.png</item>
+        <item>com.magiccard.card360$com.magiccard.card360.MainActivity|信用卡360#xinyongka360.png</item>
+        <item>com.suixingpay$com.suixingpay.activity.StartActivity|信用卡特惠#xinyongkatehui.png</item>
+        <item>com.tencent.qmdgs$com.tencent.qmdgs.SRProxyActivity|全民打怪兽#quanmindaguaishou.png</item>
+        <item>com.tencent.kittypong$com.seed9.bubble.bubblebird|全民砰砰砰#quanminpengpengpeng.png</item>
+        <item>com.tencent.myelf$com.tencent.myelf.MainActivity|全民精灵#quanminjingling.png</item>
+        <item>com.android.bankabc$com.android.bankabc.LPSplashScreen|农行掌上银行#nongyeyinhang.png</item>
+        <item>com.culiu.tenwords$com.culiu.tenwords.ui.SplashActivity|十句话#shijuhua.png</item>
+        <item>net.coollet.infzmreader$net.coollet.infzmreader.ViewPaperActivity|南方周末#nanfangzhoumou.png</item>
+        <item>com.achievo.vipshop$com.achievo.vipshop.activity.LodingActivity|唯品会#weipinhui.png</item>
+        <item>net.oicp.anya.crossword$net.oicp.anya.crossword.SplashScreen|填字游戏#tianziyouxi.png</item>
+        <item>com.tencent.ttpic$com.tencent.ttpic.module.MainActivity|天天P图#tiantianptu.png</item>
+        <item>com.tencent.lian$com.tencent.lian.MiniGame|天天星连萌#tiantianxinglianmeng.png</item>
+        <item>com.tencent.game.VXDGame$com.tencent.game.VXDGame.VXDGame|天天炫斗#tiantianxuandou.png</item>
+        <item>com.tencent.pao$com.tencent.pao.BreezeGame|天天酷跑#tiantiankupao.png</item>
+        <item>com.cn21.android.news$com.cn21.android.news.activity.StartActivity|头版#touban.png</item>
+        <item>com.liveaa.education$com.liveaa.education.SplashActivity|学习宝#xuexibao.png</item>
+        <item>com.xiaobanlong.main$com.xiaobanlong.main.Xiaobanlong|小伴龙#xiaobanlong.png</item>
+        <item>net.discuz.emuch$net.discuz.emuch.activity.SplashActivity|小木虫#xiaomuchong.png</item>
+        <item>com.xiaoji.emulator$com.xiaoji.emulator.Entry|小鸡模拟器#xiaojimoniqi.png</item>
+        <item>cn.ibuka.manga.ui$cn.ibuka.manga.ui.ActivityStartup|布卡漫画#bukamanhua.png</item>
+        <item>com.pingan.wanlitong$com.pingan.wanlitong.activity.welcome.WelcomeActivityNew|平安万里通#wanlitong.png</item>
+        <item>com.pingan.life$com.pingan.life.activity.SplashActivity|平安生活#pinganshenghuo.png</item>
+        <item>com.ntes.vemento$com.ntes.vemento.biz.main.MainActivity|微镜头#weijingtou.png</item>
+        <item>com.netease.rz.wdj$com.netease.rz.wdj.webview.AndroidPlugin|忍者必须死2#renzhebixusi2.png</item>
+        <item>com.cmbchina.ccd.pluto.cmbActivity$com.cmbchina.ccd.pluto.cmbActivity.SplashActivity|掌上生活#zhangshangshenghuo.png</item>
+        <item>com.soufun.app$com.soufun.app.activity.MainSplashActivity|搜房网#soufangwang.png</item>
+        <item>cn.com.sina.sports$cn.com.sina.sports.app.LoadingActivity|新浪体育#xinlangtiyu.png</item>
+        <item>com.neweggcn.app$com.neweggcn.app.MainActivity|新蛋商城#xindanshangcheng.png</item>
+        <item>com.mygolbs.mybus$com.mygolbs.mybus.LoginActivity|无线城市掌上公交#zhangshanggongjiao.png</item>
+        <item>com.storm.smart$com.storm.smart.LogoActivity|暴风影音#baofengyingyin.png</item>
+        <item>cn.com.cmbc.mbank$cn.com.cmbc.mbank.MainActivity|民生银行#minshengyinhang.png</item>
+        <item>xxt.com.cn.ui$xxt.com.cn.ui.welcome.Welcome|沃行讯通#woxingxuntong.png</item>
+        <item>com.taobao.trip$com.ali.trip.ui.MainActivity|淘宝旅行#taobaolvxing.png</item>
+        <item>com.taobao.mobile.dipei$com.taobao.ecoupon.activity.SplashActivity|淘点点#taodiandian.png</item>
+        <item>com.fenbi.android.kyzz$com.fenbi.android.kyzz.activity.portal.WelcomeActivity|猿题库考研#yuantiku.png</item>
+        <item>me.iweek.rili$me.iweek.rili.WelcomeActivity|生活日历#shenghuorili.png</item>
+        <item>com.liba.android.meet$com.liba.android.meet.LaunchActivity|生活纪录片#shenghuojilupian.png</item>
+        <item>android.zhibo8$android.zhibo8.ui.LaunchActivity_|直播吧#zhiboba.png</item>
+        <item>com.netease.mkey$com.netease.mkey.ui.SplashActivity|网易将军令#wangyijiangjunling.png</item>
+        <item>com.netease.caipiao$com.netease.caipiao.common.activities.SplashActivity|网易彩票#wangyicaipiao.png</item>
+        <item>com.youdao.dict$com.youdao.dict.activity.DictSplashActivity|网易有道词典#youdaocidian.png</item>
+        <item>com.netease.railwayticket$com.netease.railwayticket.activity.SplashActivity|网易火车票#wangyihuochepiao.png</item>
+        <item>com.netease.movie$com.netease.movie.activities.SplashActivity|网易电影票#wangyidianyingpiao.png</item>
+        <item>com.xunlei.cloud$com.xunlei.cloud.LoadingActivity|迅雷影音#xunleiyingyin</item>
+        <item>com.xunlei.share$com.xunlei.share.LoadingActivity|迅雷离线#xunleilixian.png</item>
+        <item>com.mydrivers.newsclient$com.mydrivers.newsclient.ui.LogoActivity|驱家新闻#qujiaxinwen.png</item>
     </string-array>
     <string-array name="package_class">
         <item>com.sec.android.app.camera$com.sec.android.app.camera.Camera#camera.png</item>
@@ -994,7 +1101,7 @@
         <item>com.android.contacts$com.android.contacts.activities.AuroraPeopleActivity#contacts.png</item>
         <item>com.android.contacts$com.android.contacts.activities.DialtactsActivity|com.android.contacts$com.android.contacts.activities.AuroraDialActivity#phone.png</item>
         <item>com.baidu.BaiduMap$com.baidu.baidumaps.WelcomeScreen#baidu_map.png</item>
-        <item>com.android.vending$com.android.vending.AssetBrowserActivity#google_play.png</item>
+        <item>com.android.vending$com.android.vending.AssetBrowserActivity#google_play|Play 商店.png</item>
         <item>com.tencent.qqgame$com.tencent.qqgame.client.QQGameHallActivity#qq_gamehall.png</item>
         <item>com.androidesk$com.androidesk.Androidesk#android_wallpaper.png</item>
         <item>cn.opda.a.phonoalbumshoushou$cn.com.opda.android.mainui.MainActivity#android_youhua.png</item>
