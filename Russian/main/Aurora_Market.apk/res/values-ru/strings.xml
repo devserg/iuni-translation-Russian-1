@@ -82,7 +82,7 @@
     <string name="version_update_pref">Версия обновления</string>
     <string name="update_settings_pref">Параметры обновления</string>
     <string name="wifi_download_pref">Загрузка только по Wi-Fi</string>
-    <string name="none_download_pic_pref">Не загружать изображения по 2G/3Gstring>
+    <string name="none_download_pic_pref">Не загружать изображения по 2G/3G</string>
     <string name="app_update_page">Применение обновлений</string>
     <string name="available_update_number">Обновление(%1$d)</string>
     <string name="app_update_settings">Параметры обновления</string>
