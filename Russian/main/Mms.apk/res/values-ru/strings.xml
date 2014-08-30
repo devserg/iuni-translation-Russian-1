@@ -31,7 +31,7 @@
     <string name="aurora_saving_error">Произошла ошибка при сохранении</string>
     <string name="aurora_saving_finished">Завершено</string>
     <string name="aurora_storage_unavailable">Недостаточно места для сохранения</string>
-    <string name="copyto_phone_done">Изображения были сохранены в \"sdcard/DCIM/mms\" файл</string>
+    <string name="aurora_image_saved">Изображения были сохранены в \"sdcard/DCIM/mms\" файл</string>
     <string name="aurora_video_saved">Видеофайлы были сохранены в \"sdcard/DCIM/mms\" файл</string>
     <string name="aurora_other_saved">Аудиофайлы были сохранены в \"sdcard/Download\" файл</string>
     <string name="gn_send_msg_sending">Отправка...</string>
@@ -471,6 +471,7 @@
     <string name="aurora_operator_ct">China Telecom</string>
     <string name="aurora_sms_center_modify">Изменить</string>
     <string name="aurora_sms_center_tip">SSCN</string>
+    <string name="aurora_msg_ops_tip">Более 100 сообщений</string>
     <string name="gn_unsuport_file_format">Формат файла не поддерживается</string>
     <string name="app_label">Сообщения</string>
     <string name="new_message">Новое сообщение</string>
@@ -621,7 +622,7 @@
     <string name="pref_summary_mms_auto_retrieval">Автозагрузка MMS сообщений</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Автозагрузка MMS сообщений в роуминге</string>
-    <string name="to_label">"Кому "</string>
+    <string name="confirm_dialog_title">Удалить</string>
     <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
     <string name="confirm_delete_conversation">Удалить весь диалог?</string>
     <string name="confirm_delete_all_conversations">Удалить все диалоги?</string>
@@ -1027,4 +1028,5 @@
     <string name="progress_mms">Сообщение: отправка MMS...</string>
     <string name="progress_mms_text ">Нажмите, чтобы повторить попытку еще раз</string>
     <string name="confirm_delete_selected_SIM_message">Выбранные сообщения в SIM-карте будут удалены</string>
+    <string name="confirm_delete_selected_conversations">Выбранные сообщения будут удалены.</string>
 </resources>
