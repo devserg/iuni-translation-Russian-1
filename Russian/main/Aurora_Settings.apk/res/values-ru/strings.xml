@@ -1032,6 +1032,7 @@
     <string name="wifi_p2p_menu_searching">Поиск…</string>
     <string name="wifi_p2p_menu_rename">Переименовать</string>
     <string name="wifi_p2p_peer_devices">Устройства сети</string>
+    <string name="wifi_p2p_remembered_groups">Сохраненные группы</string>
     <string name="wifi_p2p_failed_connect_message">Невозможно соединиться</string>
     <string name="wifi_p2p_failed_rename_message">Ошибка переименовывания устройства</string>
     <string name="wifi_p2p_disconnect_title">Отключиться?</string>

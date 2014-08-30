@@ -28,4 +28,6 @@
     <string name="aurora_mark_3">Агент</string>
     <string name="aurora_mark_4">Курьер</string>
     <string name="aurora_mark_5">Мошенник</string>
+    <string name="aurora_service_number">Сервисный номер</string>
+    <string name="aurora_local_number">местный номер</string>
 </resources>
