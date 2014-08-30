@@ -29,7 +29,7 @@
         <item>Подмигиваю</item>
         <item>Показываю язык</item>
         <item>Удивляюсь</item>
-        <item>Поцелуи</item>
+        <item>Целую</item>
         <item>Кричу</item>
         <item>Классно</item>
         <item>Money mouth</item>
@@ -47,25 +47,25 @@
         <item>Без эмоций</item>
     </string-array>
     <string-array name="default_quick_texts">
-        <item>Where are you?</item>
-        <item>What are you doing?</item>
-        <item>Call back!Please!</item>
-        <item>Sorry, I have a meeting now.</item>
-        <item>Call you soon.</item>
-        <item>"Don't worry!I'm fine."</item>
-        <item>On my way home.</item>
-        <item>Arrive soon.</item>
-        <item>Be there or be square!</item>
+        <item>Где ты?</item>
+        <item>Чем вы занимаетесь?</item>
+        <item>Перезвони мне! Пожалуйста!</item>
+        <item>К сожалению у меня сейчас встреча.</item>
+        <item>Скоро вам позвоню.</item>
+        <item>"Не переживай! Все хорошо."</item>
+        <item>На пути домой.</item>
+        <item>Скоро прибытие.</item>
+        <item>Буду там или в том квартале!</item>
     </string-array>
     <string-array name="pref_mms_creation_mode_choices">
-        <item>Restricted mode</item>
-        <item>Warning mode</item>
-        <item>Free mode</item>
+        <item>Режим ограничения</item>
+        <item>Режим продупреждения</item>
+        <item>Свободный режим</item>
     </string-array>
     <string-array name="pref_mms_creation_mode_values">
-        <item>RESTRICTED</item>
-        <item>WARNING</item>
-        <item>FREE</item>
+        <item>ОГРАНИЧЕНИЕ</item>
+        <item>ПРЕДУПРЕЖДЕНИЕ</item>
+        <item>СВОБОДНО</item>
     </string-array>
     <string-array name="pref_mms_size_limit_choices">
         <item>100K</item>
