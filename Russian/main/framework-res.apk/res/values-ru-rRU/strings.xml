@@ -729,7 +729,7 @@
     <string name="keyguard_password_enter_puk_code">Введите PUK код и новый PIN код</string>
     <string name="keyguard_password_enter_puk_prompt">PUK код</string>
     <string name="keyguard_password_enter_pin_prompt">Новый PIN код</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Ввести пароль</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">Ввести пароль</font></string>
     <string name="keyguard_password_enter_password_code">Введите пароль для разблокировки</string>
     <string name="keyguard_password_enter_pin_password_code">Введите PIN код для разблокировки</string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN код!</string>
