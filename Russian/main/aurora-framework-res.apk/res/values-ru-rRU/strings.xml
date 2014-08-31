@@ -43,8 +43,8 @@
     <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отсоединением.</string>
     <string name="ext_media_safe_unmount_notification_title">%s можно отсоединить</string>
     <string name="ext_media_safe_unmount_notification_message">Отсоедините %s.</string>
-    <string name="ext_media_nomedia_notification_title">%s тсоединен</string>
-    <string name="ext_media_nomedia_notification_message">%s тсоединен.</string>
+    <string name="ext_media_nomedia_notification_title">%s отсоединен</string>
+    <string name="ext_media_nomedia_notification_message">%s отсоединен.</string>
     <string name="usb_storage_notification_title">USB накопитель подключен</string>
     <string name="usb_storage_notification_message">Выберите для копирования файлов на/с компьютера.</string>
     <string name="usb_storage_stop_title">USB накопитель используется</string>
@@ -98,6 +98,6 @@
     <string name="aurora_time_picker_hour_lebel">Ч</string>
     <string name="aurora_time_picker_m_label">М</string>
     <string name="aurora_activity_resolver_use_always">Всегда</string>
-    <string name="aurora_activity_resolver_use_once">Только один раз</string>
+    <string name="aurora_activity_resolver_use_once">Только сейчас</string>
     <string name="aurora_custom_action_bar_search_hint_text">Вход</string>
 </resources>
