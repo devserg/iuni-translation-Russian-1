@@ -275,8 +275,8 @@
     <string name="make_available_offline">Сделать доступным в автономном режиме</string>
     <string name="sync_picasa_albums">Обновить</string>
     <string name="done">Готово</string>
-    <string name="sequence_in_set">%1$d из %2$d элементы:</string>
-    <string name="title">Название</string>
+    <string name="sequence_in_set">%1$d из %2$d элементов:</string>
+    <string name="title">Имя</string>
     <string name="description">Описание</string>
     <string name="time">Дата съемки</string>
     <string name="location">Местоположение</string>
