@@ -6,17 +6,17 @@
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d выбранные</item>
-        <item quantity="zero">%1$d выбранно</item>
+        <item quantity="zero">%1$d выбрано</item>
         <item quantity="one">%1$d выбран</item>
     </plurals>
     <plurals name="number_of_albums_selected">
         <item quantity="other">%1$d выбранные</item>
-        <item quantity="zero">%1$d выбранно</item>
+        <item quantity="zero">%1$d выбрано</item>
         <item quantity="one">%1$d выбран</item>
     </plurals>
     <plurals name="number_of_groups_selected">
         <item quantity="other">%1$d выбранные</item>
-        <item quantity="zero">%1$d выбранно</item>
+        <item quantity="zero">%1$d выбрано</item>
         <item quantity="one">%1$d выбран</item>
     </plurals>
     <plurals name="make_albums_available_offline">
