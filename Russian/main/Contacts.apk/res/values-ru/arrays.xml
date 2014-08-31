@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="gn_entries_list_photo_options">
-        <item>Default</item>
-        <item>Hide</item>
+        <item>По умолчанию</item>
+        <item>Скрыть</item>
     </string-array>
     <string-array name="gn_entryvalues_list_photo_options">
         <item>4</item>
         <item>2</item>
     </string-array>
     <string-array name="gn_entries_list_photo_options_v2">
-        <item>Colorful</item>
-        <item>Default</item>
-        <item>Hide</item>
+        <item>Полноцветные</item>
+        <item>По умолчанию</item>
+        <item>Скрыть</item>
     </string-array>
     <string-array name="gn_entryvalues_list_photo_options_v2">
         <item>1</item>
@@ -19,24 +19,24 @@
         <item>2</item>
     </string-array>
     <string-array name="gn_entries_listitem_onclick_options">
-        <item>Show detail</item>
-        <item>Dail directly</item>
+        <item>Показать детали</item>
+        <item>Позвонить</item>
     </string-array>
     <string-array name="gn_entryvalues_listitem_onclick_options">
         <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="gn_call_log_type">
-        <item>All calls</item>
-        <item>Outgoing calls</item>
-        <item>Received calls</item>
-        <item>Missed calls</item>
+        <item>Все звонки</item>
+        <item>Исходящие</item>
+        <item>Входящие</item>
+        <item>Пропущенные</item>
     </string-array>
     <string-array name="gn_call_log_type_empty">
-        <item>No calls</item>
-        <item>No Outgoing</item>
-        <item>NO Received</item>
-        <item>No Missed</item>
+        <item>Нет вызовов</item>
+        <item>Нет исходящих</item>
+        <item>Нет входящих</item>
+        <item>Нет пропущенных</item>
     </string-array>
     <string-array name="gn_gionee_number">
         <item>4007796666</item>
@@ -107,7 +107,7 @@
         <item>Я</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Organization</item>
-        <item>Note</item>
+        <item>Организация</item>
+        <item>Заметка</item>
     </string-array>
 </resources>
