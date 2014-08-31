@@ -78,10 +78,10 @@
     </string-array>
     <array name="extra_wallpapers" />
     <string-array name="custom_menu_items">
-        <item>Add Widget</item>
-        <item>Wallpaper</item>
-        <item>Align Icons</item>
-        <item>Settings</item>
+        <item>Добавить виджет</item>
+        <item>Обои</item>
+        <item>Выровнить иконки</item>
+        <item>Настройки системы</item>
     </string-array>
     <string-array name="wallpapers">
         <item>wallpaper_01</item>
