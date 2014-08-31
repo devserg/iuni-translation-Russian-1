@@ -86,7 +86,7 @@
     <string name="app_update_page">Применение обновлений</string>
     <string name="available_update_number">Обновление(%1$d)</string>
     <string name="app_update_settings">Параметры обновления</string>
-    <string name="update_by_one_key">Обновления одним кликом</string>
+    <string name="update_by_one_key">Обновить</string>
     <string name="test_app_name">Tencent QQ</string>
     <string name="test_app_version">1.0.5->1.1.5</string>
     <string name="test_app_size">13.8MB</string>
@@ -132,8 +132,8 @@
     <string name="downloadman_wait_wifi">Ожидание WI-FI cети</string>
     <string name="downloadman_no_network">Нет сети</string>
     <string name="downloadman_show_more">Развернуть все</string>
-    <string name="downloadman_nodata">Нет задачи загрузки</string>
-    <string name="downloadman_go_shopping">Перейти</string>
+    <string name="downloadman_nodata">Нет задач загрузки</string>
+    <string name="downloadman_go_shopping">На главную</string>
     <string name="downloadman_select_all">Выбрать все</string>
     <string name="downloadman_reverse_selection">Не выбрано</string>
     <string name="downloadman_dlg_delete_confirm">Подтверждение удаления</string>
@@ -154,7 +154,7 @@
     <string name="notification_status_update">Обновляемый</string>
     <string name="notification_status_dis_update">Обновление приложения...</string>
     <string name="notification_status_click_dis">Нажмите для просмотра</string>
-    <string name="notification_status_click_update">Обновления одним кликом</string>
+    <string name="notification_status_click_update">Обновить</string>
     <string name="notification_status_dis_auto_upate">Автоматически обновить %1$d приложений</string>
     <string name="search_result_page">Результаты поиска</string>
     <string name="search_page_submit">Поиск</string>
