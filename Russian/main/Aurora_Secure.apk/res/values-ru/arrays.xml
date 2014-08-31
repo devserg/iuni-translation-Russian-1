@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="choice_sort_way_list">
-        <item>sort by cache size</item>
-        <item>sort by app size</item>
+        <item>По размеру кэша</item>
+        <item>По размеру приложения</item>
     </string-array>
     <string-array name="all_app_choice_sort_way_list">
-        <item>user app</item>
-        <item>system app</item>
-        <item>system grounp</item>
+        <item>пользовательские</item>
+        <item>системные</item>
+        <item>системные группы</item>
     </string-array>
 </resources>

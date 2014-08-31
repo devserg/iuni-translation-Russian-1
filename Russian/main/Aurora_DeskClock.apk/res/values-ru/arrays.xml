@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="daysChinese">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
     <string-array name="daysEnglish">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
     </string-array>
     <string-array name="monthsEnglish">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
     </string-array>
     <string-array name="themonthday">
         <item>st</item>
@@ -49,22 +49,22 @@
         <item>30</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Ring in less than one minute</item>
-        <item>Ring after %1$s</item>
-        <item>Ring after %2$s</item>
-        <item>Ring after %1$s%2$s</item>
-        <item>Ring after %3$s</item>
-        <item>Ring after %1$s%3$s</item>
-        <item>Ring after %2$s%3$s</item>
-        <item>Ring after %1$s%2$s%3$s</item>
+        <item>Прозвонит ренее 1 минуты</item>
+        <item>Прозвонит через %1$s</item>
+        <item>Прозвонит через %2$s</item>
+        <item>Прозвонит через %1$s%2$s</item>
+        <item>Прозвонит через %3$s</item>
+        <item>Прозвонит через %1$s%3$s</item>
+        <item>Прозвонит через %2$s%3$s</item>
+        <item>Прозвонит через %1$s%2$s%3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>5 Minutes</item>
-        <item>10 Minutes</item>
-        <item>15 Minutes</item>
-        <item>20 Minutes</item>
-        <item>25 Minutes</item>
-        <item>30 Minutes</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="snooze_duration_values">
         <item>5</item>
@@ -75,19 +75,19 @@
         <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Off</item>
-        <item>1 Minute</item>
-        <item>5 Minutes</item>
-        <item>10 Minutes</item>
-        <item>15 Minutes</item>
-        <item>20 Minutes</item>
-        <item>25 Minutes</item>
-        <item>30 Minutes</item>
+        <item>Выкл</item>
+        <item>1 минуту</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>None</item>
-        <item>Pause</item>
-        <item>Off</item>
+        <item>Нет</item>
+        <item>Пауза</item>
+        <item>Выкл</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
@@ -95,12 +95,12 @@
         <item>2</item>
     </string-array>
     <string-array name="weeked">
-        <item>Su</item>
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>Th</item>
-        <item>F</item>
-        <item>S</item>
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
 </resources>

@@ -21,7 +21,7 @@
     <string name="aurora_divier_line">divier line</string>
     <string name="aurora_actionbar_image_button_content">Кнопка actionbar</string>
     <string name="aurora_add">Добавить</string>
-    <string name="aurora_action_bar_ok_btn">Подтвердь</string>
+    <string name="aurora_action_bar_ok_btn">Подтвердить</string>
     <string name="aurora_action_bar_cancel_btn">Отмена</string>
     <string name="empty" />
     <string name="aurora_action_bar_select_all_btn">Выбрать все</string>
