@@ -767,7 +767,7 @@
     <string name="Insert_sdcard">Вставьте SD-карту!</string>
     <string name="pref_title_mms_enable_to_send_delivery_reports">Отчеты о доставке</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Запрос отчета о доставке для каждого отправляемого сообщения</string>
-    <string name="set_service_center_ОК">SMS центра выбран</string>
+    <string name="set_service_center_OK">SMS центра выбран</string>
     <string name="set_service_center_fail">ошибка при выборе SMS центра</string>
     <string name="OK">ОК</string>
     <string name="Cancel">Отмена</string>
