@@ -81,7 +81,7 @@
     <string name="no_lyric">Текст песни не найден</string>
     <string name="new_songlist">Новый плейлист</string>
     <string name="songlist_cancel">Отмена</string>
-    <string name="songlist_ok">OK</string>
+    <string name="songlist_ok">ОК</string>
     <string name="playlist_songs">Музыка</string>
     <string name="playlist_artist">Исполнители</string>
     <string name="playlist_files">Папки</string>
@@ -103,7 +103,7 @@
     <string name="action_titlenum">1</string>
     <string name="delete">Удалить</string>
     <string name="deleteMessage">Удалить выбранные %s треки?</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="search_hint_input">Поиск песни или исполнителя</string>
     <string name="search_hint_input2">Поиск песни, исполнителя и альбома</string>
     <string name="search_hint_input3">Поиск песни</string>
@@ -153,7 +153,7 @@
     <string name="delete_album_desc_nosdcard">Удалить все альбомы %s с USB накопителя?</string>
     <string name="delete_song_desc">Удалить %s с SD-карты?</string>
     <string name="delete_song_desc_nosdcard">Удалить %s с USB накопителя?</string>
-    <string name="delete_confirm_button_text">OK</string>
+    <string name="delete_confirm_button_text">ОК</string>
     <string name="scanning">Сканирование SD карты...</string>
     <string name="scanning_nosdcard">Сканирование USB накопителя...</string>
     <string name="nowplaying_title">Сейчас играет</string>
@@ -213,7 +213,7 @@
     <string name="create_playlist_overwrite_text">Перезаписать</string>
     <string name="service_start_error_title">Ошибка воспроизведения</string>
     <string name="service_start_error_msg">Невозможно воспроизвести этот файл.</string>
-    <string name="service_start_error_button">OK</string>
+    <string name="service_start_error_button">ОК</string>
     <string name="weekpicker_set">Готово</string>
     <string name="weekpicker_title">Установить время</string>
     <string name="save_as_playlist">Сохранить как плейлист</string>

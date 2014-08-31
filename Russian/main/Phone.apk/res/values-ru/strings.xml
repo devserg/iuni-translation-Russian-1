@@ -29,7 +29,7 @@
     <string name="callFailed_unobtainable_number">Неправильный номер</string>
     <string name="confCall">Конференц-вызов</string>
     <string name="call_lost">Вызов был утрачен</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="mmiStarted">Выполняется запрос…</string>
     <string name="ussdRunning">Выполняется USSD запрос…</string>
     <string name="mmiCancelled">Запрос отменен</string>
@@ -109,7 +109,7 @@
     <string name="exception_error">Ошибка сети или SIM-карты</string>
     <string name="fdn_check_failure">Фиксированный набор телефонного номера включен. Как результат, некоторые смежные функции не работают.</string>
     <string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио</string>
-    <string name="close_dialog">OK</string>
+    <string name="close_dialog">ОК</string>
     <string name="enable">Включить</string>
     <string name="disable">Отключить</string>
     <string name="change_num">Обновить</string>
@@ -478,7 +478,7 @@
     <string name="sip_menu_save">Сохранить</string>
     <string name="sip_menu_discard">Отменить</string>
     <string name="alert_dialog_close">Закройте профиль</string>
-    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_ok">ОК</string>
     <string name="close_profile">Закрыть</string>
     <string name="primary_account_summary_with">Основной аккаунт %s</string>
     <string name="registration_status_checking_status">Проверка состояния…</string>

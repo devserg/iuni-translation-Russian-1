@@ -73,7 +73,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="play_error_file_not_exist">Файла не существует</string>
     <string name="delete_confirm_title">Удалить напоминание</string>
     <string name="delete_confirm_message">Удалить напоминание заметки?</string>
-    <string name="delete_confirm_ok_btn">OK</string>
+    <string name="delete_confirm_ok_btn">ОК</string>
     <string name="delete_confirm_cancel_btn">Отмена</string>
     <string name="share_sina_weibo_title">Поделиться в Sina Weibo</string>
     <string name="share_sina_weibo_right_menu_item">Отправить</string>
@@ -120,7 +120,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="pull_to_rerefresh">Потяните, для обновления</string>
     <string name="enter_note_hit">Введите заметку</string>
     <string name="cancel">Отмена</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="delete_reminder">Удалить напоминание</string>
     <string name="search_by_label">Просмотр по тегам</string>
     <string name="note_label_separate">,</string>

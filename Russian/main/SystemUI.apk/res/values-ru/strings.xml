@@ -86,7 +86,7 @@
     <string name="builtin_installer_always_allowed">"Не показывать в следующий раз"</string>
     <string name="dlg_no">НЕТ</string>
     <string name="dlg_yes">ДА</string>
-    <string name="OK">OK</string>
+    <string name="OK">ОК</string>
     <string name="application_guide_title">﻿Переключиться на SIM-карту по умолчанию</string>
     <string name="application_guide_content">Slide down notification list to switch to default SIM card</string>
     <string name="data_usage">Data usage</string>
@@ -302,7 +302,7 @@
     <string name="zzzzz_mount_sdcard_dialog_title">Please do not unplug the usb cable now, may cause error to the sd card！Before turning off USB storage, make sure you have unmounted (“ejected”) your Android‘s USB storage from your computer!</string>
     <string name="zzzzz_dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
     <string name="zzzzz_cancel">Cancel</string>
-    <string name="zzzzz_dlg_ok">OK</string>
+    <string name="zzzzz_dlg_ok">ОК</string>
     <string name="zzzzz_dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
     <string name="zzzzz_usb_storage_error_message">There is a problem using your SD card for USB mass storage.</string>
     <string name="zzzzz_dlg_error_title">USB operation failed</string>

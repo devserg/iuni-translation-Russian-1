@@ -17,7 +17,7 @@
     <string name="external_drop_widget_pick_title">Выберите виджет для создания</string>
     <string name="rename_folder_label">Имя папки</string>
     <string name="rename_folder_title">Переименовать папку</string>
-    <string name="rename_action">OK</string>
+    <string name="rename_action">ОК</string>
     <string name="cancel_action">Отмена</string>
     <string name="menu_item_add_item">Добавить на главный экран</string>
     <string name="group_applications">Приложения</string>
@@ -84,7 +84,7 @@
     <string name="folder_cling_title">Упорядочить приложения с папками</string>
     <string name="folder_cling_move_item">Для перемещения приложения нажмите и удерживайте его.</string>
     <string name="folder_cling_create_folder">Для создания новой папки на домашнем экране разместите одно приложение поверх другого.</string>
-    <string name="cling_dismiss">OK</string>
+    <string name="cling_dismiss">ОК</string>
     <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
     <string name="folder_opened">Папка открыта, %1$d по %2$d</string>
     <string name="folder_tap_to_close">Нажмите для закрытия папки</string>

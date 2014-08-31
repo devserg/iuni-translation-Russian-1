@@ -10,7 +10,7 @@
     <string name="httpErrorBadUrl">Невозможно открыть страницу, неверная ссылка.</string>
     <string name="httpErrorUnsupportedScheme">Протокол не поддерживается.</string>
     <string name="no">Отмена</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="paste">" Вставить "</string>
     <string name="search_go">Поиск</string>
     <string name="selectAll">" Выбрать все "</string>
@@ -1069,7 +1069,7 @@
     <string name="dlg_confirm_kill_storage_users_title">Включение USB накопителя</string>
     <string name="dlg_confirm_kill_storage_users_text">При включении USB накопителя некоторые используемые приложения могут прекратить работу и оставаться недоступными до отключения USB накопителя.</string>
     <string name="dlg_error_title">Ошибка при подключении USB</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">ОК</string>
     <string name="usb_mtp_notification_title">Подключен как устройство хранения данных</string>
     <string name="usb_ptp_notification_title">Подключен как камера</string>
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>

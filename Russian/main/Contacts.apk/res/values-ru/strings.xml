@@ -473,7 +473,7 @@ Please wait..."</string>
     <string name="bluetooth_device_pbap_import_error">import error</string>
     <string name="bluetooth_pbap_importing_title">Импорт </string>
     <string name="bluetooth_device_pbap_connect_title">Connectting...</string>
-    <string name="bluetooth_device_pbap_connect_message">Connecting and read contacts, you may need another phone OK.</string>
+    <string name="bluetooth_device_pbap_connect_message">Connecting and read contacts, you may need another phone ОК.</string>
     <string name="bluetooth_device_pair_title">pairing...</string>
     <string name="bluetooth_device_pair_message">Being paired device, May need another pair and agree on a mobile phone.</string>
     <string name="bluetooth_pbap_import_im">import contacts immediately</string>

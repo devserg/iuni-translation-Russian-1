@@ -44,7 +44,7 @@
     <string name="file_info_canread">Для чтения:</string>
     <string name="file_info_canwrite">Для записи:</string>
     <string name="file_info_ishidden">Скрытый:</string>
-    <string name="confirm_know">OK</string>
+    <string name="confirm_know">ОК</string>
     <string name="file_size">%d байт</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
@@ -67,7 +67,7 @@
     <string name="operation_delete_mix_confirm_messagess">Удалить выбранные %1$d файлы и %2$d папки?</string>
     <string name="operation_delete_mix_confirm_message_s">Удалить выбранный %1$d файл и %2$d папки?</string>
     <string name="operation_delete_mix_confirm_messages_s">Удалить выбранные %1$d файлы и %2$d папку?</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="cancel">Отмена</string>
     <string name="aurora_file_name_tint">Введите правильное имя файла</string>
     <string name="invalid_char_prompt">Введен недопустимый символ</string>

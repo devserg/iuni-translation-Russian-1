@@ -18,7 +18,7 @@
     <string name="no_select_all">Отменить выделение</string>
     <string name="confirm_dialog_title">Быстрое удаление</string>
     <string name="confirm_delete_selected_message">Вы уверены, что хотите удалить выбранное изображение?</string>
-    <string name="confirm_ok">OK</string>
+    <string name="confirm_ok">ОК</string>
     <string name="confirm_cancel">Отмена</string>
     <string name="wallpaper_is_deleting">Удаление...</string>
     <string name="delete_success">Успешное удаление</string>

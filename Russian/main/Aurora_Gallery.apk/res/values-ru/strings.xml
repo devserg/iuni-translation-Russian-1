@@ -117,7 +117,7 @@
     <string name="color_pick_select">Выбрать свой цвет</string>
     <string name="color_pick_title">Выбрать цвет</string>
     <string name="draw_size_title">Выбрать размер</string>
-    <string name="draw_size_accept">OK</string>
+    <string name="draw_size_accept">ОК</string>
     <string name="state_panel_original">Оригинал</string>
     <string name="state_panel_result">Результат</string>
     <string name="filtershow_notification_label">Сохранение изображения</string>
@@ -207,8 +207,8 @@
     <string name="fail_to_load_image">"Не удается загрузить изображение"</string>
     <string name="no_thumbnail">Нет эскиза</string>
     <string name="resume_playing_restart">Начать заново</string>
-    <string name="crop_save_text">OK</string>
-    <string name="ok">OK</string>
+    <string name="crop_save_text">ОК</string>
+    <string name="ok">ОК</string>
     <string name="multiface_crop_help">Коснитесь экрана для начала.</string>
     <string name="saving_image">Сохранение изображения…</string>
     <string name="filtershow_saving_image">Сохранение рисунка %1$s …</string>
@@ -413,7 +413,7 @@
     <string name="pref_camera_scenemode_entry_party">Компания</string>
     <string name="not_selectable_in_scene_mode">Не выбирается сюжетный режим.</string>
     <string name="pref_exposure_title">Экспозиция</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">ОК</string>
     <string name="spaceIsLow_content">На SD карте не хватает места. Измените настройки качества съемки или удалите некоторые изображения или другие файлы.</string>
     <string name="video_reach_size_limit">Достигнут предел размера.</string>
     <string name="pano_too_fast_prompt">Слишком быстро</string>

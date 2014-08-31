@@ -76,7 +76,7 @@
     <string name="quick_text_menu_forward">Далее</string>
     <string name="quick_text_menu_edit">Редактировать</string>
     <string name="quick_text_menu_delete">Удалить</string>
-    <string name="add_quick_text_ok">OK</string>
+    <string name="add_quick_text_ok">ОК</string>
     <string name="add_quick_text_cancel">Отмена</string>
     <string name="delete_quick_text_title">Удалить</string>
     <string name="delete_quick_text_confirm">Удалить это сообщение?</string>
@@ -142,7 +142,7 @@
     <string name="gn_cancel_all_favorite">Отменить все избранные</string>
     <string name="gn_cancel_all_favorite_title">Отменить все избранные</string>
     <string name="gn_cancel_all_favorite_content">Отменить избранные?</string>
-    <string name="gn_cancel_all_favorite_ok">OK</string>
+    <string name="gn_cancel_all_favorite_ok">ОК</string>
     <string name="gn_cancel_all_favorite_cancel_btn">Отмена</string>
     <string name="gn_confirm_delete_conversation">Вся цепочка сообшений будет удалена.</string>
     <string name="gn_confirm_delete_message">Все сообщения будут удалены.</string>
@@ -441,7 +441,7 @@
     <string name="gn_conv_popup_text2">Скрыть шифрования</string>
     <string name="gn_conv_hide_encry_toast">Has hide encryption list</string>
     <string name="gn_conv_view_encry_toast">Has view all list</string>
-    <string name="gn_confirm">OK</string>
+    <string name="gn_confirm">ОК</string>
     <string name="gn_refresh_menu">В пакете</string>
     <string name="aurora_mms_send_failed">В пути</string>
     <string name="aurora_dail_sim1f">SIM1 Dial(Recent)</string>
@@ -583,7 +583,7 @@
     <string name="menu_view_contact">Посмотреть контакт</string>
     <string name="menu_add_to_contacts">Добавить к контакту</string>
     <string name="hidden_sender_address">Адрес отправителя скрыт</string>
-    <string name="yes">OK</string>
+    <string name="yes">ОК</string>
     <string name="no">Отмена</string>
     <string name="set">Сохранить</string>
     <string name="play">Воспроизвести</string>
@@ -767,10 +767,10 @@
     <string name="Insert_sdcard">Вставьте SD-карту!</string>
     <string name="pref_title_mms_enable_to_send_delivery_reports">Отчеты о доставке</string>
     <string name="pref_summary_mms_enable_to_send_delivery_reports">Запрос отчета о доставке для каждого отправляемого сообщения</string>
-    <string name="set_service_center_OK">SMS центра выбран</string>
+    <string name="set_service_center_ОК">SMS центра выбран</string>
     <string name="set_service_center_fail">ошибка при выборе SMS центра</string>
-    <string name="OK">OK</string>
-    <string name="Отмена">Отмена</string>
+    <string name="OK">ОК</string>
+    <string name="Cancel">Отмена</string>
     <string name="sms_save_location">место хранения SMS</string>
     <string name="gemini_3g_indic">3G</string>
     <string name="sms_service_center">Центр SMS</string>

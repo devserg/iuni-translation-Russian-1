@@ -75,7 +75,7 @@
     <string name="prohibit">Deny</string>
     <string name="please_choice">Please Select</string>
     <string name="calculating">Calculating...</string>
-    <string name="sure">OK</string>
+    <string name="sure">ОК</string>
     <string name="modify_hint_text">Can be changed in App Management - Permission Management</string>
     <string name="permission_hint_text">Will gain the following sensitive permissions. Please check to confirm:</string>
     <string name="privacy_permission">Privacy Permission</string>

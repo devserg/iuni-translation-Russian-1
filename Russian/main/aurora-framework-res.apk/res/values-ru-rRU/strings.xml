@@ -27,7 +27,7 @@
     <string name="aurora_action_bar_select_all_btn">Выбрать все</string>
     <string name="aurora_action_bar_cancel_all_btn">Инвертировать выделение</string>
     <string name="aurora_edit">Редактировать</string>
-    <string name="aurora_datepicker_done">OK</string>
+    <string name="aurora_datepicker_done">ОК</string>
     <string name="aurora_datepicker_cancel">Отмена</string>
     <string name="lockscreen_carrier_default">Нет обслуживания</string>
     <string name="share">Поделиться</string>
@@ -67,7 +67,7 @@
     <string name="aurora_activity_searchviewcancelbtnttext">Отмена</string>
     <string name="reboot_alert_title">Перезагрузка</string>
     <string name="reboot_alert_message">Перезагрузить телефон?</string>
-    <string name="reboot_ok">OK</string>
+    <string name="reboot_ok">ОК</string>
     <string name="reboot_cancel">Отмена</string>
     <string name="aurora_no_application_can_perform_this_operation">Ни одно приложение не может выполнить эту операцию</string>
     <string name="volume_ringtone">Громкость звонка</string>
@@ -87,7 +87,7 @@
     <string name="aurora_back_button_label">Назад</string>
     <string name="aurora_next_button_label">Вперед</string>
     <string name="aurora_skip_button_label">Пропустить</string>
-    <string name="aurora_ok">OK</string>
+    <string name="aurora_ok">ОК</string>
     <string name="aurora_cancel">Отмена</string>
     <string name="aurora_yes">Да</string>
     <string name="aurora_no">Нет</string>

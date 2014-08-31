@@ -9,7 +9,7 @@
     <string name="menu_record_stop">Остановить запись</string>
     <string name="menu_all_channels">Все каналы</string>
     <string name="app_label_all_channels">Все каналы</string>
-    <string name="button_ok">OK</string>
+    <string name="button_ok">ОК</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_delete">Удалить</string>
     <string name="error_sdcard_access">Нет доступа к SD карте</string>

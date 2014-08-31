@@ -20,7 +20,7 @@
     <string name="text_current_download">%d Download</string>
     <string name="now_version">Current version：</string>
     <string name="cancel">Cancel</string>
-    <string name="sure">OK</string>
+    <string name="sure">ОК</string>
     <string name="sd_card_abnormal">Storage abnormal</string>
     <string name="title_error">Notification</string>
     <string name="local_file_md5_error">Exception occurred during file download, please try again</string>
@@ -84,7 +84,7 @@
     <string name="cancel_download">Cancel</string>
     <string name="continue_download">Continue</string>
     <string name="cancel_download_dialog_title">Cancel Downloading</string>
-    <string name="cancel_download_dialog_message">Click OK to cancel downloading the new version and delete the downloaded file</string>
+    <string name="cancel_download_dialog_message">Click ОК to cancel downloading the new version and delete the downloaded file</string>
     <string name="exit_upgrade_dialog_message">There is downloading task, are you sure to exit?</string>
     <string name="verfy_download_file">Detected downloaded upgrade package, verifying...</string>
     <string name="new_version_detail">Version details</string>

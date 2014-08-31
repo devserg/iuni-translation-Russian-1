@@ -20,7 +20,7 @@
     <string name="name">Контактная информация</string>
     <string name="quxiao">Отмена</string>
     <string name="setup">Установить будильник</string>
-    <string name="sure">OK</string>
+    <string name="sure">ОК</string>
     <string name="fullscreenbg">Закрытие</string>
     <string name="txtday">th</string>
     <string name="app_widget_label">Дата</string>
@@ -149,7 +149,7 @@
     <string name="etHint">Введите время обратного отсчета:</string>
     <string name="tvRing">Мелодия напоминания: Good morning!</string>
     <string name="timeOut">Время вышло</string>
-    <string name="chronometer_alarm_alert_dismiss_text">OK</string>
+    <string name="chronometer_alarm_alert_dismiss_text">ОК</string>
     <string name="chronometer_alarm_alert_title">Примечание</string>
     <string name="world_time">Мировое время</string>
     <string name="exists_already">Уже существует</string>
@@ -179,7 +179,7 @@
     <string name="toastAddCity">Добавить город</string>
     <string name="toastDeleteCity">Удалить город</string>
     <string name="toastSortCity">Сортировка</string>
-    <string name="toastSortCityOk">OK</string>
+    <string name="toastSortCityOk">ОК</string>
     <string name="toastSortCityCancel">Отмена</string>
     <string name="titleSortCityBack">Изменение порядка городов</string>
     <string name="alarm_notify_delay_text">Будильник имеет значение для повтора по умолчанию %s</string>

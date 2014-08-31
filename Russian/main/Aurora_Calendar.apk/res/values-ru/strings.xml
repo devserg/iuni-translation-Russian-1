@@ -230,7 +230,7 @@
     <string name="select_clear_calendars_title">Выберите аккаунт</string>
     <string name="clear_all_selected_events_title">Все события в выбранной учетной записи будут удалены.</string>
     <string name="delete_completed">Операция удаления завершена.</string>
-    <string name="delete_certain">OK</string>
+    <string name="delete_certain">ОК</string>
     <string name="wait_deleting_tip">Пожалуйста, дождитесь завершения удаления...</string>
     <string name="attendees_invalid_tip">Некоторые участники являются недопустимыми.</string>
     <string name="unread_reminders">%d непрочитанные напоминания</string>

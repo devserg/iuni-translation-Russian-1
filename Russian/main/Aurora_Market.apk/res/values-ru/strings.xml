@@ -22,7 +22,7 @@
     <string name="monthStr">Месяц</string>
     <string name="yearStr">Год</string>
     <string name="weekStr">Неделя</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">ОК</string>
     <string name="dialog_cancel">Отмена</string>
     <string name="dialog_prompt">Совет</string>
     <string name="no_network_download_toast">Нет сети, откройте сетевые соединения</string>

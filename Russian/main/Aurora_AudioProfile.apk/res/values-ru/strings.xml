@@ -107,7 +107,7 @@
     <string name="ringtone_select_summary">Ringtone is used for ringing mode and outdoor mode</string>
     <string name="vibrate_profile">Шаблон вибрации</string>
     <string name="cancel">Отмена</string>
-    <string name="ok">OK</string>
+    <string name="ok">ОК</string>
     <string name="vibrate_basecall">Basecall</string>
     <string name="vibrate_heartbeat">Heartbeat</string>
     <string name="vibrate_jinglebell">Jinglebell</string>
