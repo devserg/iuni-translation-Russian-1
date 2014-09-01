@@ -17,7 +17,7 @@
     <string name="vs_next_pic">Следующая</string>
     <string name="vs_moremsg">Более подробная информация</string>
     <string name="vs_search">Запрос</string>
-    <string name="vs_s_not_found">很抱歉！没有找到相应的长途车班次</string>
+    <string name="vs_s_not_found">很抱歉!没有找到相应的长途车班次</string>
     <string name="vs_allbusinfo">Вся информация о рейсе</string>
     <string name="vs_s2d">Место тправления-прибытия</string>
     <string name="vs_stime">Время вылета</string>
@@ -68,7 +68,7 @@
     <string name="vs_save">保存</string>
     <string name="vs_sogoumapurl">查看地图</string>
     <string name="vs_savesec">已保存至storage/sdcard0/voiceAssistant</string>
-    <string name="vs_savefal">保存失败！</string>
+    <string name="vs_savefal">保存失败!</string>
     <string name="vs_savesec_nocard">保存失败,无存储卡!</string>
     <string name="vs_speech_des1">由</string>
     <string name="vs_speech_des2">搜狗语音助手</string>
@@ -89,7 +89,7 @@
     <string name="vs_help_tips_picture_video">我是歌手视频</string>
     <string name="vs_diagonal">/</string>
     <string name="vs_dialogtitle">提示</string>
-    <string name="vs_dialogmessage">是否确认清空所有搜索内容？</string>
+    <string name="vs_dialogmessage">是否确认清空所有搜索内容?</string>
     <string name="vs_dialog_yes">确认</string>
     <string name="vs_dialog_no">取消</string>
     <string name="vs_dialogtitle_single">删除记录</string>

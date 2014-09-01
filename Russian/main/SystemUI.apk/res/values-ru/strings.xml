@@ -299,7 +299,7 @@
     <string name="zzzzz_no_sdcard_message">There is no SD card, please mount a SD card before your operation!</string>
     <string name="zzzzz_adb_warning_title">Temporarily turn on USB debugging</string>
     <string name="zzzzz_adb_warning_message">Temporarily enable USB debugging,Allows the PC client management software to copy data between your computer and device, the installer</string>
-    <string name="zzzzz_mount_sdcard_dialog_title">Please do not unplug the usb cable now, may cause error to the sd card！Before turning off USB storage, make sure you have unmounted (“ejected”) your Android‘s USB storage from your computer!</string>
+    <string name="zzzzz_mount_sdcard_dialog_title">Please do not unplug the usb cable now, may cause error to the sd card!Before turning off USB storage, make sure you have unmounted (“ejected”) your Android‘s USB storage from your computer!</string>
     <string name="zzzzz_dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
     <string name="zzzzz_cancel">Cancel</string>
     <string name="zzzzz_dlg_ok">ОК</string>

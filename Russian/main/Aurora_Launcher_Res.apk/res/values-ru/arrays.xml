@@ -50,7 +50,7 @@
         <item>com.chartcross.gpstest$com.chartcross.gpstest.GPSTest|GPS Test#gpstest.png</item>
         <item>Instagram#instagram.png</item>
         <item>com.lbe.security$com.lbe.security.ui.SplashActivity|LBE安全大师#lbe_safe.png</item>
-        <item>com.brianbaek.popstar$com.zplay.android.sdk.pay.ZplayActivity|PopStar！消灭星星官方正版|PopStar#popstart.png</item>
+        <item>com.brianbaek.popstar$com.zplay.android.sdk.pay.ZplayActivity|PopStar!消灭星星官方正版|PopStar#popstart.png</item>
         <item>com.tencent.mobileqq$com.tencent.mobileqq.activity.SplashActivity|QQ#qq.png</item>
         <item>com.qzone$com.tencent.sc.activity.SplashActivity|Qzone|QQ空间#qqzone.png</item>
         <item>com.tencent.mtt$com.tencent.mtt.SplashActivity|QQBrowser|QQ浏览器#qqbrowser.png</item>
@@ -620,7 +620,7 @@
         <item>name.kunes.android.launcher.activityqgv$name.kunes.android.launcher.activity.HomeActivity|BIG Launcher#biglauncher.png</item>
         <item>com.fastemulator.gba$com.fastemulator.gba.MainActivity|My Boy!|GBA模拟器#gbamoniqi.png</item>
         <item>mobi.espier.launcher$cn.fmsoft.launcher2.Launcher|Espier Launcher|领航桌面#espier_launcher.png</item>
-        <item>"com.disney.MYWMP.cn$com.disney.WMP.WMWActivity|Where's My Perry?|鸭嘴兽泰瑞在哪里？#yazuishou.png"</item>
+        <item>"com.disney.MYWMP.cn$com.disney.WMP.WMWActivity|Where's My Perry?|鸭嘴兽泰瑞在哪里?#yazuishou.png"</item>
         <item>com.rookiestudio.perfectviewer$com.rookiestudio.perfectviewer.TStartup|Perfect Viewer#perfect_viewer.png</item>
         <item>com.edwardkim.android.screenshotitfullnoroot$com.edwardkim.android.screenshotit.activities.ScreenShotIt|No Root Screenshot It#screenshot_it.png</item>
         <item>Mantano Reader Premium#mantano_yuedui.png</item>

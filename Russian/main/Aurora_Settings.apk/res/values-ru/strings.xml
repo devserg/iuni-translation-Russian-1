@@ -91,7 +91,7 @@
     <string name="bluetooth_device_name_not_empty">"Имя устройства не может быть пустым"</string>
     <string name="bluetooth_device_name_not_space">"Имя устройства не может содержать пробелы"</string>
     <string name="bluetooth_title_unpair">Отменить сопряжение</string>
-    <string name="bluetooth_unpair_dialog_text">Вы хотите отменить сопряжение с “%1$s”？</string>
+    <string name="bluetooth_unpair_dialog_text">Вы хотите отменить сопряжение с “%1$s”?</string>
     <string name="bluetooth_unpair_toast_ok">Сопряжение с “%1$s” отменено</string>
     <string name="bluetooth_unpair_toast_fail">Не удалось отменить сопряжение с “%1$s”</string>
     <string name="internal_storage_format">Очистить внутренюю память</string>

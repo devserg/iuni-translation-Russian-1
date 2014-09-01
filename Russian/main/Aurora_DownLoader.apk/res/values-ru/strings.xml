@@ -44,5 +44,5 @@
     <string name="cancel">Отмена</string>
     <string name="send_file">Share</string>
     <string name="has_no_free_memory">Недостаточно места хранения. Пожалуйста, освободите место.</string>
-    <string name="no_network_2">无网络链接？</string>
+    <string name="no_network_2">无网络链接?</string>
 </resources>
