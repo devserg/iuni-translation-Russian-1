@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, Main!</string>
+    <string name="hello">Привет, мир!</string>
     <string name="welcom_textview">Добро пожаловать на номер</string>
-    <string name="checkButton">查询</string>
+    <string name="checkButton">Проверить</string>
     <string name="setting">Настройки</string>
     <string name="base_setting">Основные параметры</string>
     <string name="belongcheck">来电归属地提示</string>
@@ -10,7 +10,7 @@
     <string name="belonglocation">归属地提示位置</string>
     <string name="belongothers">Другие</string>
     <string name="belongcheckupdata">Проверить наличие обновлений</string>
-    <string name="belongfriend">好友推荐</string>
+    <string name="belongfriend">Рекомендовить друзьям</string>
     <string name="belongsuggest">Отправить предложение</string>
     <string name="app_name">Имя приложения</string>
     <string name="search">Поиск</string>
@@ -22,7 +22,7 @@
     <string name="unknown_area">Неизвестный регион</string>
     <string name="error_connect_faild">Ошибка подключения</string>
     <string name="error_connect_timeout">Время ожидания истекло</string>
-    <string name="error_parse_db">解析归属地数据失败</string>
+    <string name="error_parse_db">Ошибка чтения базы данных</string>
     <string name="error_updata_processing">Ошибка обновления</string>
     <string name="init_finish">Служба инициализирована</string>
     <string name="success_connect">Обновление базы данных завершено</string>
@@ -31,45 +31,45 @@
     <string name="wait_init">Инициализация службы</string>
     <string name="error_init_not_finish">Ошибка нициализации службы</string>
     <string name="db_is_last_version">У Вас последняя версия базы данных</string>
-    <string name="import_test">导入T卡数据</string>
-    <string name="import_test1111111">导入T卡数据</string>
-    <string name="areanum_style">归属地框风格设置</string>
+    <string name="import_test">Импорт данных T-карты</string>
+    <string name="import_test1111111">Импорт данных T карты</string>
+    <string name="areanum_style">Настройки стиля окна Attribution</string>
     <string name="cannt_tobenull">Логин не может быть пустым</string>
-    <string name="cannt_callout_1_9">拨号1-9无法播出</string>
+    <string name="cannt_callout_1_9">Номер должен состоять из цифр 1-9</string>
     <string name="finish_init">Инициализация завершена</string>
-    <string name="limit_num">最多只能输入30个字符</string>
-    <string name="unknownum_cannot_call_out">未知号码无法播出</string>
-    <string name="add_success">添加成功</string>
-    <string name="add_umsuccess">添加失败，非常用号码无法添加</string>
-    <string name="add_umsuccess_nowidget">添加失败，请在桌面上添加widget</string>
-    <string name="dialog_cancle">取消</string>
-    <string name="dialog_ok">确定</string>
-    <string name="txt_prompt">提示</string>
-    <string name="txt_quit_desc">是否确定退出程序?</string>
+    <string name="limit_num">Возможно ввести максимум 30 символов</string>
+    <string name="unknownum_cannot_call_out">Введено неизвестрое число</string>
+    <string name="add_success">Добавлено</string>
+    <string name="add_umsuccess">Не удалось добавить цифры, они не могут быть добавлены</string>
+    <string name="add_umsuccess_nowidget">Не удалось добавить виджет на Рабочий стол</string>
+    <string name="dialog_cancle">Отмена</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="txt_prompt">Предупреждение</string>
+    <string name="txt_quit_desc">Выйти из программы?</string>
     <string name="phone">Телефон:</string>
     <string name="areacode">Код города:</string>
     <string name="internationalareacode">Международный код:</string>
     <string name="tel">TEL:</string>
-    <string name="welcom">奥软来电通,怎么都是通</string>
-    <string name="aora_about">"关于产品: 
+    <string name="welcom">Добро пожаловать</string>
+    <string name="aora_about">"О продукте: 
 奥软来电通是深圳市奥软科技推出的个性化号码查询 
 及归属地应用服务，主要为广大用户方便快捷的查询 
 常用的号码及归属地信息等相关号码信息。 
  
-免责声明: 
+Отказ от ответственности: 
 以上信息仅参考,不作为其它途径使用。 
  
-资费说明： 
+资费说明: 
 本应用免费使用,使用检查更新及提交建议会产生一 
 定的GPRS流量,具体资费标准请咨询当地运营商。 
  
-关于我们： 
-版本号：V1.0.3 
-发行：深圳市奥软网络科技有限公司 
-邮箱：support@aoratec.com 
-客服：400-799-6666"</string>
-    <string name="move_text">"按住提示框拖动到任意位置! 
-按返回键立即生效!"</string>
+О нас: 
+Номер версии:V1.0.3 
+Выпуск: г. Шэньчжэнь, Network Technology Co, Ltd
+E-mail: support@aoratec.com 
+Горячая линия: 400-799-6666"</string>
+    <string name="move_text">"Можете перетащить поле Подсказка в любое место для копирования! 
+Нажмите кнопку Назад для отмены изменений."</string>
     <string name="about_title">О службе</string>
     <string name="about_title1">О продукции</string>
     <string name="nonet">Проверить обновления</string>
