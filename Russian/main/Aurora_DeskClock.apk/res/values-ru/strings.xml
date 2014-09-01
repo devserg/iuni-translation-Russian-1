@@ -112,7 +112,7 @@
     <string name="alarm_notify_snooze_text">Звонок будет повторен  через %s, нажмите для отмены</string>
     <string name="volume_button_setting_title">Функции клавиш громкости</string>
     <string name="volume_button_dialog_title">Функции кнопок</string>
-    <string name="volume_button_setting_summary">Set the functions of these buttons when the Будильник is activated.</string>
+    <string name="volume_button_setting_summary">Set the functions of these buttons when the alarm is activated.</string>
     <string name="default_ringtone_setting_title">Установить мелодию по умолчанию</string>
     <string name="alarm_button_description">Будильник</string>
     <string name="gallery_button_description">Галерея</string>
@@ -210,6 +210,6 @@
     <string name="alarmalertclose">Проведите вверх для выключения будильника</string>
     <string name="isshowofficeday">нет</string>
     <string name="airplanemodeoff">Авиарежим был вык автоматически</string>
-    <string name="appwidget_month">М</string>
-    <string name="appwidget_date">Д   </string>
+    <string name="appwidget_month">месяц</string>
+    <string name="appwidget_date">день</string>
 </resources>
