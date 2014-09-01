@@ -11,12 +11,13 @@ Every photo you shoot, every piece of audio and video you record will be the mos
 Perhaps, we cannot keep time for you,
 but we hope to freeze every valuable moment."</string>
     <string name="note_second">"                  ——команда IUNI OS"</string>
-    <string name="note_third">"Подсказка: Вы можете просматривать вложения в файловом менеджере.
+    <string name="note_third">"Подсказка: 
+Вы можете просматривать вложения в файловом менеджере.
 
-Путь: Память/sdcard/note/."</string>
+Путь сохранения: Память/sdcard/note/"</string>
     <string name="label_meetting">Работа</string>
     <string name="label_life">Жизнь</string>
-    <string name="label_idea">Большая идея</string>
+    <string name="label_idea">Идея</string>
     <string name="note_label">Тег</string>
     <string name="note_add_label">Новый тег</string>
     <string name="note_add_label_notice">Тег с таким же именем уже существует. Добавте другой.</string>
@@ -46,19 +47,19 @@ but we hope to freeze every valuable moment."</string>
     <string name="new_note_pic_num">Возможно вставить до 10 изображений</string>
     <string name="new_note_video_num">Возможно вставить до 10 видео</string>
     <string name="new_note_sound_num">Возможно вставить до 10 аудиофайлов</string>
-    <string name="dialog_delete_image_title">Удалить изображение</string>
+    <string name="dialog_delete_image_title">Удаление</string>
     <string name="dialog_delete_image_message">Удалить это изображение?</string>
-    <string name="dialog_delete_audio_title">Удалить аудиофайл</string>
+    <string name="dialog_delete_audio_title">Удаление</string>
     <string name="dialog_delete_audio_message">Удалить этот аудиофайл?</string>
-    <string name="dialog_delete_video_title">Удалить видео</string>
+    <string name="dialog_delete_video_title">Удаление</string>
     <string name="dialog_delete_video_message">Удалить это видео?</string>
     <string name="new_note_text_limit">Превышено предельное количество слов</string>
     <string name="new_note_on_loading">Загрузка…</string>
-    <string name="new_note_gen_picture">Генерирование изображения, пожалуйста, подождите…</string>
+    <string name="new_note_gen_picture">Создание изображения, пожалуйста, подождите…</string>
     <string name="new_note_add_reminder">Добавить напоминание</string>
     <string name="new_note_add_label">Добавить тег</string>
-    <string name="new_note_gen_pic_error_content_too_large">Слишком много контента. Не удалось сгенерировать изображение.</string>
-    <string name="new_note_gen_pic_error_unknow">Не удалось сгенерировать изображение</string>
+    <string name="new_note_gen_pic_error_content_too_large">Слишком много контента. Не удалось создать изображение.</string>
+    <string name="new_note_gen_pic_error_unknow">Не удалось создать изображение</string>
     <string name="note_gen_picture">Создание изображения</string>
     <string name="share_title">Поделиться</string>
     <string name="save_to_gallery_success">Изображение успешно сохранено в альбом</string>
@@ -107,11 +108,11 @@ but we hope to freeze every valuable moment."</string>
     <string name="menu_mod_reminder">Изменить напоминание</string>
     <string name="menu_add_label">Добавить тег</string>
     <string name="menu_mod_label">Изменить тег</string>
-    <string name="menu_gen_picture">Создание изображения</string>
-    <string name="menu_take_photo">Фотография</string>
-    <string name="menu_take_video">Запись</string>
-    <string name="menu_select_photo">Выберите изображение из альбома</string>
-    <string name="menu_select_video">Выберите видеоклип из альбома</string>
+    <string name="menu_gen_picture">Создать изображение</string>
+    <string name="menu_take_photo">Сфотографировать</string>
+    <string name="menu_take_video">Снять видео</string>
+    <string name="menu_select_photo">Выбрать изображение</string>
+    <string name="menu_select_video">Выбрать видеозапись</string>
     <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
     <string name="pull_to_refresh_release_label">Потяните для обновления</string>
     <string name="loading">Загрузка…</string>
