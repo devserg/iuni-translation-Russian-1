@@ -18,7 +18,7 @@
     <string name="text_new_version" formatted="false">New Version:%s (%sMB)</string>
     <string name="text_old_version">Current Version:%s</string>
     <string name="text_current_download">%d Download</string>
-    <string name="now_version">Current version：</string>
+    <string name="now_version">Current version:</string>
     <string name="cancel">Cancel</string>
     <string name="sure">ОК</string>
     <string name="sd_card_abnormal">Storage abnormal</string>

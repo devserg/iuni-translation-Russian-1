@@ -170,7 +170,7 @@
     <string name="memery_size">Storage Space</string>
     <string name="running_proc">Running</string>
     <string name="stop">stop</string>
-    <string name="memory_details">Memory Details：%1$s/%2$s</string>
+    <string name="memory_details">Memory Details:%1$s/%2$s</string>
     <string name="memory_percent">alreadyUse%1$s</string>
     <string name="ad_block">Ad Block</string>
     <string name="ad_app_num">Ad in %1$s app(s)</string>

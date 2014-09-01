@@ -67,7 +67,7 @@ All your previous user data will be saved."</string>
     <string name="perms_description_app">Provided by %1$s.</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NEW: </font></string>
     <string name="comma">，</string>
-    <string name="colon">：</string>
+    <string name="colon">:</string>
     <string name="left_brackets">（</string>
     <string name="right_brackets">）</string>
     <string name="privacy_permission">privacy permission</string>
@@ -80,7 +80,7 @@ All your previous user data will be saved."</string>
     <string name="uninstall_confirm">Uninstall confirmation</string>
     <string name="uninstall_application_text_by_name">Do you want to uninstall\"%1$s\"?</string>
     <string name="uninstall_update_text_by_name">Do you want to replace\"%1$s\"with the factory version?</string>
-    <string name="reasons_for_failure">failure reason：</string>
+    <string name="reasons_for_failure">failure reason:</string>
     <string name="unknown_error">unknown error</string>
     <string name="install_failed_missing_shared_library">The lack of related Google dependent files</string>
     <string name="install_failed_version_downgrade">A newer version of the app is already installed</string>
