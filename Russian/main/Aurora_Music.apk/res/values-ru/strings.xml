@@ -97,8 +97,8 @@
     <string name="player_download_start">добавлена в список загрузок</string>
     <string name="player_download_failed">Ошибка загрузки!</string>
     <string name="remove_download_message">Удалить выбранные загруженные песни?</string>
-    <string name="appwidget_songtitle">Песня</string>
-    <string name="appwidget_artisttitle">Исполнитель</string>
+    <string name="appwidget_songtitle">Треки</string>
+    <string name="appwidget_artisttitle">Исполнители</string>
     <string name="playmode">Перемешать</string>
     <string name="action_titlenum">1</string>
     <string name="delete">Удалить</string>
