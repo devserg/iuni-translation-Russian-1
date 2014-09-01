@@ -94,7 +94,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="share_sina_weibo_get_user_info">Получение сведений о пользователях…</string>
     <string name="share_sina_weibo_get_user_info_failed">Ошибка получения данных пользователя</string>
     <string name="share_sina_weibo_unbind_ongoing">Отмена привязки аккаунта, пожалуйста, подождите…</string>
-    <string name="share_sina_weibo_image_too_large">Размер изображения слишком велик для публикации</string>
+    <string name="share_sina_weibo_image_too_large">Размер изображения слишком велико для публикации</string>
     <string name="memory_is_not_enough">Размер изображения слишком велик, попробуйте еще раз</string>
     <string name="decode_bitmap_error">Не удалось загрузить изображение</string>
     <string name="prepare_record_error">Ошибка подготовки записи, попробуйте еще раз</string>
