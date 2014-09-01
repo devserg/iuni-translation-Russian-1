@@ -120,5 +120,5 @@
     <string name="dock_browser_name">Chrome#Браузер</string>
     <string name="no_search_result">Результатов не найдено</string>
     <string name="exit_editmode">Удаление приложения, пожалуйста, подождите!</string>
-    <string name="logwriter_log_closed">log был закрыт</string>
+    <string name="logwriter_log_closed">Лог был закрыт</string>
 </resources>
