@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sharedUserLabel"> Приложения Android ядра</string>
+    <string name="sharedUserLabel">Приложения Android ядра</string>
     <string name="app_label">Хранилище контактов</string>
     <string name="provider_label">Контакты</string>
     <string name="upgrade_msg">Обновление базы данных контактов…</string>
