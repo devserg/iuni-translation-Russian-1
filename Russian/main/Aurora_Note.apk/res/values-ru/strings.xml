@@ -4,7 +4,7 @@
     <string name="note_reminder">Напоминание заметки</string>
     <string name="hello_world">Привет, мир!</string>
     <string name="action_settings">Настройки</string>
-    <string name="note_first">"Добро пожаловать Заметки от IUNI OS!
+    <string name="note_first">"Добро пожаловать в Заметки от IUNI OS!
 Here,
 every text you recorded will drive us to pursue perfection.
 Every photo you shoot, every piece of audio and video you record will be the most wonderful parts of IUNI OS memos.
@@ -19,15 +19,15 @@ but we hope to freeze every valuable moment."</string>
     <string name="label_idea">Идея</string>
     <string name="note_label">Тег</string>
     <string name="note_add_label">Новый тег</string>
-    <string name="note_add_label_notice">Тег с таким же именем уже существует. Добавте другой.</string>
+    <string name="note_add_label_notice">Тег с таким же именем уже существует. Добавьте другой.</string>
     <string name="note_choose_label_notice">Можете выбрать до двух тегов</string>
     <string name="note_delete_label_notice">Удалить этот тег?</string>
     <string name="note_modify_label_notice">Тег с таким же именем уже существует. Повторите попытку.</string>
-    <string name="dialog_delete_label_title">Удалить тег</string>
+    <string name="dialog_delete_label_title">Удаление тега</string>
     <string name="dialog_delete_label_message">Удаление тега не приведет к удалению заметки. Продолжить?</string>
     <string name="note_title">Заметка</string>
     <string name="note_searchview_hint_text">Поиск заметки</string>
-    <string name="no_notes_hint">Нет заметки</string>
+    <string name="no_notes_hint">Нет заметок</string>
     <string name="desc_having_sound">Содержит аудиофайл</string>
     <string name="desc_image_border">Фотография</string>
     <string name="desc_image_content">Изображение</string>
@@ -37,7 +37,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="title_num_of_videos">[%s видео]</string>
     <string name="title_num_of_sounds">[%s аудиофайлов]</string>
     <string name="no_match_note">Нет заметки, соответствующих критериям</string>
-    <string name="dialog_delete_note_title">Удалить</string>
+    <string name="dialog_delete_note_title">Удаление</string>
     <string name="dialog_delete_note_message">Удалить эту заметку?</string>
     <string name="menu_tab_edit">Редактировать Тег</string>
     <string name="menu_tab_delete">Удалить тег</string>
@@ -61,17 +61,17 @@ but we hope to freeze every valuable moment."</string>
     <string name="new_note_gen_pic_error_unknow">Не удалось создать изображение</string>
     <string name="note_gen_picture">Создание изображения</string>
     <string name="share_title">Поделиться</string>
-    <string name="save_to_gallery_success">Изображение успешно сохранено в альбом</string>
-    <string name="save_to_gallery_failed">Не удалось сохранить изображение в альбоме</string>
+    <string name="save_to_gallery_success">Изображение сохранено</string>
+    <string name="save_to_gallery_failed">Не удалось сохранить изображение</string>
     <string name="sdcard_is_not_available">SD карта не доступна</string>
     <string name="load_picture_error_io">Не удалось загрузить изображение</string>
     <string name="load_picture_error_network">Не удается загрузить из-за проблем с сетью</string>
-    <string name="load_picture_error_decoding">Изображения не могут быть отображены</string>
+    <string name="load_picture_error_decoding">Невозможно отобразить изоображения</string>
     <string name="load_picture_error_out_of_memory">Изображения слишком велики для отображения</string>
     <string name="load_picture_error_unknow">Неизвестная ошибка</string>
     <string name="play_error">Ошибка воспроизведения</string>
     <string name="play_error_file_not_exist">Файла не существует</string>
-    <string name="delete_confirm_title">Удалить напоминание</string>
+    <string name="delete_confirm_title">Удаление напоминания</string>
     <string name="delete_confirm_message">Удалить напоминание заметки?</string>
     <string name="delete_confirm_ok_btn">ОК</string>
     <string name="delete_confirm_cancel_btn">Отмена</string>
@@ -80,21 +80,21 @@ but we hope to freeze every valuable moment."</string>
     <string name="share_sina_weibo_menu_unbind">Удалить аккаунт(%1$s)</string>
     <string name="share_sina_weibo_hint">Введите текст</string>
     <string name="share_sina_weibo_sending">Публикация…</string>
-    <string name="share_sina_weibo_unbind_success">Отмена привязка аккаунта</string>
-    <string name="share_sina_weibo_unbind_error">Отменить привязку аккаунта не удалось, попробуйте еще раз</string>
-    <string name="share_sina_weibo_authorize_invalid_token">Неудачная авторизация пользователя, попробуйте еще раз</string>
+    <string name="share_sina_weibo_unbind_success">Отмена привязки аккаунта</string>
+    <string name="share_sina_weibo_unbind_error">Ошибка привязки аккаунта, попробуйте еще раз</string>
+    <string name="share_sina_weibo_authorize_invalid_token">Ошибка авторизации, попробуйте еще раз</string>
     <string name="share_sina_weibo_authorize_cancel">Авторизация отменена</string>
     <string name="share_sina_weibo_no_network">Включите сетевое подключение</string>
     <string name="share_sina_weibo_authorize_expire">Срок лицензии истек, пожалуйста, повторите авторизацию</string>
     <string name="share_sina_weibo_send_success">Отправлено</string>
-    <string name="share_sina_weibo_send_ongoing">Публикуется до сих пор…</string>
+    <string name="share_sina_weibo_send_ongoing">Публикация…</string>
     <string name="share_sina_weibo_send_failed">Ошибка публикации, повторите попытку</string>
     <string name="share_sina_weibo_default_content">Поделиться изображением</string>
     <string name="share_sina_weibo_is_sending">Загрузка предыдущих постов, пожалуйста, подождите…</string>
     <string name="share_sina_weibo_get_user_info">Получение сведений о пользователях…</string>
-    <string name="share_sina_weibo_get_user_info_failed">Не удалось получить данные пользователя</string>
+    <string name="share_sina_weibo_get_user_info_failed">Ошибка получения данных пользователя</string>
     <string name="share_sina_weibo_unbind_ongoing">Отмена привязки аккаунта, пожалуйста, подождите…</string>
-    <string name="share_sina_weibo_image_too_large">Размер изображения стишком велик, невозможно опубликовать</string>
+    <string name="share_sina_weibo_image_too_large">Размер изображения слишком велик для публикации</string>
     <string name="memory_is_not_enough">Размер изображения слишком велик, попробуйте еще раз</string>
     <string name="decode_bitmap_error">Не удалось загрузить изображение</string>
     <string name="prepare_record_error">Ошибка подготовки записи, попробуйте еще раз</string>
