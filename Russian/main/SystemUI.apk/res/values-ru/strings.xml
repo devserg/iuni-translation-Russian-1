@@ -70,13 +70,13 @@
     <string name="gemini_intenet_call">Интернет-вызов</string>
     <string name="gemini_default_sim_never">Выкл</string>
     <string name="gemini_3g_indic">3G</string>
-    <string name="gemini_3g_disable_warning">3G недоступен для выбранной SIM-карты. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks. Are you sure to select this SIM?</string>
-    <string name="gemini_3g_disable_warning_cu">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > SIM management. Are you sure to select this SIM?</string>
+    <string name="gemini_3g_disable_warning">3G недоступен для выбранной SIM-карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Беспроводные сети &gt; Мобильные сети. Выбрать эту SIM карту?</string>
+    <string name="gemini_3g_disable_warning_cu">3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Управление SIM-картами. Выбрать эту SIM карту?</string>
     <string name="gemini_3g_disable_warning_case0">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Включить передачу данных в роуминге и выбрать эту SIM карту?</string>
     <string name="gemini_3g_disable_warning_case1">3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Беспроводные сети &gt; Мобильные сети. Выбрать эту SIM карту?</string>
-    <string name="gemini_3g_disable_warning_case2">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > SIM management. Are you sure to select this SIM?</string>
+    <string name="gemini_3g_disable_warning_case2">3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Управление SIM-картами. Выбрать эту SIM карту?</string>
     <string name="gemini_3g_disable_warning_case3">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Кроме того 3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Беспроводные сети &gt; Мобильные сети. Включить передачу данных в роуминге и выбрать эту SIM карту?</string>
-    <string name="gemini_3g_disable_warning_case4">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Кроме того 3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Управление SIM-картами &gt; Мобильные сети. Включить передачу данных в роуминге и выбрать эту SIM карту?</string>
+    <string name="gemini_3g_disable_warning_case4">Необходимо включить передачу данных в роуминге для этой SIM карты, которые могут повлечь за собой значительные расходы на услуги связи! Кроме того 3G недоступен для выбранной SIM карты. Из-за этого загрузка данных будет медленной. Включить 3G сеть для этой SIM карты можно через Настройки &gt; Управление SIM-картами. Включить передачу данных в роуминге и выбрать эту SIM карту?</string>
     <string name="confirm_radio_title">SIM-карта выключена</string>
     <string name="confirm_radio_msg">%1$s теперь отключено. Вы хотели бы включить эту SIM-карту?</string>
     <string name="confirm_radio_msg_single">Авиарежим сейчас включен, выключить его?</string>
@@ -321,13 +321,13 @@ MMMM d"</string>
     <string name="zzzzz_gn_radio_notification">Уведомления</string>
     <string name="zzzzz_gn_radio_switch">Переключатели</string>
     <string name="zzzzz_gn_warn_title">Ошибка зарядки</string>
-    <string name="zzzzz_gn_charging_over_voltage">"Fail to charge for OVER VOLTAGE.
- Please select the appropriate power."</string>
-    <string name="zzzzz_gn_charging_over_heat">"Fail to charge for OVER HEAT.
- Please cool before charging."</string>
-    <string name="zzzzz_gn_warn_title_unplug">System tip</string>
-    <string name="zzzzz_gn_charging_over_heat_unplug">Battery temperature is too high, please stop using</string>
-    <string name="zzzzz_gn_charging_cold">"Fail to charge for charging temperature is too low.
- Please return to normal before charging."</string>
-    <string name="zzzzz_gn_charging_cold_unplug">Battery temperature is too low, please stop using</string>
+    <string name="zzzzz_gn_charging_over_voltage">"Ошибка зарядки из-за ПРЕВЫШЕНИЯ НАПРЯЖЕНИЯ.
+ Пожалуйста, выберите соответствующую напряжение зарядки."</string>
+    <string name="zzzzz_gn_charging_over_heat">"Ошибка зарядки из-за ПЕРЕГРЕВА.
+ Пожалуйста, охладите устройство."</string>
+    <string name="zzzzz_gn_warn_title_unplug">Подсказка</string>
+    <string name="zzzzz_gn_charging_over_heat_unplug">Превышена температура батареи, пожалуйста, прекратите использование устройства</string>
+    <string name="zzzzz_gn_charging_cold">"Слишком низкая температура при зарядке.
+ Пожалуйста, заряжайте устройство при оптимальной температуре."</string>
+    <string name="zzzzz_gn_charging_cold_unplug">Слишком низкая температура батареи, пожалуйста, используйте устройство при оптимальной температуре</string>
 </resources>
