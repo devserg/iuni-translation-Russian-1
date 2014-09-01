@@ -8,12 +8,12 @@
     <string name="label_second">С</string>
     <string name="timer_title">Таймер</string>
     <string name="stop_watch_title">Секундомер</string>
-    <string name="full_wday_month_day_no_year">MM-DD</string>
-    <string name="abbrev_wday_month_day_no_year">MM-DD</string>
+    <string name="full_wday_month_day_no_year">ММ-ДД</string>
+    <string name="abbrev_wday_month_day_no_year">ММ-ДД</string>
     <string name="system_date">%1$s (Год) %2$s %3$s (День)%4$s</string>
     <string name="system_alarm">Следующий будильник: %1$s %2$s</string>
-    <string name="chronometer_screen_always_summary">Экран всегда включен только на домашней странице таймера</string>
-    <string name="stopwatch_screen_always_summary">Экран всегда включен только на домашней странице секундомер</string>
+    <string name="chronometer_screen_always_summary">Экран будет всегда включен только на домашней странице таймера</string>
+    <string name="stopwatch_screen_always_summary">Экран будет всегда включен только на домашней странице секундомера</string>
     <string name="app_name">Часы</string>
     <string name="action_settings">Настройки</string>
     <string name="hello_world">Контактная информация 12333</string>
@@ -47,18 +47,18 @@
     <string name="daysix">Суббота</string>
     <string name="notify_wakeup_notalarm">Well done to wake up early</string>
     <string name="notify_clicktoclosewakeupalarm">"Нажмите для выключения сегодняшнего будильника"</string>
-    <string name="selfdefinecycle">Custom Repeat</string>
+    <string name="selfdefinecycle">Пользовательский повтор</string>
     <string name="stillsleepfirst">Встряхните телефон, чтобы отложить будильник на 10 минут</string>
-    <string name="stillsleepsecond">Встряхните телефон дважды для откладки будильника более 10 минут</string>
-    <string name="stillsleepthird">Невозможно отложить будильник. Вставайте сейчас.</string>
+    <string name="stillsleepsecond">Встряхните телефон дважды для откладки будильника еще на 10 минут</string>
+    <string name="stillsleepthird">Невозможно отложить будильник. Вставайте сейчас ;)</string>
     <string name="currenttimetext">Текущее время</string>
     <string name="deletealarm">Удалить будильник</string>
-    <string name="suretodeletealarm">Удалить этот Будильник?</string>
+    <string name="suretodeletealarm">Удалить этот будильник?</string>
     <string name="hint">Примечание</string>
     <string name="ifgiveupchange">Отменить изменения?</string>
-    <string name="worldtimeearly1" formatted="false">%d hours %d minutes fast</string>
+    <string name="worldtimeearly1" formatted="false">%d часов %d minutes fast</string>
     <string name="worldtimeearly2">%d hours fast</string>
-    <string name="worldtimelate1" formatted="false">%d hours %d minutes slow</string>
+    <string name="worldtimelate1" formatted="false">%d часов %d minutes slow</string>
     <string name="worldtimelate2">%d hours slow</string>
     <string name="worldtimesame">Same as our time</string>
     <string name="app_label">Часы</string>
@@ -81,8 +81,8 @@
     <string name="time">Время</string>
     <string name="alarm_alert_dismiss_text">Отмена</string>
     <string name="alarm_alert_alert_silenced">Будильник будет повторен через %d минут(ы).</string>
-    <string name="alarm_alert_snooze_text">Повтор</string>
-    <string name="alarm_alert_snooze_set">Повторить через %d минут(ы)</string>
+    <string name="alarm_alert_snooze_text">Отложить</string>
+    <string name="alarm_alert_snooze_set">Отложено на %d минут</string>
     <string name="day">"1 д "</string>
     <string name="days">"%s д "</string>
     <string name="hour">"1 ч "</string>
@@ -97,7 +97,7 @@
     <string name="settings">Настройки</string>
     <string name="alarm_in_silent_mode_title">Мелодия будильника в беззвучном режиме</string>
     <string name="alarm_in_silent_mode_summary">Звонок будильника при нахождении телефона в беззвучном режиме</string>
-    <string name="snooze_duration_title">Повторить</string>
+    <string name="snooze_duration_title">Отложить</string>
     <string name="auto_silence_title">Автоматически приостановить звонок будильника</string>
     <string name="auto_silence_summary">Звонок будильника будет приостановлен через %d минут(ы)</string>
     <string name="auto_silence_never">Выкл</string>
@@ -127,7 +127,7 @@
     <string name="loading_ringtone">Загрузка мелодий...</string>
     <string name="control_set_alarm">Установить будильник</string>
     <string name="control_set_alarm_with_existing">Время будильника: %s</string>
-    <string name="isDelete_select_alarm">Удалить выбранный Будильник?</string>
+    <string name="isDelete_select_alarm">Удалить выбранный будильник?</string>
     <string name="alarm_delete_sure">Да</string>
     <string name="show_info_for_select">Выбранные</string>
     <string name="show_info_for_select_count">Число выбранных будильников</string>
