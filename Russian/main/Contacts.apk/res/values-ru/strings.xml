@@ -141,7 +141,7 @@
     <string name="aurora_no_group_show">Нет групп для отображения</string>
     <string name="aurora_no_contacts_show">Нет контактов для отображения</string>
     <string name="aurora_to_contacts_accounts">Установить аккаунт контактов</string>
-    <string name="aurora_export_to_sim_meg">Вы хотите экспортировать все контакты на SIM-карту?</string>
+    <string name="aurora_export_to_sim_meg">Экспортировать все контакты на SIM-карту?</string>
     <string name="aurora_export_no_contact">Нет контактов для экспорта</string>
     <string name="aurora_export_to_sim_error">Не удается экспортировать на SIM-карту</string>
     <string name="aurora_deleting_contacts_toast">Удаление контактов в фоновом режиме, пожалуйста, подождите.</string>
@@ -297,7 +297,7 @@ Please wait..."</string>
     <string name="gn_second">с</string>
     <string name="gn_unknow_contact">Неизвестный контакт</string>
     <string name="gn_contacts_sms_tip">Подсказка</string>
-    <string name="gn_calldetails_add_black_confirm">Вы хотите добавить номер в черный список?</string>
+    <string name="gn_calldetails_add_black_confirm">Добавить номер в черный список?</string>
     <string name="unselect_all">Снять выделение</string>
     <string name="select_all">Выбрать все</string>
     <string name="gn_set_star">ДОБАВИТЬ В ИЗБРАННОЕ</string>
