@@ -38,8 +38,8 @@
         <item></item>
     </string-array>
     <string-array name="flow_unit">
-        <item>MB</item>
-        <item>GB</item>
+        <item>МБ</item>
+        <item>ГБ</item>
     </string-array>
     <string-array name="package_type_cm">
         <item>M-Zone</item>

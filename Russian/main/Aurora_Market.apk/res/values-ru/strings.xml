@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">App Store</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Привет, мир!</string>
     <string name="action_settings">Настройки</string>
-    <string name="main_title">应用商店</string>
+    <string name="main_title">App Store</string>
     <string name="aurora_searchview_hint">Поиск</string>
     <string name="new_note_on_loading">Загрузка...</string>
     <string name="submitPics">Загрузить 4张</string>
@@ -45,8 +45,8 @@
     <string name="app_detail_no_desctext">Что нового</string>
     <string name="app_ranking">Рейтинг приложения</string>
     <string name="game_ranking">Рейтинг игры</string>
-    <string name="category_app">Категории приложений</string>
-    <string name="category_game">Категории игр</string>
+    <string name="category_app">Приложения</string>
+    <string name="category_game">Игры</string>
     <string name="category_essential">Основные</string>
     <string name="item_download">Скачать</string>
     <string name="item_open">Открыть</string>
@@ -54,7 +54,7 @@
     <string name="app_size_str">14.5MB</string>
     <string name="app_intro">Программное обеспечение</string>
     <string name="app_update_desc">Описание обновления</string>
-    <string name="view_comment">Посмотреть комментарии(%1$d отзыва)</string>
+    <string name="view_comment">Посмотреть комментарии (%1$d отзыва)</string>
     <string name="app_version">Версия:</string>
     <string name="app_update_time">Время обновления:</string>
     <string name="app_developer">Разработчик:</string>
@@ -74,8 +74,8 @@
     <string name="download_process_update">Обновление</string>
     <string name="download_process_wait">Дождитесь загрузки...</string>
     <string name="download_process_sign">%</string>
-    <string name="market_manager_page">Управления</string>
-    <string name="app_update_check_pref">Применение обновлений</string>
+    <string name="market_manager_page">Настройки</string>
+    <string name="app_update_check_pref">Доступные обновления</string>
     <string name="download_manager_pref">Менеджер загрузок</string>
     <string name="app_manager_pref">Менеджер приложений</string>
     <string name="settings_pref">Основные</string>
@@ -83,8 +83,8 @@
     <string name="update_settings_pref">Параметры обновления</string>
     <string name="wifi_download_pref">Загрузка только по Wi-Fi</string>
     <string name="none_download_pic_pref">Не загружать изображения по 2G/3G</string>
-    <string name="app_update_page">Применение обновлений</string>
-    <string name="available_update_number">Обновление(%1$d)</string>
+    <string name="app_update_page">Обновления</string>
+    <string name="available_update_number">Обновление (%1$d)</string>
     <string name="app_update_settings">Параметры обновления</string>
     <string name="update_by_one_key">Обновить</string>
     <string name="test_app_name">Tencent QQ</string>
@@ -94,24 +94,24 @@
     <string name="ignore_update_app">Игнорировать обновления</string>
     <string name="update_apps_ignored">Игнорируемые обновления</string>
     <string name="update_all_apps">Обновить все</string>
-    <string name="update_apps_ignored_num">Игнорируется(%1$d)</string>
+    <string name="update_apps_ignored_num">Игнорируется (%1$d)</string>
     <string name="restore_update_app">Восстановить обновления</string>
     <string name="flow_saves_update">省流量更新</string>
     <string name="flow_saves_total">省流更新%1$dM(共省%2$dM)</string>
     <string name="ignored_dialog_title_tip">Советы</string>
     <string name="ignored_dialog_msg_content">Игнорировать обновления всех приложений?</string>
-    <string name="wifi_auto_upgrade">Автоматические обновления по Wi-Fi</string>
+    <string name="wifi_auto_upgrade">Автообновление по Wi-Fi</string>
     <string name="software_auto_update_tip">Уведомлять о доступных обновлениях</string>
     <string name="apps_update_ignored">Игнорируемые обновления</string>
     <string name="app_market_name">Имя приложения</string>
-    <string name="app_market_download_sum">Скачиваний</string>
+    <string name="app_market_download_sum">Загрузок</string>
     <string name="app_market_download_size">Размер</string>
     <string name="app_market_download">Скачать</string>
     <string name="app_market_download_operation">операция</string>
     <string name="app_market_download_del">Удалить</string>
     <string name="app_market_download_pause">пауза</string>
     <string name="app_market_download_cancel">отмена</string>
-    <string name="app_market_type_name">Имя категории</string>
+    <string name="app_market_type_name">Категория</string>
     <string name="app_market_type_info">Weibo Знакомства Baihe Форум QQ Momo</string>
     <string name="clear_search_history">Очистить историю поиска</string>
     <string name="downloadman_downloading">Загрузка</string>
@@ -137,7 +137,7 @@
     <string name="downloadman_select_all">Выбрать все</string>
     <string name="downloadman_reverse_selection">Не выбрано</string>
     <string name="downloadman_dlg_delete_confirm">Подтверждение удаления</string>
-    <string name="downloadman_also_delete_apk">Также удалять установочный пакет</string>
+    <string name="downloadman_also_delete_apk">Удалять установочный пакет</string>
     <string name="downloadman_delete_the_record">Удалить загруженные записи?</string>
     <string name="downloadman_delete_the_task">Удалить задачу загрузки?</string>
     <string name="downloadman_delete_select_task_and_record">Удалить выбранную задачу и запись?</string>
@@ -146,12 +146,12 @@
     <string name="downloadman_noakkfile_redownload">Установочный пакет не был обнаружен, загрузить его повторно?</string>
     <string name="downloadman_continue_download_by_mobile">Использовать мобильную сеть при продолжении загрузки?</string>
     <string name="notification_status_dis_download">Загрузка приложений</string>
-    <string name="notification_status_dis_install">Приложения устанавливаются...</string>
+    <string name="notification_status_dis_install">Устанавка приложений...</string>
     <string name="notification_status_dis_installed">Приложение установлено</string>
     <string name="notification_status_dis_installfailed">Ошибка установки приложения</string>
     <string name="notification_status_installed">Установка завершена</string>
     <string name="notification_status_installfailed">Не удается установить</string>
-    <string name="notification_status_update">Обновляемый</string>
+    <string name="notification_status_update">Обновление</string>
     <string name="notification_status_dis_update">Обновление приложения...</string>
     <string name="notification_status_click_dis">Нажмите для просмотра</string>
     <string name="notification_status_click_update">Обновить</string>
