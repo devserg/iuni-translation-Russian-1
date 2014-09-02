@@ -22,7 +22,7 @@
     <string name="name">Имя (опционально)</string>
     <string name="number">Номер телефона</string>
     <string name="reject_sms">Сообщение анти-спам</string>
-    <string name="reject_notification">Перехват уведомления</string>
+    <string name="reject_notification">Уведомления перехвата</string>
     <string name="black_manage">Чёрный список</string>
     <string name="mark_manage">Маркировка списка вызовов</string>
     <string name="tab1">Вызовы</string>
@@ -35,10 +35,10 @@
     <string name="no_mark">Нет маркировок</string>
     <string name="edit">Изменить</string>
     <string name="del">Удалить</string>
-    <string name="del_mark">Удалить маркировки</string>
-    <string name="is_confirm_del">Маркировки вызовов будут удалены. Вы уверены, что хотите удалить?</string>
-    <string name="add_mark">Добавить маркировку</string>
-    <string name="edit_mark">Редактировать маркировку</string>
+    <string name="del_mark">Удаление маркировки</string>
+    <string name="is_confirm_del">Маркировки вызовов будут удалены. Подтвердить?</string>
+    <string name="add_mark">Добавление маркировки</string>
+    <string name="edit_mark">Изменение маркировки</string>
     <string name="black_call">Позвонить</string>
     <string name="black_sms">Отправить сообщение</string>
     <string name="black_edit">Изменить</string>
@@ -48,7 +48,7 @@
     <string name="black_number_exist">Номер существует</string>
     <string name="mark_content_exist">Маркировка существует</string>
     <string name="recover_sms">Восстановление сообщения</string>
-    <string name="confirm_recover_sms">Подтверждаете восстановление выбранных SMS-сообщений?</string>
+    <string name="confirm_recover_sms">Восстановить выбранне SMS-сообщения?</string>
     <string name="del_sms_record">Удалить перехват</string>
     <string name="confirm_del_sms_record">Подтверждаете удаление перехватов?</string>
     <string name="del_phone_record">Удалить перехват</string>
@@ -64,7 +64,7 @@
     <string name="no_marks">Пожалуйста, введите маркировку</string>
     <string name="dels">Удаление...</string>
     <string name="recovery">Восстановление</string>
-    <string name="sogou_init_toast">Инициализация. Пожалуйста, ждите...</string>
+    <string name="sogou_init_toast">Инициализация. Пожалуйста, подождите...</string>
     <string name="no_calllog">Нет вызовов</string>
     <string name="aurora_save_title">Сохранение...</string>
     <string name="aurora_select_more_toast">Превышает максимальное количество номеров (100)</string>
