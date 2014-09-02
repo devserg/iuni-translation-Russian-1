@@ -373,7 +373,7 @@
     <string name="gn_delivery_report_at">в</string>
     <string name="gn_last_export">Последний экспорт</string>
     <string name="gn_last_import">Последний импорт</string>
-    <string name="gn_notify_message">金立智能手机提醒您，%1$s, %2$s ,给您来信.</string>
+    <string name="gn_notify_message">金立智能手机提醒您,%1$s, %2$s ,给您来信.</string>
     <string name="gn_sim_a">卡1</string>
     <string name="gn_sim_b">卡2</string>
     <string name="gn_last_nubmer">尾号</string>
@@ -428,7 +428,7 @@
     <string name="gn_existing_contact">Существующий контакт</string>
     <string name="gn_pref_title_voice_setting">Голосовые параметры</string>
     <string name="gn_pref_title_voice_read">Голосовое чтение</string>
-    <string name="gn_pref_title_voice_read_detail">Increase read the item in the pop-up menu，Click it to read the current message</string>
+    <string name="gn_pref_title_voice_read_detail">Increase read the item in the pop-up menu,Click it to read the current message</string>
     <string name="gn_pref_title_voice_input">Голосовой ввод</string>
     <string name="gn_pref_title_voice_input_detail">Long press the icon of New message to create voice messages</string>
     <string name="gn_new_voice_message_tip">"Please speek the recipient's name and message content.| Send a message to somebody,five p.m. today meeting."</string>

@@ -351,13 +351,13 @@
     <string name="illustration">Большй и огромный шрифт используется только для набора SMS и контактов</string>
     <string name="gn_sound_control_title">Профили звука</string>
     <string name="gn_sound_control_calling">Входящие телеграммы</string>
-    <string name="gn_sound_control_calling_summary">Voice broadcast，Voice answer and Hang up</string>
+    <string name="gn_sound_control_calling_summary">Voice broadcast,Voice answer and Hang up</string>
     <string name="gn_sound_control_message">SMS</string>
-    <string name="gn_sound_control_message_summary">Voice broadcast，Voice reading and Callback</string>
+    <string name="gn_sound_control_message_summary">Voice broadcast,Voice reading and Callback</string>
     <string name="gn_sound_control_lockscreen">Открытие приложений на экране блокировки</string>
-    <string name="gn_sound_control_lockscreen_summary">Open application interface by voice in lockscreen，such as open the Contacts</string>
+    <string name="gn_sound_control_lockscreen_summary">Open application interface by voice in lockscreen,such as open the Contacts</string>
     <string name="gn_sound_control_alarmclock">Будильник</string>
-    <string name="gn_sound_control_alarmclock_summary">The alarm rang，close alarm or delay ring again by voice</string>
+    <string name="gn_sound_control_alarmclock_summary">The alarm rang,close alarm or delay ring again by voice</string>
     <string name="gn_sound_control_dialog">Открыть профиль управления звуком?</string>
     <string name="gn_sound_control_dialog_message">The sound and the ring of AudioProfile will become to the Voice broadcast after open the Sound Control Profile .</string>
     <string name="not_alert_again">Не предупреждть снова</string>
