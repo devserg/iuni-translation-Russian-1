@@ -34,7 +34,7 @@
     <string name="auto_sync_start">Автоматическая синхронизация включена</string>
     <string name="sync_failed">Сбой синхронизации</string>
     <string name="sync_active">Синхронизирование</string>
-    <string name="sync_one_time_sync">Коснитесь для немедленной синхронизаци（\u0009%1$s）</string>
+    <string name="sync_one_time_sync">Коснитесь для немедленной синхронизаци(\u0009%1$s)</string>
     <string name="sync_automatically">Данные приложения автоматически синхронизируется</string>
     <string name="global_change_warning">Этот параметр влияет на всех пользователей этого телефона.</string>
 </resources>

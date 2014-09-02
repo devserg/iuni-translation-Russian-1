@@ -344,7 +344,7 @@
         <item>net.qihoo.launcher.widget.clockweather$net.qihoo.clockweather.splash.EntryActivity|360 Weather|360天气#tian_qi_360.png</item>
         <item>net.mobigame.zombietsunamimojjj$net.mobigame.zombietsunami.ZombieActivity|Zombie Tsunami|#jiang_shi_jiang_jiao.png</item>
         <item>org.cocos2dx.MyGame.cwyx$org.cocos2dx.MyGame.cwyx.MyGame|仙侠online|#xian_xia_online.png</item>
-        <item>org.microemu.android.Midlet20100906121335171$org.microemu.android.MicroEmulator|雷电（豪华版）|#lei_dian_hao_hua_ban.png</item>
+        <item>org.microemu.android.Midlet20100906121335171$org.microemu.android.MicroEmulator|雷电(豪华版)|#lei_dian_hao_hua_ban.png</item>
         <item>com.zhiqupk.rootcleaner$com.zhiqupk.rootcleaner.HomeActivity|系统清道夫|#xi_tong_ruan_jian_qing_dao_fu.png</item>
         <item>com.skype.rover$com.skype.raider.Main|Skype|#skype.png</item>
         <item>com.voice360.main$com.voice360.main.Voice360|通话录音|#tong_hua_lu_yin.png</item>
@@ -395,7 +395,7 @@
         <item>com.kkkstudio.doudizhu$com.kkkstudio.landlords.DDZ|斗地主单机版|#doudizhudanjiban.png</item>
         <item>com.galapagossoft.trialx2_gl2$com.unity3d.player.UnityPlayerActivity|TrialX2|#jixianmotuo2.png</item>
         <item>com.lovebizhi.wallpaper$com.lovebizhi.wallpaper.WelcomeActivity|爱壁纸|#aibizhihd.png</item>
-        <item>com.ting.mp3.qianqian.android$com.ting.mp3.qianqian.android.SplashActivity|千千静听（百度音乐版）|#qianqianjingtingbaiduyinyueban.png</item>
+        <item>com.ting.mp3.qianqian.android$com.ting.mp3.qianqian.android.SplashActivity|千千静听(百度音乐版)|#qianqianjingtingbaiduyinyueban.png</item>
         <item>cn.bluesky.gomoku$cn.bluesky.gomoku.Gomoku|Gomoku|五子棋#wuziqi.png</item>
         <item>com.baoruan.wallpaper.mfbczaibdZPOXYBbwKQ$com.baoruan.wallpaper_demo.MainActivity|天天连萌|#tiantianlianmeng.png</item>
         <item>com.vectorunit.blue$com.vectorunit.blue.Blue|Riptide GP|#jiliukuaiting.png</item>
@@ -718,7 +718,7 @@
         <item>com.com2us.deadcity.normal.freefull.google.global.android.commonc$com.com2us.deadcity.normal.freefull.google.global.android.commonc.DeadCityActivity|DeadCity#dead_city.png</item>
         <item>jp.gungho.padEN$jp.gungho.padEN.AppDelegate|PAD#puzzle_dragons.png</item>
         <item>com.kanbox.wp$com.kanbox.wp.Main|酷盘#kupan.png</item>
-        <item>奇怪大冒险（完整版）#qiguaidamaoxian.png</item>
+        <item>奇怪大冒险(完整版)#qiguaidamaoxian.png</item>
         <item>com.ArtInGames.AirAttackHD_BR_PT$com.unity3d.player.UnityPlayerProxyActivity|AirAttack HD#airattack_hd.png</item>
         <item>com.gameloft.android.ANMP.GloftG4HM$com.inject.InjectActivity|Gangstar Rio|里约热内卢:圣徒之城__Gangstar_Rio:_City_of_Saints#gangstar_rio_city_of_saints.png</item>
         <item>GO备份#go_beifen.png</item>
