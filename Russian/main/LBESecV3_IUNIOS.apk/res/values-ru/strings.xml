@@ -163,13 +163,13 @@
     <string name="HIPS_SecurityPrompt_Reject">Запретить (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
     <string name="HIPS_SecurityPrompt_Next">Далее</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Caption">Важное предупреждение</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Вы хотите предовтавить %1$s ROOT права?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Caption">Предупреждение</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Предоставить %1$s ROOT права?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Доступ к ROOT правам может вызвать нестабильность системы</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Конфиденциальные данные, например, банковские счета, пароли и сообщения, могут быть утеряны</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Также возможно повреждение оборудования</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте ROOT права с осторожностью!</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step6">Вы уверены предоставить %1$s ROOT права?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step6">Предоставить приложению %1$s ROOT права?</string>
     <string name="Dashboard_Perm">Разрешения</string>
     <string name="Dashboard_App">Приложения</string>
     <string name="Dashboard_Log">Журналы</string>
@@ -201,7 +201,7 @@
     <string name="Dashboard_Su_Enable_Content">"Включение этой функции позволит приложениям запрашивать ROOT права.
 Примечание: приложения, имеющие ROOT права, могут вызвать нестабильность системы, потерю данных, повреждение системы и оборудования. Будьте осторожны. Продолжить?"</string>
     <string name="Dashboard_Log_Clear_Title">Очистить журнал</string>
-    <string name="Dashboard_Log_Clear_Content">Все журналы будут очищены. Вы уверены, что хотите включить его?</string>
+    <string name="Dashboard_Log_Clear_Content">Все журналы будут очищены. Продолжить?</string>
     <string name="Privacy_Perm_Count">Разрешено: %1$d Отказано: %2$d</string>
     <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
     <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - <font color=#478800>Доверенные</font></string>
@@ -220,6 +220,6 @@
     <string name="SysOpt_Boost_Receiver">Фон</string>
     <string name="SysOpt_Boost_AutoStart_Group">Автозапуск</string>
     <string name="SysOpt_Boost_AutoStart">Разрешение автозапуска</string>
-    <string name="Su_Enable_Dialog">%1$s пытается получить ROOT права, которые отключены по умолчанию для безопасности системы. Если вы хотите включить их, зайдите в настройки менеджера разрешений.</string>
+    <string name="Su_Enable_Dialog">%1$s пытается получить ROOT права, которые отключены по умолчанию для безопасности системы. Для их включения зайдите в настройки менеджера разрешений.</string>
     <string name="Su_Unavailable">ROOT права отключены в стабильной версии IUNI OS. Установите версию для разработчиков для их активации.</string>
 </resources>

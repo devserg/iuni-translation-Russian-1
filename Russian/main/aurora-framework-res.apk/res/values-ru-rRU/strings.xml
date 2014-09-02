@@ -61,8 +61,8 @@
     <string name="description_direction_left">Сдвиньте влево для %s.</string>
     <string name="aurora_shutdown">Выключение</string>
     <string name="aurora_reboot">Перезагрузка</string>
-    <string name="aurora_airmode">Выкл авиарежим</string>
-    <string name="aurora_airmode_open">Вкл авиарежим</string>
+    <string name="aurora_airmode">Выкл. авиарежим</string>
+    <string name="aurora_airmode_open">Вкл. авиарежим</string>
     <string name="aurora_dialog_default_title">Примечание</string>
     <string name="aurora_activity_searchviewcancelbtnttext">Отмена</string>
     <string name="reboot_alert_title">Перезагрузка</string>

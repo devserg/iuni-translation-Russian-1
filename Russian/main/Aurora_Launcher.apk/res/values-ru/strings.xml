@@ -97,10 +97,10 @@
     <string name="custom_workspace_cling_title_2" />
     <string name="custom_workspace_cling_description_2" />
     <string name="add_into_folder">Добавить в папку(%d)</string>
-    <string name="folder_import_hint">Выберите приложения, которые вы хотите переместить в папку</string>
+    <string name="folder_import_hint">Выберите приложения для перемещения в папку</string>
     <string name="folder_import_full_toast">"Папка заполнена, невозможно добавлить"</string>
     <string name="dialog_align_icon_title">Выравнивать иконки</string>
-    <string name="dialog_align_icon_content">Вы хотите выровнять иконки на текущем экране?</string>
+    <string name="dialog_align_icon_content">Выровнять иконки на текущем экране?</string>
     <string name="quick_index_title">ВСЕ ПРИЛОЖЕНИЯ</string>
     <string name="folder_drop_str">Удалить</string>
     <string name="folder_str_tools">Инструменты</string>
@@ -112,7 +112,7 @@
     <string name="no_space">Свободного места на этом главном экране не найдено, попробуйте добавить снова.</string>
     <string name="settings_not_found">Приложение не устанавливается.</string>
     <string name="dismiss_folder_title">Удалить</string>
-    <string name="dismiss_folder_msg">Вы хотите удалить эту папку?</string>
+    <string name="dismiss_folder_msg">Удалить выбранную папку?</string>
     <string name="dismiss_folder_confirm">Удалить</string>
     <string name="dock_phone_name">Телефон</string>
     <string name="dock_contacts_name">Контакты</string>
