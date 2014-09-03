@@ -103,7 +103,7 @@
     <string name="msg_for_check_network">Пожалуйста, проверьте сетевое соединение</string>
     <string name="have_new_recovery">Найдено новое Recovery</string>
     <string name="new_recovery_msg">Пакет обновления содержит только Recovery, нажмите Updater для обновления прошивки</string>
-    <string name="click_to_check_current_version">Нажмите для просмотра подробностей текущей версии</string>
+    <string name="click_to_check_current_version">Просмотреть подробности текущей версии</string>
     <string name="default_location_country">Китай</string>
     <string name="has_no_storage">Карта памяти недоступна</string>
     <string name="dialog_notice_title">Оповещение</string>

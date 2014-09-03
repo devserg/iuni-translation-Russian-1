@@ -51,7 +51,7 @@
     <string name="item_download">Скачать</string>
     <string name="item_open">Открыть</string>
     <string name="download_count_str">Скачать</string>
-    <string name="app_size_str">14.5MB</string>
+    <string name="app_size_str">14.5МБ</string>
     <string name="app_intro">Программное обеспечение</string>
     <string name="app_update_desc">Описание обновления</string>
     <string name="view_comment">Посмотреть комментарии (%1$d отзыва)</string>
@@ -89,7 +89,7 @@
     <string name="update_by_one_key">Обновить</string>
     <string name="test_app_name">Tencent QQ</string>
     <string name="test_app_version">1.0.5->1.1.5</string>
-    <string name="test_app_size">13.8MB</string>
+    <string name="test_app_size">13.8МБ</string>
     <string name="app_update">Обновление</string>
     <string name="ignore_update_app">Игнорировать обновления</string>
     <string name="update_apps_ignored">Игнорируемые обновления</string>

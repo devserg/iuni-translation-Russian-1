@@ -4,8 +4,8 @@
     <string name="group_num_type">P</string>
     <string name="sdcard_change_name">Изменить</string>
     <string name="lockscreen_wallpaper">Экран блокировки</string>
-    <string name="desktop_wallpaper">Обои рабочего стола</string>
-    <string name="default_lockscreen_wallpaper_name">Действующие</string>
+    <string name="desktop_wallpaper">Рабочий стол</string>
+    <string name="default_lockscreen_wallpaper_name">Установленные</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_next">Следующие</string>
     <string name="setting_wallpaper">Сохранение...</string>
@@ -26,19 +26,19 @@
     <string name="wallpaper_settings_video">com.mediatek.vlw</string>
     <string name="wallpaper_settings_samsung">com.sec.android.app.wallpaperchooser</string>
     <string name="wallpaper_settings_live">com.android.wallpaper.livepicker</string>
-    <string name="lockpaper_pre_null_str">Загрузка кроме изображения</string>
+    <string name="lockpaper_pre_null_str">Загрузка изображений</string>
     <string name="wallpaper_crop_title">Перемещение или увеличение изображения</string>
     <string name="wallpaper_crop_ok">Сохранить</string>
     <string name="wallpaper_crop_del">Удалить</string>
-    <string name="wallpaper_crop_custom_name">Пользовательские серии</string>
+    <string name="wallpaper_crop_custom_name">Пользовательский набор обоев</string>
     <string name="wallpaper_crop_cancel_title">Отмена действия</string>
     <string name="wallpaper_crop_cancel_msg">Отменить обрезку?</string>
-    <string name="wallpaper_crop_del_msg">Удалить текущую серию обоев?</string>
-    <string name="wallpaper_select_max_toast">Действующий экран блокировки поддерживает до 12 изображений</string>
-    <string name="wallpaper_crop_sdcard_error">SD-карта не в порядке. Пожалуйста, добавьте повторно</string>
+    <string name="wallpaper_crop_del_msg">Удалить текущий набор обоев?</string>
+    <string name="wallpaper_select_max_toast">Экран блокировки поддерживает до 12 изображений</string>
+    <string name="wallpaper_crop_sdcard_error">Ошибка SD-карты. Пожалуйста, добавьте повторно</string>
     <string name="dialog_title">Подтвердите действие</string>
     <string name="image_loading">Загрузка изображения...</string>
-    <string name="image_too_small">К сожалению, разрешение выбранного изображения слишком низкои и не может быть выбранно для установки как обои.</string>
-    <string name="image_load_failed">Неудачная загрузка изображения. Пожалуйста, выберите изображение повторно</string>
+    <string name="image_too_small">Разрешение выбранного изображения слишком низкое, его невозможно установить в качестве обоев.</string>
+    <string name="image_load_failed">Ошибка загрузки изображения. Пожалуйста, выберите изображение повторно</string>
     <string name="wallpaper_setting">Установка обоев...</string>
 </resources>

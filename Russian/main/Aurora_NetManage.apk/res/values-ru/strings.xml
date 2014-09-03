@@ -66,7 +66,7 @@
     <string name="install">Установить</string>
     <string name="new_version_not_apply_new_permission">Новая версия приложения не запрашивало новых разрешений</string>
     <string name="app_not_apply_permission">Приложение не обращалось за разрешением</string>
-    <string name="during_optimize_all_apk">Оптимизация всех приложений, пожалуйста, подождите...</string>
+    <string name="during_optimize_all_apk">Оптимизация приложений, пожалуйста, подождите...</string>
     <string name="during_close_all_danger_permission">Отключение всех рискованных разрешений, пожалуйста, подождите...</string>
     <string name="during_clear_choiceed_app_cache_data">Очистка кэшей выбранных приложений, пожалуйста, подождите...</string>
     <string name="during_uninstall_choiceed_app">Удаление выбранных приложений, пожалуйста, подождите...</string>

@@ -45,8 +45,8 @@
     <string name="aurora_wifi_tether_text">Точка доступа Wi-Fi</string>
     <string name="aurora_wifi_tether_configure_ap">Настройки точки доступа Wi-Fi</string>
     <string name="aurora_report">Отчет</string>
-    <string name="aurora_megabyteShort">MB</string>
-    <string name="aurora_gigabyteShort">GB</string>
+    <string name="aurora_megabyteShort">МБ</string>
+    <string name="aurora_gigabyteShort">ГБ</string>
     <string name="aurora_wifi_tether_configure_ssid_default">IUNI_AP</string>
     <string name="clearDefaultHintMsg">Очистить значение по умолчанию в “Настройки системы”>“Application”>“Загрузки”</string>
     <string name="bugreport_title">Принять отчет об ошибке</string>
