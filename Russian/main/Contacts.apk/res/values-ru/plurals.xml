@@ -1,55 +1,55 @@
-A<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="aurora_import_contact">
-        <item quantity="other">Importing %d contacts</item>
-        <item quantity="one">Importing 1 contact</item>
+        <item quantity="other">Импортировано %d контактов</item>
+        <item quantity="one">Контакт импортировано</item>
     </plurals>
     <plurals name="aurora_delete_contact">
-        <item quantity="other">Deleting %d contacts</item>
-        <item quantity="one">Deleting 1 contact</item>
+        <item quantity="other">Удалено %d контактов</item>
+        <item quantity="one">Контакт удален</item>
     </plurals>
     <plurals name="gn_searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">" 1 found"</item>
+        <item quantity="other">%d найдены</item>
+        <item quantity="one">"1 найден"</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d контактов с номерами телефонов</item>
+        <item quantity="one">1 контакт с номером телефона</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">1 contact</item>
+        <item quantity="other">%d контактов</item>
+        <item quantity="one">1 контакт</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d найдены</item>
+        <item quantity="one">1 найден</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d найдены</item>
+        <item quantity="one">1 найден</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">объеденено %0$d контактов</item>
+        <item quantity="one">не объеденено</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d групп(ы)</item>
+        <item quantity="one">1 группа</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
+        <item quantity="other">%1$d человек(а) из %2$s</item>
+        <item quantity="one">%1$d человека из %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d людей</item>
+        <item quantity="one">%1$d человек</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Voicemails</item>
-        <item quantity="one">Voicemail</item>
+        <item quantity="other">%1$d голосовых сообщений</item>
+        <item quantity="one">Голосовое сообщение</item>
     </plurals>
     <plurals name="searchFoundCalllogs">
-        <item quantity="other">%d call logs</item>
-        <item quantity="one">1 call log</item>
+        <item quantity="other">%d журналов вызовов</item>
+        <item quantity="one">1 журнал вызовов</item>
     </plurals>
 </resources>

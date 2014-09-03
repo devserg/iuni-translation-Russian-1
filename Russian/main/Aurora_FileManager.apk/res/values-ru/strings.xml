@@ -84,7 +84,7 @@
     <string name="wait_a_moment">Файлы копируются в фоновом режиме. Пожалуйста, подождите!</string>
     <string name="next">Вперед</string>
     <string name="nexts">Вперед %s  </string>
-    <string name="gtext">Гбайт</string>
+    <string name="gtext">ГБ</string>
     <string name="get_more_pic">Возможно выбрать до %1$d изображений</string>
     <string name="phone_audio">Запись телефонных разговоров</string>
 </resources>
