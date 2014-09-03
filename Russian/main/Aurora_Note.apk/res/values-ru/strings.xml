@@ -63,7 +63,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="share_title">Поделиться</string>
     <string name="save_to_gallery_success">Изображение сохранено</string>
     <string name="save_to_gallery_failed">Не удалось сохранить изображение</string>
-    <string name="sdcard_is_not_available">SD карта не доступна</string>
+    <string name="sdcard_is_not_available">SD карта недоступна</string>
     <string name="load_picture_error_io">Не удалось загрузить изображение</string>
     <string name="load_picture_error_network">Не удается загрузить из-за проблем с сетью</string>
     <string name="load_picture_error_decoding">Невозможно отобразить изоображения</string>
