@@ -148,9 +148,9 @@
         <item>@string/pref_camera_focusmode_entry_macro</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entryvalues">
-        <item>auto</item>
-        <item>infinity</item>
-        <item>macro</item>
+        <item>авто</item>
+        <item>бесконечность</item>
+        <item>макро</item>
     </string-array>
     <string-array name="pref_camera_focusmode_labels">
         <item>@string/APKTOOL_DUMMY_019a</item>
@@ -168,9 +168,9 @@
         <item>@string/APKTOOL_DUMMY_01a3</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
-        <item>off</item>
-        <item>auto</item>
-        <item>on</item>
+        <item>выкл</item>
+        <item>авто</item>
+        <item>вкл</item>
     </string-array>
     <array name="camera_flashmode_icons">
         <item>@drawable/ic_flash_off_holo_light</item>
@@ -191,8 +191,8 @@
         <item>@string/APKTOOL_DUMMY_01a4</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
-        <item>torch</item>
-        <item>off</item>
+        <item>вспышка</item>
+        <item>выкл</item>
     </string-array>
     <array name="video_flashmode_icons">
         <item>@drawable/ic_flash_on_holo_light</item>
@@ -203,8 +203,8 @@
         <item>@drawable/ic_flash_off_holo_light</item>
     </array>
     <string-array name="pref_camera_recordlocation_entryvalues">
-        <item>off</item>
-        <item>on</item>
+        <item>выкл</item>
+        <item>вкл</item>
     </string-array>
     <string-array name="pref_camera_recordlocation_entries">
         <item>@string/setting_off</item>
@@ -237,11 +237,11 @@
         <item>@string/APKTOOL_DUMMY_01b0</item>
     </string-array>
     <string-array name="pref_camera_whitebalance_entryvalues">
-        <item>incandescent</item>
-        <item>fluorescent</item>
-        <item>auto</item>
-        <item>daylight</item>
-        <item>cloudy-daylight</item>
+        <item>лампа накаливания</item>
+        <item>флуоресцентный</item>
+        <item>авто</item>
+        <item>дневной свет</item>
+        <item>облачно-дневной свет</item>
     </string-array>
     <array name="whitebalance_icons">
         <item>@drawable/ic_wb_incandescent</item>
@@ -286,11 +286,11 @@
         <item>@drawable/ic_sce_party</item>
     </array>
     <string-array name="pref_camera_scenemode_entryvalues">
-        <item>auto</item>
-        <item>action</item>
-        <item>night</item>
-        <item>sunset</item>
-        <item>party</item>
+        <item>авто</item>
+        <item>движение</item>
+        <item>ночь</item>
+        <item>закат</item>
+        <item>компания</item>
     </string-array>
     <string-array name="camera_id_entries">
         <item>@string/pref_camera_id_entry_back</item>

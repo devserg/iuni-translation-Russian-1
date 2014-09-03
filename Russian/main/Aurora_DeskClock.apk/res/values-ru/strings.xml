@@ -118,7 +118,7 @@
     <string name="gallery_button_description">Галерея</string>
     <string name="music_button_description">Музыка</string>
     <string name="nightmode_button_description">Ночной режим</string>
-    <string name="home_button_description">Launcher</string>
+    <string name="home_button_description">Рабочий стол</string>
     <string name="desk_clock_button_description">Дисплей часов</string>
     <string name="battery_charging_level">%d%%</string>
     <string name="weather_fetch_failure">Невозможно предоставить информацию о погоде.</string>
@@ -209,7 +209,7 @@
     <string name="alarm_deleted">Будильник удален.</string>
     <string name="alarmalertclose">Проведите вверх для выключения будильника</string>
     <string name="isshowofficeday">нет</string>
-    <string name="airplanemodeoff">Авиарежим был вык автоматически</string>
-    <string name="appwidget_month">месяц</string>
-    <string name="appwidget_date">день</string>
+    <string name="airplanemodeoff">Авиарежим был автоматически выключен</string>
+    <string name="appwidget_month">мес </string>
+    <string name="appwidget_date">день,</string>
 </resources>

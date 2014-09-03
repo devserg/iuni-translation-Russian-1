@@ -7,7 +7,7 @@
     <string name="unknown">Неизвестный</string>
     <string name="private_num">Скрытый номер</string>
     <string name="payphone">Телефон-автомат</string>
-    <string name="onHold">Ждет ответа</string>
+    <string name="onHold">Ожидание ответа</string>
     <string name="callFailed_userBusy">Линия занята</string>
     <string name="callFailed_congestion">Сеть занята</string>
     <string name="callFailed_timedOut">Нет ответа, время вышло</string>
@@ -595,8 +595,8 @@
     <string name="aurora_preferred_network_mode_choices3">Только WCDMA</string>
     <string name="aurora_preferred_network_mode_choices2">Только GSM</string>
     <string name="aurora_preferred_network_mode_choices1">WCDMA (предпочтительно)</string>
-    <string name="aurora_record_button_text_off">начать запись</string>
-    <string name="aurora_record_button_text_on">последняя запись</string>
+    <string name="aurora_record_button_text_off">Начать запись</string>
+    <string name="aurora_record_button_text_on">Последняя запись</string>
     <string name="aurora_error_sdcard_access">SD-карта недоступна</string>
     <string name="aurora_no_storage">Недостаточно места для хранения, освободите место</string>
     <string name="gn_record">Запись</string>
@@ -614,13 +614,13 @@
     <string name="gn_record_save">Запись сохранена</string>
     <string name="start_record">Начать запись</string>
     <string name="stop_record">Остановить запись</string>
-    <string name="str_db_playlist_name">Мои записи</string>
+    <string name="str_db_playlist_name">Записи звонков</string>
     <string name="alert_device_error">Ошибка записи</string>
     <string name="ext_media_badremoval_notification_title">SD-карта отключена</string>
     <string name="error_sdcard_access">SD-карта недоступна</string>
     <string name="confirm_device_info_full">Память SD-карты заполнена, запись сохранена</string>
     <string name="confirm_save_info_saved">Запись сохранена</string>
-    <string name="aurora_ringer_title">Smart-звонок</string>
+    <string name="aurora_ringer_title">Умный звонок</string>
     <string name="aurora_ringer_summary">Нарастающий звук звонка и более тихий, когда пользователь держит телефон</string>
     <string name="huadongjieting">сдвиг для ответа</string>
     <string name="huadongjujie">сдвиг для сброса</string>

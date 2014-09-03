@@ -16,7 +16,7 @@
     <string name="give_up">Отказать содержимому</string>
     <string name="is_give_up">Содержимое дыло редактированно, вы уверены в отказе?</string>
     <string name="reject">Перехват</string>
-    <string name="refresh">Регенерация...</string>
+    <string name="refresh">Обновление...</string>
     <string name="black">Чёрный список</string>
     <string name="no_black">Нет чёрного списка</string>
     <string name="name">Имя (опционально)</string>

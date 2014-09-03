@@ -33,10 +33,10 @@
         <item>Декабрь</item>
     </string-array>
     <string-array name="themonthday">
-        <item>st</item>
-        <item>nd</item>
-        <item>rd</item>
-        <item>th</item>
+        <item>ое</item>
+        <item>ое</item>
+        <item>е</item>
+        <item>ое</item>
     </string-array>
     <string-array name="auto_silence_values">
         <item>-1</item>

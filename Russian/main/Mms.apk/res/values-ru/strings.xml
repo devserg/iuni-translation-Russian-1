@@ -874,7 +874,7 @@
     <string name="confirm_delete_selected_messages">Выбранные сообщения будут удалены.</string>
     <string name="confirm_delete_selected_theads">Выбранные темы будут удалены.</string>
     <string name="restricted_forward_title">Мультимедийное сообщение</string>
-    <string name="restricted_forward_message">Это медиаданные могут неправильно отображаться получателям. Продолжить?</string>
+    <string name="restricted_forward_message">Эти медиаданные могут некорректно отображаться получателям. Продолжить?</string>
     <string name="strOk">Сообщение отправлено</string>
     <string name="strFail">Произошла ошибка при отправке ообщения</string>
     <string name="menu_insert_text_vcard">Вставить контакт</string>
