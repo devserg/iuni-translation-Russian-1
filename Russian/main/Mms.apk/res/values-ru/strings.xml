@@ -536,7 +536,7 @@
     <string name="mms">MMS</string>
     <string name="all_threads">Все диалоги</string>
     <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
-    <string name="open_keyboard_to_compose_message">Откройте клавиатуру, чтобы ввести сообщение</string>
+    <string name="open_keyboard_to_compose_message">Откройте клавиатуру для ввода сообщения</string>
     <string name="compressing">Изображение слишком большое. Выполняется сжатие…</string>
     <string name="unsupported_media_format">Неподдерживаемый формат (%1$s).</string>
     <string name="select_different_media">Выберите другой объект (%1$s).</string>
@@ -689,7 +689,7 @@
     <string name="notification_failed_multiple">Не отправлено сообщений: %s</string>
     <string name="notification_failed_multiple_title">Сообщения не отправлены</string>
     <string name="sim_full_title">SIM-карта заполнена</string>
-    <string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место.</string>
+    <string name="sim_full_body">Удалите несколько сообщений для освобождения памяти.</string>
     <string name="sms_full_title">Память текстовых сообщений заполнена</string>
     <string name="sms_full_body">Входящие сообщения будут отклонены: недостаточно место на устройстве.</string>
     <string name="sms_rejected_title">Сообщение SMS отклонено</string>
@@ -1026,7 +1026,7 @@
     <string name="abort_mms_text ">Нажмите, чтобы прервать и вернуться.</string>
     <string name="progress_mms_title">MMS transaction on other sub in progress</string>
     <string name="progress_mms">Сообщение: отправка MMS…</string>
-    <string name="progress_mms_text ">Нажмите, чтобы повторить попытку еще раз</string>
+    <string name="progress_mms_text ">Нажмите для повтора попытки</string>
     <string name="confirm_delete_selected_SIM_message">Выбранные сообщения в SIM-карте будут удалены</string>
     <string name="confirm_delete_selected_conversations">Выбранные сообщения будут удалены.</string>
 </resources>

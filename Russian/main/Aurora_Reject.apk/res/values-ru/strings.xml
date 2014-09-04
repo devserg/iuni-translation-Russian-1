@@ -53,7 +53,7 @@
     <string name="confirm_del_sms_record">Подтверждаете удаление перехватов?</string>
     <string name="del_phone_record">Удалить перехват</string>
     <string name="confirm_del_phone_record">Подтверждаете удаление перехватов?</string>
-    <string name="confirm_no_reject">Подтверждаете, чтобы больше не перехватывать этот номер?</string>
+    <string name="confirm_no_reject">Не перехватывать больше этот номер?</string>
     <string name="aurora_local_number">Нативный номер</string>
     <string name="aurora_service_number">Сервисный номер</string>
     <string name="at_least_one">Выберите хотя бы один пункт</string>

@@ -180,7 +180,7 @@
     <string name="contentServiceSync">Синхр.</string>
     <string name="contentServiceSyncNotificationTitle">Синхр.</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много %s удалений</string>
-    <string name="low_memory">Память телефона заполнена! Удалите файлы, чтобы освободить место</string>
+    <string name="low_memory">Память телефона заполнена! Удалите файлы для освобождения места</string>
     <string name="me">Я</string>
     <string name="power_dialog">Настройки устройства</string>
     <string name="silent_mode">Без звука</string>
@@ -1061,7 +1061,7 @@
     <string name="usb_storage_notification_title">USB подключение установлено</string>
     <string name="usb_storage_notification_message">Выберите файлы для копирования на/с вашего компьютера</string>
     <string name="usb_storage_stop_notification_title">Отключить USB накопитель</string>
-    <string name="usb_storage_stop_notification_message">Нажмите, чтобы отключить USB накопитель</string>
+    <string name="usb_storage_stop_notification_message">Нажмите для отключения USB накопителя</string>
     <string name="usb_storage_stop_title">USB накопитель используется</string>
     <string name="usb_storage_stop_message">Перед отключением USB накопителя убедитесь, что USB накопитель Android был отключен от компьютера.</string>
     <string name="usb_storage_stop_button_mount">Отключить USB накопитель</string>
@@ -1079,7 +1079,7 @@
     <string name="extmedia_format_message">Все данные, находящиеся на SD-карте, будут удалены</string>
     <string name="extmedia_format_button_format">Формат</string>
     <string name="adb_active_notification_title">Отладка по USB разрешена</string>
-    <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB.</string>
+    <string name="adb_active_notification_message">Нажмите для отключения отладки по USB.</string>
     <string name="select_input_method">Выберите способ ввода</string>
     <string name="configure_input_methods">Настроить способ ввода</string>
     <string name="use_physical_keyboard">Физическая клавиатура</string>
@@ -1248,7 +1248,7 @@
     <string name="data_usage_wifi_limit_snoozed_title">Превышен лимит трафика Wi-Fi</string>
     <string name="data_usage_limit_snoozed_body">%s превышает установленный лимит</string>
     <string name="data_usage_restricted_title">Фоновый режим ограничен</string>
-    <string name="data_usage_restricted_body">Нажмите, чтобы снять ограничение</string>
+    <string name="data_usage_restricted_body">Нажмите для снятия ограничения</string>
     <string name="ssl_certificate">Сертификат безопасности</string>
     <string name="ssl_certificate_is_valid">Этот сертификат действителен</string>
     <string name="issued_to">Кому выдан:</string>

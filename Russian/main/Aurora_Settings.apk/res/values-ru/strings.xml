@@ -559,10 +559,10 @@
     <string name="device_picker">Выбор устройства Bluetooth</string>
     <string name="bluetooth_permission_request">Запрос разрешения Bluetooth</string>
     <string name="bluetooth_ask_enablement">Приложение запрашивает разрешение включить Bluetooth. Разрешить?</string>
-    <string name="bluetooth_ask_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Разрешить?</string>
-    <string name="bluetooth_ask_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был всегда доступен для поиска на других устройствах. Разрешить?</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах в течение %1$d сек. Разрешить?</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Одному из приложений нужно, чтобы ваш телефон был доступен для поиска на других устройствах. Разрешить?</string>
+    <string name="bluetooth_ask_discovery">Приложению требуется обнаружение вашего телефона другими устройствами в течение %1$d сек. Разрешить?</string>
+    <string name="bluetooth_ask_lasting_discovery">Приложению требуется обнаружение вашего телефона другими устройствами. Разрешить?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Приложению требуется обнаружение вашего телефона другими устройствами в течение %1$d сек. Разрешить?</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложению требуется обнаружение вашего телефона другими устройствами. Разрешить?</string>
     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
     <string name="bluetooth_auto_connect">Автоподключение</string>
@@ -719,7 +719,7 @@
     <string name="crypt_keeper_encrypt_title">Зашифровать данные</string>
     <string name="crypt_keeper_encrypt_summary">Запрос числового PIN кода или пароля для дешифрования при каждом включении телефона</string>
     <string name="crypt_keeper_encrypted_summary">Зашифровано</string>
-    <string name="crypt_keeper_desc">"Шифрование доступно для аккаунтов, настроек, загруженных приложений и их данных, а также для мультимедийных и прочих файлов. После шифрования данных телефона при каждом его включении необходимо будет вводить числовой PIN код или пароль, чтобы выполнить дешифрование данных. Единственный способ отключить шифрование – сброс настроек, в результате которого все данные будут потеряны.
+    <string name="crypt_keeper_desc">"Шифрование доступно для аккаунтов, настроек, загруженных приложений и их данных, а также для мультимедийных и прочих файлов. После шифрования данных телефона при каждом его включении необходимо будет вводить числовой PIN код или пароль для выполнения дешифрования данных. Единственный способ отключить шифрование – сброс настроек, в результате которого все данные будут потеряны.
 
 Шифрование займет не менее одного часа. Перед его запуском необходимо подключить зарядное устройство и не отключать его до окончания операции. В случае прерывания шифрования будут потеряны все данные или часть из них."</string>
     <string name="crypt_keeper_button_text">Зашифровать данные</string>
@@ -865,7 +865,7 @@
     <string name="bluetooth_dock_settings_a2dp">Для музыки и медиа</string>
     <string name="bluetooth_dock_settings_remember">Запомнить настройки</string>
     <string name="wifi_display_settings_title">Беспроводной дисплей</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_off">Для того чтобы увидеть устройства, включите функцию.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">Для того, чтобы увидеть устройства, включите функцию.</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Беспроводной дисплей отключен. Нет подключения к сети Wi-Fi.</string>
     <string name="wifi_display_search_for_devices">Поиск устройств</string>
     <string name="wifi_display_searching_for_devices">Поиск…</string>
