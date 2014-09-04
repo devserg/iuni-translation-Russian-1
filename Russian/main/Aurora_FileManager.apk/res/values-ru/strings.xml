@@ -12,7 +12,7 @@
     <string name="category_document">Документы</string>
     <string name="enable_sd_card">Нет места для хранения</string>
     <string name="search_hint">Поиск файла или папки</string>
-    <string name="aurora_file_manager_title">Управление файлами</string>
+    <string name="aurora_file_manager_title">Файлы</string>
     <string name="aurora_file_manager_detail">Сведения о памяти</string>
     <string name="aurora_file_manager_category_title">Категория</string>
     <string name="aurora_file_manager_storage_title">Память</string>
