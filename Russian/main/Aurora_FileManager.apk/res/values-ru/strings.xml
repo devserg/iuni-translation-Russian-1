@@ -54,9 +54,9 @@
     <string name="copy_file">Возникли неполадки при копировании файла %s</string>
     <string name="del_file">Не удается удалить %s</string>
     <string name="tabs">%s/     </string>
-    <string name="operation_deleting">Удаление...</string>
-    <string name="operation_pasting">Копирование...</string>
-    <string name="operation_moving">Перемещение...</string>
+    <string name="operation_deleting">Удаление…</string>
+    <string name="operation_pasting">Копирование…</string>
+    <string name="operation_moving">Перемещение…</string>
     <string name="operation_delete_confirm_message">Удалить выбранный файл(выбранные файлы)?</string>
     <string name="operation_delete_single_confirm_message">Удалить этот файл?</string>
     <string name="operation_delete_single_file_confirm_message">Удалить выбранный файл?</string>

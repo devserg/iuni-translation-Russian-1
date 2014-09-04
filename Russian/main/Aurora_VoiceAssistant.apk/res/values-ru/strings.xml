@@ -4,7 +4,7 @@
     <string name="vs_action_settings">Настройки</string>
     <string name="vs_entry_main">进入主界面</string>
     <string name="vs_send">Отправить</string>
-    <string name="vs_pocessing">Запросы обрабатываются...</string>
+    <string name="vs_pocessing">Запросы обрабатываются…</string>
     <string name="vs_iunier">IUNIer</string>
     <string name="vs_input_text">Введите, что вы хотите сказать</string>
     <string name="vs_shard">Поделиться</string>
@@ -28,7 +28,7 @@
     <string name="vs_booking">Бронирование</string>
     <string name="vs_notel">Нет телефона</string>
     <string name="vs_hangban">Рейсы</string>
-    <string name="vs_loading">Загрузка...</string>
+    <string name="vs_loading">Загрузка…</string>
     <string name="vs_cancel">Отмена</string>
     <string name="vs_searchresult">Результат поиска:</string>
     <string name="vs_myaddress">Мое местоположение</string>
@@ -43,7 +43,7 @@
     <string name="vs_tsave">Вид</string>
     <string name="vs_forwardmsg">Экспедирование</string>
     <string name="vs_more">Больше</string>
-    <string name="vs_mores">Более...</string>
+    <string name="vs_mores">Более…</string>
     <string name="vs_address">Адрес:</string>
     <string name="vs_phone">Телефон:</string>
     <string name="vs_airline_logo">Авиакомпании</string>
@@ -100,7 +100,7 @@
     <string name="vs_search_again">重新搜索</string>
     <string name="vs_net_error">当前网络不可用</string>
     <string name="vs_init_error">语音播报初始化失败</string>
-    <string name="vs_init_ing">Инициализация...</string>
+    <string name="vs_init_ing">Инициализация…</string>
     <string name="vs_init">语音播报初始化</string>
     <string name="vs_net_available">当前网络环境欠佳</string>
     <string name="vs_greeting_early">Hi Доброе утро</string>

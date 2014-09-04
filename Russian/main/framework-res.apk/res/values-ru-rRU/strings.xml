@@ -101,8 +101,8 @@
     <string name="mismatchPin">Введенные PIN коды не совпадают.</string>
     <string name="invalidPin">Введите PIN код (от 4 до 8 цифр).</string>
     <string name="invalidPuk">Введите PUK код (8 или больше цифр).</string>
-    <string name="needPuk">SIM карта заблокирована PUK кодом. Для разблокировки введите PUK код.</string>
-    <string name="needPuk2">Для разблокировки SIM карты введите PUK2.</string>
+    <string name="needPuk">SIM-карта заблокирована PUK кодом. Для разблокировки введите PUK код.</string>
+    <string name="needPuk2">Для разблокировки SIM-карты введите PUK2.</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="ClipMmi">Идентификатор входящего вызова</string>
@@ -271,7 +271,7 @@
 	<string name="permgrouplab_display">Доступ к интерфейсу</string>
     <string name="permgroupdesc_display">Позволяет приложению получать доступ к интерфейсу других приложений.</string>
     <string name="permgrouplab_storage">Память</string>
-    <string name="permgroupdesc_storage">Доступ к SD карте</string>
+    <string name="permgroupdesc_storage">Доступ к SD-карте</string>
 	<string name="permgrouplab_accessibilityFeatures">Специальные возможности</string>
     <string name="permgroupdesc_accessibilityFeatures">Специальные возможности, которые можно запрашивать.</string>
     <string name="capability_title_canRetrieveWindowContent">Читать содержимое окна</string>
@@ -303,7 +303,7 @@
 	<string name="permlab_sendRespondViaMessageRequest">Отправка сообщений в ответ на вызовы</string>
     <string name="permdesc_sendRespondViaMessageRequest">Приложение сможет отправлять запросы другим программам обмена сообщениями, чтобы на вызовы можно было отвечать текстовыми сообщениями.</string>
     <string name="permlab_readSms">Чтение SMS и MMS</string>
-    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM карте.</string>
+    <string name="permdesc_readSms">Позволяет приложению считывать SMS-сообщения, которые хранятся в памяти телефона или на SIM-карте.</string>
     <string name="permlab_writeSms">Изменение сообщений</string>
     <string name="permdesc_writeSms">Позволяет приложению изменять SMS-сообщения.</string>
     <string name="permlab_receiveWapPush">Получение WapPush-сообщений</string>
@@ -614,10 +614,10 @@
     <string name="permdesc_readDictionary">Позволяет приложению получать доступ к пользовательскому словарю.</string>
     <string name="permlab_writeDictionary">Изменение словаря</string>
     <string name="permdesc_writeDictionary">Позволяет приложению редактировать содержимое в словаре пользователя.</string>
-	<string name="permlab_sdcardRead">Чтение SD карты</string>
-    <string name="permdesc_sdcardRead">Позволяет приложению читать информацию на SD карте.</string>
-    <string name="permlab_sdcardWrite">Запись на SD карту</string>
-    <string name="permdesc_sdcardWrite">Позволяет приложению записывать и изменять данные на SD карте.</string>
+	<string name="permlab_sdcardRead">Чтение SD-карты</string>
+    <string name="permdesc_sdcardRead">Позволяет приложению читать информацию на SD-карте.</string>
+    <string name="permlab_sdcardWrite">Запись на SD-карту</string>
+    <string name="permdesc_sdcardWrite">Позволяет приложению записывать и изменять данные на SD-карте.</string>
     <string name="permlab_mediaStorageWrite">Данные медиа</string>
     <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое медиа во внутренней памяти.</string>
 	<string name="permlab_sdcardAccessAll">Доступ ко внешним накопителям</string>
@@ -750,13 +750,13 @@
     <string name="lockscreen_charged">Полностью заряжен</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
-    <string name="lockscreen_missing_sim_message_short">Нет SIM карты</string>
-    <string name="lockscreen_missing_sim_message">В телефоне нет SIM карты</string>
-    <string name="lockscreen_missing_sim_instructions">Вставьте SIM карту</string>
-    <string name="lockscreen_missing_sim_instructions_long">SIM карта извлечена, либо не читаема. Пожалуйста, вставьте SIM карту.</string>
-    <string name="lockscreen_permanent_disabled_sim_message_short">SIM карта повреждена</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">Ваша SIM карта повреждена. 
-Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM карту.</string>
+    <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
+    <string name="lockscreen_missing_sim_message">В телефоне нет SIM-карты</string>
+    <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM-карта извлечена, либо не читаема. Пожалуйста, вставьте SIM-карту.</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта повреждена</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">Ваша SIM-карта повреждена. 
+Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM-карту.</string>
     <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
     <string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
@@ -764,10 +764,10 @@
     <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
     <string name="emergency_calls_only">Только экстренные вызовы</string>
     <string name="lockscreen_network_locked_message">Мобильная сеть заблокирована</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM карта заблокирована PUK кодом.</string>
+    <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована PUK кодом.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Инструкции по разблокировке можно найти в контракте на услуги сотовой связи, либо обратитеесь в Клиентскую поддержку сотового оператора.</string>
-    <string name="lockscreen_sim_locked_message">SIM карта заблокирована.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
+    <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Вы неправильно ввели графический ключ %d раз(а).
 
 Новая попытка через %d сек."</string>
@@ -1039,10 +1039,10 @@
     <string name="sms_short_code_remember_undo_instruction">Вы сможете изменить это позже в Настройки > Приложения</string>
     <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
     <string name="sms_short_code_confirm_never_allow">Запретить всегда</string>
-    <string name="sim_removed_title">SIM карта удалена</string>
-    <string name="sim_removed_message">Пока вы не вставите действующую SIM карту, мобильная сеть будет недоступна.</string>
+    <string name="sim_removed_title">SIM-карта удалена</string>
+    <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна.</string>
     <string name="sim_done_button">Готово</string>
-    <string name="sim_added_title">SIM карта добавлена</string>
+    <string name="sim_added_title">SIM-карта добавлена</string>
     <string name="sim_added_message">Для доступа к мобильной сети необходимо перезагрузить устройство.</string>
     <string name="sim_restart_button">Перезапуск</string>
     <string name="time_picker_dialog_title">Настройка времени</string>
@@ -1075,8 +1075,8 @@
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_accessory_notification_title">USB устройство подключено</string>
     <string name="usb_notification_message">Нажмите, для настройки</string>
-    <string name="extmedia_format_title">Форматировать SD карту?</string>
-    <string name="extmedia_format_message">Все данные, находящиеся на SD карте, будут удалены.</string>
+    <string name="extmedia_format_title">Форматировать SD-карту?</string>
+    <string name="extmedia_format_message">Все данные, находящиеся на SD-карте, будут удалены.</string>
     <string name="extmedia_format_button_format">Формат</string>
     <string name="adb_active_notification_title">Отладка по USB разрешена</string>
     <string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB.</string>
@@ -1164,9 +1164,9 @@
     <string name="progress_unmounting">Отключение USB накопителя…</string>
     <string name="progress_erasing">Очистка USB накопителя…</string>
     <string name="format_error">Не удалось очистить USB накопитель</string>
-    <string name="media_bad_removal">SD карта была извлечена до отключения</string>
+    <string name="media_bad_removal">SD-карта была извлечена до отключения</string>
     <string name="media_checking">USB накопитель проверен</string>
-    <string name="media_removed">SD карта отключена</string>
+    <string name="media_removed">SD-карта отключена</string>
     <string name="media_shared">USB накопитель используется компьютером</string>
     <string name="media_unknown_state">Неизвестное состояние внешнего носителя</string>
     <string name="share">Отправить</string>
@@ -1232,7 +1232,7 @@
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="storage_internal">Внутренняя память</string>
-    <string name="storage_sd_card">SD карта</string>
+    <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="extract_edit_menu_button">Редактировать…</string>
     <string name="data_usage_warning_title">Ограничение трафика</string>
@@ -1303,14 +1303,14 @@
     <string name="kg_sim_pin_instructions">Введите SIM PIN</string>
     <string name="kg_pin_instructions">Введите PIN</string>
     <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_puk_enter_puk_hint">SIM карта заблокирована. Введите PUK код для проолжения. Обратитесь в справочную вашего провайдера для получения подробностей.</string>
+    <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Введите PUK код для проолжения. Обратитесь в справочную вашего провайдера для получения подробностей.</string>
     <string name="kg_puk_enter_pin_hint">Введите PIN код</string>
     <string name="kg_enter_confirm_pin_hint">Подтвердите PIN код</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
     <string name="kg_password_wrong_pin_code">Неверный PIN код.</string>
     <string name="kg_invalid_sim_pin_hint">Введите PIN код (от 4 до 8 символов).</string>
     <string name="kg_invalid_sim_puk_hint">PUK код должен содержать 8 и более символов.</string>
-    <string name="kg_invalid_puk">Введите верный PUK код еще раз. Неоднократные неверные попытки приведут к полной блокировке SIM карты.</string>
+    <string name="kg_invalid_puk">Введите верный PUK код еще раз. Неоднократные неверные попытки приведут к полной блокировке SIM-карты.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN коды не совпадают</string>
     <string name="kg_login_too_many_attempts">Слишком много неверных попыток ввода графического ключа</string>
     <string name="kg_login_instructions">Для разблокировки, войдите в Google аккаунт.</string>

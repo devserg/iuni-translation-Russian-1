@@ -63,7 +63,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="share_title">Поделиться</string>
     <string name="save_to_gallery_success">Изображение сохранено</string>
     <string name="save_to_gallery_failed">Не удалось сохранить изображение</string>
-    <string name="sdcard_is_not_available">SD карта недоступна</string>
+    <string name="sdcard_is_not_available">SD-карта недоступна</string>
     <string name="load_picture_error_io">Не удалось загрузить изображение</string>
     <string name="load_picture_error_network">Не удается загрузить из-за проблем с сетью</string>
     <string name="load_picture_error_decoding">Невозможно отобразить изоображения</string>
@@ -99,7 +99,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="decode_bitmap_error">Не удалось загрузить изображение</string>
     <string name="prepare_record_error">Ошибка подготовки записи, попробуйте еще раз</string>
     <string name="sd_space_not_enough">Недостаточно места на SD-карте. Освободите место перед выполнением этой операции</string>
-    <string name="sdcard_not_mounted">SD карта не обнаружена. Вставьте SD-карту.</string>
+    <string name="sdcard_not_mounted">SD-карта не обнаружена. Вставьте SD-карту.</string>
     <string name="record_save">Сохранить</string>
     <string name="record_close">Закрыть</string>
     <string name="play_start_time">00:00:00</string>

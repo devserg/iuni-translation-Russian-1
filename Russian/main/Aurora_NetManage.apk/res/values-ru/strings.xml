@@ -55,7 +55,7 @@
     <string name="arrow_auto_start">Разрешить авто-старт</string>
     <string name="prohibit">Отключить</string>
     <string name="please_choice">Пожалуйста, выберите</string>
-    <string name="calculating">Вычисление...</string>
+    <string name="calculating">Вычисление…</string>
     <string name="sure">ОК</string>
     <string name="modify_hint_text">Can be changed in App Management - Permission Management</string>
     <string name="permission_hint_text">Will gain the following sensitive permissions. Please check to confirm:</string>
@@ -66,10 +66,10 @@
     <string name="install">Установить</string>
     <string name="new_version_not_apply_new_permission">Новая версия приложения не запрашивало новых разрешений</string>
     <string name="app_not_apply_permission">Приложение не обращалось за разрешением</string>
-    <string name="during_optimize_all_apk">Оптимизация приложений, пожалуйста, подождите...</string>
-    <string name="during_close_all_danger_permission">Отключение всех рискованных разрешений, пожалуйста, подождите...</string>
-    <string name="during_clear_choiceed_app_cache_data">Очистка кэшей выбранных приложений, пожалуйста, подождите...</string>
-    <string name="during_uninstall_choiceed_app">Удаление выбранных приложений, пожалуйста, подождите...</string>
+    <string name="during_optimize_all_apk">Оптимизация приложений, пожалуйста, подождите…</string>
+    <string name="during_close_all_danger_permission">Отключение всех рискованных разрешений, пожалуйста, подождите…</string>
+    <string name="during_clear_choiceed_app_cache_data">Очистка кэшей выбранных приложений, пожалуйста, подождите…</string>
+    <string name="during_uninstall_choiceed_app">Удаление выбранных приложений, пожалуйста, подождите…</string>
     <string name="please_choice_need_clear_app">Выберите приложения, которые должны быть очищены</string>
     <string name="clear_data_dlg_title">Уалить данные приложения?</string>
     <string name="clear_data_dlg_text">Будут удалены данные приложения включая все файлы, настройки, учетные записи и базы данных.</string>
@@ -90,7 +90,7 @@
     <string name="video">Видео</string>
     <string name="ebook">Электронная книга</string>
     <string name="input_method">Метод ввода</string>
-    <string name="please_wait_init">Инициализация, пожалуйста, подождите...</string>
+    <string name="please_wait_init">Инициализация, пожалуйста, подождите…</string>
     <string name="auto_start_explain">Some apps will start automatically in the background to ensure timely pushing messages to the user (such as instant messaging apps), but some unnecessary apps may have applied for auto-start permission, consuming more power and memory</string>
     <string name="storage_notify_msg">Заполнено 90% памяти. Нажмите для просмотра кэша приложения.</string>
     <string name="storage_low">Недостаточно места для хранения</string>

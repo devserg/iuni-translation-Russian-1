@@ -124,7 +124,7 @@
     <string name="weather_fetch_failure">Невозможно предоставить информацию о погоде.</string>
     <string name="menu_item_dock_settings">Dock Settings</string>
     <string name="alarm_klaxon_service_desc">Alarm ringtone playback service set in Desk Clock</string>
-    <string name="loading_ringtone">Загрузка мелодий...</string>
+    <string name="loading_ringtone">Загрузка мелодий…</string>
     <string name="control_set_alarm">Установить будильник</string>
     <string name="control_set_alarm_with_existing">Время будильника: %s</string>
     <string name="isDelete_select_alarm">Удалить выбранный будильник?</string>

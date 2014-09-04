@@ -16,7 +16,7 @@
     <string name="give_up">Отказать содержимому</string>
     <string name="is_give_up">Содержимое дыло редактированно, вы уверены в отказе?</string>
     <string name="reject">Перехват</string>
-    <string name="refresh">Обновление...</string>
+    <string name="refresh">Обновление…</string>
     <string name="black">Чёрный список</string>
     <string name="no_black">Нет чёрного списка</string>
     <string name="name">Имя (опционально)</string>
@@ -62,11 +62,11 @@
     <string name="mars">Для маркировок</string>
     <string name="no_number">Пожалуйста, введите номер</string>
     <string name="no_marks">Пожалуйста, введите маркировку</string>
-    <string name="dels">Удаление...</string>
+    <string name="dels">Удаление…</string>
     <string name="recovery">Восстановление</string>
-    <string name="sogou_init_toast">Инициализация. Пожалуйста, подождите...</string>
+    <string name="sogou_init_toast">Инициализация. Пожалуйста, подождите…</string>
     <string name="no_calllog">Нет вызовов</string>
-    <string name="aurora_save_title">Сохранение...</string>
+    <string name="aurora_save_title">Сохранение…</string>
     <string name="aurora_select_more_toast">Превышает максимальное количество номеров (100)</string>
     <string name="aurora_mark_error">Ошибка форматирования имени</string>
     <string name="format">Ошибка форматирования</string>

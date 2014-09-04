@@ -100,7 +100,7 @@
     <string name="aurora_remove_group_one_toast">" \'%1$s\' удалено"</string>
     <string name="aurora_remove_star_message">Снять метку с \'%1$s\'?</string>
     <string name="aurora_remove_star_title">Снять метку</string>
-    <string name="aurora_removeing">Удаление...</string>
+    <string name="aurora_removeing">Удаление…</string>
     <string name="aurora_remove_group_member_toast" formatted="false">"%s контактов удалено из группы \'%s\' "</string>
     <string name="aurora_add_group_member_toast" formatted="false">%s контактов добавлено в группу %s</string>
     <string name="aurora_sim_no_contact_message">Не найдено контактов на SIM-карте</string>
@@ -250,12 +250,12 @@
     <string name="gn_mergeContactsConfirmation">Merge the disrupted contacts which only save on your phone into one contact, take it?</string>
     <string name="gn_mergeContactsConfirmation_title">Объединение контактов</string>
     <string name="gn_searchContactsForMerge_msg">"Scanning disrupted contacts
-Please wait..."</string>
+Please wait…"</string>
     <string name="gn_mergable_query_stop_msg">Сканирование нарушена</string>
     <string name="gn_noMergableConfirmation_title">Нет дубликатов</string>
     <string name="gn_noMergableContacts_msg">Нет дубликатов контактов</string>
     <string name="gn_mergingSameContacts_msg">"Слияние дублирующихся контактов
-Пожалуйста, подождите..."</string>
+Пожалуйста, подождите…"</string>
     <string name="gn_expected_merge">Ожидается слияние</string>
     <string name="gn_mergeble">(%d) дублирующихся контактов найдено</string>
     <string name="gn_manual_combine">Объединить</string>
@@ -338,7 +338,7 @@ Please wait..."</string>
     <string name="gn_favorite_widget_label">Избранные контакты</string>
     <string name="gn_widget_favorite_title">Избранные контакты</string>
     <string name="gn_widget_favorite_empty">Нет избранных контактов</string>
-    <string name="gn_widget_loading">Загрузка...</string>
+    <string name="gn_widget_loading">Загрузка…</string>
     <string name="gn_share_contact_label">Накопитель</string>
     <string name="gn_contact_delete_all_tips">"There's already a contact deletion running in background.if you want to do this, please cancel it first."</string>
     <string name="gn_confirm_export_title">Экспорт контактов</string>
@@ -409,7 +409,7 @@ Please wait..."</string>
     <string name="gn_groups_label">Группы:</string>
     <string name="gn_others_label">Другие</string>
     <string name="gn_ringtone_label">Рингтон</string>
-    <string name="gn_ringtone_hint">Выберите рингтон...</string>
+    <string name="gn_ringtone_hint">Выберите рингтон…</string>
     <string name="gn_import_title">Импорт контактов</string>
     <string name="gn_menu_share_contacts">Отправить контакты</string>
     <string name="gn_menu_share_contact">Отправить контакт</string>
@@ -472,9 +472,9 @@ Please wait..."</string>
     <string name="bluetooth_device_pbap_connect_error">connect error</string>
     <string name="bluetooth_device_pbap_import_error">import error</string>
     <string name="bluetooth_pbap_importing_title">Импорт </string>
-    <string name="bluetooth_device_pbap_connect_title">Connectting...</string>
+    <string name="bluetooth_device_pbap_connect_title">Connectting…</string>
     <string name="bluetooth_device_pbap_connect_message">Connecting and read contacts, you may need another phone ОК.</string>
-    <string name="bluetooth_device_pair_title">pairing...</string>
+    <string name="bluetooth_device_pair_title">pairing…</string>
     <string name="bluetooth_device_pair_message">Being paired device, May need another pair and agree on a mobile phone.</string>
     <string name="bluetooth_pbap_import_im">import contacts immediately</string>
     <string name="bluetooth_pbap_import_finish">import finish</string>
@@ -615,31 +615,31 @@ Please wait..."</string>
     <string name="payphone">Телефон-автомат</string>
     <string name="dialerKeyboardHintText">Для набора используйте клавиатуру</string>
     <string name="dialerDialpadHintText">Наберите номер для вызова</string>
-    <string name="simContacts_emptyLoading">Загрузка контактов с SIM карты…</string>
-    <string name="simContacts_title">Контакты на SIM карте</string>
+    <string name="simContacts_emptyLoading">Загрузка контактов с SIM-карты…</string>
+    <string name="simContacts_title">Контакты на SIM-карте</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Отсутствуют контакты для отображения. (Если аккаунт был только что добавлен, потребуется несколько минут для синхронизации контактов.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения.</string>
     <string name="noContactsHelpText">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
         \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD карты\n</li>"
+        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD-карты\n</li>"
     </string>
     <string name="noContactsHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
         \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Параметры отображения</b></font> для выбора отображаемых контактов\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD карты\n</li>"
+        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SIM или SD-карты\n</li>"
     </string>
     <string name="noContactsNoSimHelpText">"У вас нет контактов для отображения.\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
         \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD карты\n</li>"
+        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD-карты\n</li>"
     </string>
     <string name="noContactsNoSimHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)\n\nЧтобы добавить контакт нажмите <font fgcolor="#ffffffff"><b>Меню</b></font>, затем нажмите:\n
         \n<li><font fgcolor="#ffffffff"><b>Аккаунты</b></font> для добавления или настройки аккаунта с контактами, для синхронизации с устройством\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Параметры отображения</b></font> для выбора отображаемых контактов\n</li>
         \n<li><font fgcolor="#ffffffff"><b>Новый контакт</b></font> для создания нового контакта\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD карты\n</li>"
+        \n<li><font fgcolor="#ffffffff"><b>Импорт/экспорт</b></font> для импорта контактов с SD-карты\n</li>"
     </string>
     <string name="noFavoritesHelpText">"У вас нет избранных контактов.\n\nЧтобы добавить контакт в избранное:\n
         <li>Нажмите вкладку <b>Контакты</b>\n</li>
@@ -685,10 +685,10 @@ Please wait..."</string>
     <string name="description_minus_button">минус</string>
     <string name="description_plus_button">плюс</string>
     <string name="description_view_contact_detail">Данные контакта</string>
-    <string name="no_sdcard_title">Нет SD карты</string>
+    <string name="no_sdcard_title">Нет SD-карты</string>
     <string name="no_sdcard_message">Накопитель не обнаружен.</string>
     <string name="searching_vcard_title">Поиск vCard</string>
-    <string name="import_from_sim">Импортировать с SIM карты</string>
+    <string name="import_from_sim">Импортировать с SIM-карты</string>
     <string name="import_from_sdcard">Импорт из накопителя</string>
     <string name="export_to_sdcard">Экспорт на накопитель</string>
     <string name="share_visible_contacts">Передать контакты</string>
@@ -1201,7 +1201,7 @@ Incompleted: %d"</string>
     <string name="noMatchingCalllogs">No matching call log found.</string>
     <string name="menu_videocallNumber">Video Call %s</string>
     <string name="menu_ipcallNumber">IP Call %s</string>
-    <string name="deleting_call_log">Deleting Call Log...</string>
+    <string name="deleting_call_log">Deleting Call Log…</string>
     <string name="no_vm_number">Missing voicemail number</string>
     <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
     <string name="add_vm_number_str">Добавить номер</string>

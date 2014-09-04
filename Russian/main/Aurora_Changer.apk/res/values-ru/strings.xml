@@ -8,7 +8,7 @@
     <string name="default_lockscreen_wallpaper_name">Установленные</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_next">Следующие</string>
-    <string name="setting_wallpaper">Сохранение...</string>
+    <string name="setting_wallpaper">Сохранение…</string>
     <string name="lockpaper_set_success">Обои на экран блокировки установлены</string>
     <string name="wallpaper_set_success">Обои установлены.</string>
     <string name="wallpaper_set_failed">Не удалось установить. Изображение отсутствует или повреждено.</string>
@@ -20,7 +20,7 @@
     <string name="confirm_delete_selected_message">Удалить выбранное изображение?</string>
     <string name="confirm_ok">ОК</string>
     <string name="confirm_cancel">Отмена</string>
-    <string name="wallpaper_is_deleting">Удаление...</string>
+    <string name="wallpaper_is_deleting">Удаление…</string>
     <string name="delete_success">Удалено</string>
     <string name="delete_failed">Ошибка удаления</string>
     <string name="wallpaper_settings_video">com.mediatek.vlw</string>
@@ -37,8 +37,8 @@
     <string name="wallpaper_select_max_toast">Экран блокировки поддерживает до 12 изображений</string>
     <string name="wallpaper_crop_sdcard_error">Ошибка SD-карты. Пожалуйста, добавьте повторно</string>
     <string name="dialog_title">Подтвердите действие</string>
-    <string name="image_loading">Загрузка изображения...</string>
+    <string name="image_loading">Загрузка изображения…</string>
     <string name="image_too_small">Разрешение выбранного изображения слишком низкое, его невозможно установить в качестве обоев.</string>
     <string name="image_load_failed">Ошибка загрузки изображения. Пожалуйста, выберите изображение повторно</string>
-    <string name="wallpaper_setting">Установка обоев...</string>
+    <string name="wallpaper_setting">Установка обоев…</string>
 </resources>

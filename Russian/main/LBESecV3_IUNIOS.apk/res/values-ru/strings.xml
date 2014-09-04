@@ -137,9 +137,9 @@
     <string name="Generic_TrustedApp">Доверенные приложения (%1$d)</string>
     <string name="Generic_ShowSystemApp">Показать системные приложения</string>
     <string name="Generic_HideSystemApp">Скрыть системные приложения</string>
-    <string name="Generic_Loading">Загрузка...</string>
-    <string name="Generic_Operating">Обработка...</string>
-    <string name="Generic_Canceling">Отмена...</string>
+    <string name="Generic_Loading">Загрузка…</string>
+    <string name="Generic_Operating">Обработка…</string>
+    <string name="Generic_Canceling">Отмена…</string>
     <string name="Generic_InvalidInput">Неверный ввод</string>
     <string name="Generic_Service_Enabled">Служба активна</string>
     <string name="Generic_Service_Disabled">Служба отключена</string>

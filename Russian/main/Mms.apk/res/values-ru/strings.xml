@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sms_is_loading">Загрузка...</string>
+    <string name="sms_is_loading">Загрузка…</string>
     <string name="sms_has_deleted">Сообщения были удалены</string>
     <string name="conversation_has_deleted">Разговоры были удалены</string>
     <string name="search_no_result">Нет результатов поиска</string>
@@ -34,7 +34,7 @@
     <string name="aurora_image_saved">Изображения были сохранены в \"sdcard/DCIM/mms\"</string>
     <string name="aurora_video_saved">Видеофайлы были сохранены в \"sdcard/DCIM/mms\"</string>
     <string name="aurora_other_saved">Аудиофайлы были сохранены в \"sdcard/Download\"</string>
-    <string name="gn_send_msg_sending">Отправка...</string>
+    <string name="gn_send_msg_sending">Отправка…</string>
     <string name="aurora_send_fail_title">Не удалось отправить sms</string>
     <string name="add_recent_contacts">Добавить контакт</string>
     <string name="insert_contacts">Вставить контакт</string>
@@ -132,8 +132,8 @@
     <string name="auroa_sms_copy_fail">Текста не найдено</string>
     <string name="aurora_msg_resend_indi">Отправить это сообщение?</string>
     <string name="aurora_msg_resend">Отправить повторно</string>
-    <string name="wait_connecting">Подключение к сети...</string>
-    <string name="wait_init">Инициализация данных, подождите...</string>
+    <string name="wait_connecting">Подключение к сети…</string>
+    <string name="wait_init">Инициализация данных, подождите…</string>
     <string name="gn_no_conversations">Нет SMS переписки</string>
     <string name="gn_no_contacts">Нет контактов</string>
     <string name="gn_no_recent_contacts">Нет недавних контактов</string>
@@ -186,7 +186,7 @@
     <string name="gn_confirm_delete_locked_favorited_message">Удалить заблокированные и избранные сообщения?</string>
     <string name="message_too_big_for_recording">Запись слишком велика, невозможно прикрепить.</string>
     <string name="gn_import_export_menu">Импорт/Экспорт</string>
-    <string name="gn_sim_sms">SMS на SIM карте</string>
+    <string name="gn_sim_sms">SMS на SIM-карте</string>
     <string name="gn_import_export_file_path">/backup/Sms/</string>
     <string name="gn_export_text">Экспорт</string>
     <string name="gn_import_text">Импорт</string>
@@ -221,7 +221,7 @@
     <string name="gn_imported_file_names">Импортированные файлы:</string>
     <string name="gn_export_failed">Ошибка экспорта!</string>
     <string name="gn_export_success">Экспортировано!</string>
-    <string name="gn_importing">Импортирование SMS, подождите...</string>
+    <string name="gn_importing">Импортирование SMS, подождите…</string>
     <string name="gn_import_export">Импорт/Экспорт SMS</string>
     <string name="gn_export_btn_text">Экспорт SMS</string>
     <string name="gn_import_btn_text">Импорт SMS</string>
@@ -231,9 +231,9 @@
     <string name="gn_import_cancel_title">Отмена</string>
     <string name="gn_import_cancel_msg">Импорт будет отменен</string>
     <string name="gn_forward_prefix">"Fwd: "</string>
-    <string name="gn_copying">копирование...</string>
+    <string name="gn_copying">копирование…</string>
     <string name="gn_no_sim_card">Не удается отправить, нет SIM-карты!</string>
-    <string name="gn_loading">Загрузка...</string>
+    <string name="gn_loading">Загрузка…</string>
     <string name="gn_mms_pop_view">Вид</string>
     <string name="gn_mms_pop_delete">Удалить</string>
     <string name="gn_mms_pop_send">Отправить</string>
@@ -312,8 +312,8 @@
     <string name="gn_card_2_out">Отправить по Sim 2</string>
     <string name="gn_card_1_in">Получено на Sim 1</string>
     <string name="gn_card_2_in">Получено на Sim 2</string>
-    <string name="gn_card_unknow_out">Отправить по Sim...</string>
-    <string name="gn_card_unknow_in">Получено на Sim...</string>
+    <string name="gn_card_unknow_out">Отправить по Sim…</string>
+    <string name="gn_card_unknow_in">Получено на Sim…</string>
     <string name="gn_menu_edit">Редактировать</string>
     <string name="gn_menu_edit_msg">Редактировать сообщение</string>
     <string name="gn_unload_mms">MMS не отправлено, пожалуйста, отправьте позже.</string>
@@ -358,7 +358,7 @@
     <string name="gn_time_early">Time before now, please reinstall</string>
     <string name="gn_select_attachment_geo_location">Географическое положение</string>
     <string name="gn_location_nonet">Нет подключенного соединения, проверте сеть!</string>
-    <string name="gn_location_loading">Загрузка... пожалуйста, подождите</string>
+    <string name="gn_location_loading">Загрузка… пожалуйста, подождите</string>
     <string name="gn_location_nogps_tip">GPS не включен, включите GPS для более точного определения</string>
     <string name="gn_location_tip_title">GPRS</string>
     <string name="gn_location_tip_body">You are now using the online network, to continue the operation may produce HTTP traffic fee which need you pay for the cost, specific costs please consult the local operators</string>
@@ -382,8 +382,8 @@
     <string name="gn_sending">Отправка</string>
     <string name="gn_mms_enable_gps">Включить GPS для обнаружения координат?</string>
     <string name="gn_try_luck">попробовать удачу</string>
-    <string name="gn_more">Подробно...</string>
-    <string name="on_loadding">Загрузка...</string>
+    <string name="gn_more">Подробно…</string>
+    <string name="on_loadding">Загрузка…</string>
     <string name="left_brackets">(</string>
     <string name="right_brackets">)</string>
     <string name="no_information">Этой категории не существует</string>
@@ -462,8 +462,8 @@
     <string name="aurora_not_reject_more">Не перехватывать</string>
     <string name="aurora_not_reject_more_message">"Больше не перехватывать этого получателя?"</string>
     <string name="aurora_resume_all">Восстановить все сообщения</string>
-    <string name="aurora_black_adding">Сохранение...</string>
-    <string name="aurora_black_resuming">Возобновление...</string>
+    <string name="aurora_black_adding">Сохранение…</string>
+    <string name="aurora_black_resuming">Возобновление…</string>
     <string name="aurora_add_blackname_more_toast">Выбрано более 100 получателей, проверьте список получателей!</string>
     <string name="aurora_sms_center_summary">This number is just used for sending and receiving sms, Please confirm to your operator before you change it.</string>
     <string name="aurora_operator_cm">China Mobile</string>
@@ -595,13 +595,13 @@
     <string name="pref_mms_settings_title">Настройки MMS</string>
     <string name="pref_sms_settings_title">Настройки SMS</string>
     <string name="pref_sms_storage_title">Память</string>
-    <string name="pref_summary_manage_sim_messages">Управление сообщениями, хранящимися на SIM карте</string>
+    <string name="pref_summary_manage_sim_messages">Управление сообщениями, хранящимися на SIM-карте</string>
     <string name="pref_summary_mms_delivery_reports">Запрашивать отчет о доставке для отправляемых сообщений</string>
     <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
     <string name="pref_summary_sms_delivery_reports">Запрашивать отчет о доставке для отправляемых сообщений</string>
     <string name="pref_summary_auto_delete">Удалять старые сообщения по достижении макс. количества</string>
     <string name="pref_summary_delete_limit">Сообщений в диалоге: %1$s</string>
-    <string name="pref_title_manage_sim_messages">Сообщения на SIM карте</string>
+    <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
     <string name="pref_title_mms_delivery_reports">Отчеты о доставке</string>
     <string name="pref_title_mms_read_reports">Отчет о прочтении</string>
     <string name="pref_title_sms_delivery_reports">Отчеты о доставке</string>
@@ -629,8 +629,8 @@
     <string name="confirm_delete_one_conversation">Удалить сообщение?</string>
     <string name="confirm_delete_message">Удалить сообщение?</string>
     <string name="confirm_delete_locked_message">Удалить заблокированное сообщение?</string>
-    <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM карты?</string>
-    <string name="confirm_delete_SIM_message">Удалить сообщение с SIM карты?</string>
+    <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM-карты?</string>
+    <string name="confirm_delete_SIM_message">Удалить сообщение с SIM-карты?</string>
     <string name="delete_unlocked">Удалить заблокированные сообщения</string>
     <string name="delete">Удалить</string>
     <string name="select_conversations">Выбрать диалог</string>
@@ -661,9 +661,9 @@
     <string name="menu_unlock">Из избранного</string>
     <string name="sim_copy_to_phone_memory">Копировать в память устройства</string>
     <string name="sim_delete">Удалить</string>
-    <string name="sim_manage_messages_title">SMS на SIM карте</string>
+    <string name="sim_manage_messages_title">SMS на SIM-карте</string>
     <string name="sim_view">Просмотр</string>
-    <string name="sim_empty">На SIM карте нет сообщений</string>
+    <string name="sim_empty">На SIM-карте нет сообщений</string>
     <string name="delivery_header_title">Отчет</string>
     <string name="status_none">(Нет)</string>
     <string name="status_pending">Ожидает</string>
@@ -688,7 +688,7 @@
     <string name="notification_multiple_title">Новые сообщения</string>
     <string name="notification_failed_multiple">Не отправлено сообщений: %s</string>
     <string name="notification_failed_multiple_title">Сообщения не отправлены</string>
-    <string name="sim_full_title">SIM карта заполнена</string>
+    <string name="sim_full_title">SIM-карта заполнена</string>
     <string name="sim_full_body">Удалите несколько сообщений, чтобы освободить место.</string>
     <string name="sms_full_title">Память текстовых сообщений заполнена</string>
     <string name="sms_full_body">Входящие сообщения будут отклонены: недостаточно место на устройстве.</string>
@@ -752,7 +752,7 @@
     <string name="error_state_text">Диалоги не соответствуют получателям. Сделайте скриншот и отправьте сообщение об ошибке через http://go/droidanizer</string>
     <string name="cell_broadcast">Широковещательные сообщения</string>
     <string name="cell_broadcast_title">Параметры широковещательных сообщений</string>
-    <string name="cell_broadcast_settings">Параметры широковещательных сообщений SIM карты</string>
+    <string name="cell_broadcast_settings">Параметры широковещательных сообщений SIM-карты</string>
     <string name="menu_insert_quick_text">Вставить шаблон</string>
     <string name="select_quick_text">Выберите шаблон</string>
     <string name="add">Добавить</string>
@@ -918,8 +918,8 @@
     <string name="pref_summary_export_msg">Экспорт SMS в SD-карту</string>
     <string name="pref_title_export_msg">Экспорт SMS</string>
     <string name="no_sd_card">SD-карта не готова</string>
-    <string name="export_message_ongoing">Экспортирование SMS в SD-карту, пожалуйста, подождите...</string>
-    <string name="import_message_ongoing">Импортирование SMS из SD-карты, пожалуйста, подождите...</string>
+    <string name="export_message_ongoing">Экспортирование SMS в SD-карту, пожалуйста, подождите…</string>
+    <string name="import_message_ongoing">Импортирование SMS из SD-карты, пожалуйста, подождите…</string>
     <string name="export_message_success">SMS сообщения экспортированы в SD-карту</string>
     <string name="import_message_success">SMS сообщения импортированы из SD-карты</string>
     <string name="import_message_fail">Ошибка при импортировани SMS из SD-карты</string>
@@ -939,7 +939,7 @@
     <string name="file_attachment_import_vcard">Импорт vCard</string>
     <string name="attach_vcard">Контакт</string>
     <string name="type_common_file">файл</string>
-    <string name="please_wait">Пожалуйста, подождите...</string>
+    <string name="please_wait">Пожалуйста, подождите…</string>
     <string name="failed_to_parse_vcard">Ошибка чтения файла vCard!</string>
     <string name="empty_vcard">Нет контактов в vCard</string>
     <string name="parse_vcard">Чтение vCard</string>
@@ -1025,7 +1025,7 @@
     <string name="abort_mms">Сообщение: отмена MMS</string>
     <string name="abort_mms_text ">Нажмите, чтобы прервать и вернуться.</string>
     <string name="progress_mms_title">MMS transaction on other sub in progress</string>
-    <string name="progress_mms">Сообщение: отправка MMS...</string>
+    <string name="progress_mms">Сообщение: отправка MMS…</string>
     <string name="progress_mms_text ">Нажмите, чтобы повторить попытку еще раз</string>
     <string name="confirm_delete_selected_SIM_message">Выбранные сообщения в SIM-карте будут удалены</string>
     <string name="confirm_delete_selected_conversations">Выбранные сообщения будут удалены.</string>

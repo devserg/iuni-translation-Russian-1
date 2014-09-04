@@ -74,7 +74,7 @@
     <string name="arrow_auto_start">Разрешить автозапуск</string>
     <string name="prohibit">Запретить</string>
     <string name="please_choice">Пожалуйста, выберите</string>
-    <string name="calculating">Вычисление...</string>
+    <string name="calculating">Вычисление…</string>
     <string name="sure">ОК</string>
     <string name="modify_hint_text">Возможно изменить в Приложения-Разрешения</string>
     <string name="permission_hint_text">Получение следующих чувствительные разрешений. Пожалуйста, проверьте для подтверждения:</string>
@@ -85,10 +85,10 @@
     <string name="install">Установить</string>
     <string name="new_version_not_apply_new_permission">Новая версия не запрашивает новое разрешение</string>
     <string name="app_not_apply_permission">Приложение не запрашивает новое разрешение</string>
-    <string name="during_optimize_all_apk">Оптимизация всех приложений. Пожалуйста, ждите...</string>
-    <string name="during_close_all_danger_permission">Отключение всех опасных разрешений, Пожалуйста, ждите...</string>
-    <string name="during_clear_choiceed_app_cache_data">Очистка кэшей выбранных приложений. Пожалуйста, ждите...</string>
-    <string name="during_uninstall_choiceed_app">Удаление выбранных приложений. Пожалуйста, ждите...</string>
+    <string name="during_optimize_all_apk">Оптимизация всех приложений. Пожалуйста, ждите…</string>
+    <string name="during_close_all_danger_permission">Отключение всех опасных разрешений, Пожалуйста, ждите…</string>
+    <string name="during_clear_choiceed_app_cache_data">Очистка кэшей выбранных приложений. Пожалуйста, ждите…</string>
+    <string name="during_uninstall_choiceed_app">Удаление выбранных приложений. Пожалуйста, ждите…</string>
     <string name="please_choice_need_clear_app">Выбрать приложения для очистки</string>
     <string name="clear_data_dlg_title">Удалить данные приложения</string>
     <string name="clear_data_dlg_text">Система навсегда удалит все данные этого приложения. Содержимое удаления включает в себя все файлы, настройки, аккаунты и базы данных.</string>
@@ -113,7 +113,7 @@
     <string name="video">Видео</string>
     <string name="ebook">Электронная книга</string>
     <string name="input_method">Метод ввода</string>
-    <string name="please_wait_init">Инициализация. Пожалуйста, ждите...</string>
+    <string name="please_wait_init">Инициализация. Пожалуйста, ждите…</string>
     <string name="auto_start_explain">Некоторые приложения начнут автоматически работать в фоновом режиме, чтобы обеспечить своевременную отправку сообщений (такие как приложения мгновенного обмена сообщениями), но некоторые приложения возможно запросят разрешение автопуска, потребляя больше заряда и памяти</string>
     <string name="storage_notify_msg">90% хранилища занято. Нажмите для просмотра кэшей приложений</string>
     <string name="storage_low">Недостаточно места для хранения</string>
@@ -158,7 +158,7 @@
     <string name="move_sucess">Удачное перемещение</string>
     <string name="move_app_to_internal">Переместить в телефон</string>
     <string name="move_app_to_sdcard">Переместить на SD-карту</string>
-    <string name="moving">Перемещение...</string>
+    <string name="moving">Перемещение…</string>
     <string name="insufficient_storage">Недостаточно места хранения</string>
     <string name="does_not_exist">Приложения не существует</string>
     <string name="app_forward_locked">Приложение защищено авторским правом</string>
@@ -188,7 +188,7 @@
     <string name="block_ad">Блокировать</string>
     <string name="cancel_block">Отменить блокировку</string>
     <string name="a_key_block">блокировка одним нажатием</string>
-    <string name="during_block_all_apk">Вся реклама в приложениях будет блокирована. Пожалуйста, ждите...</string>
+    <string name="during_block_all_apk">Вся реклама в приложениях будет блокирована. Пожалуйста, ждите…</string>
     <string name="a_key_block_finish">Блокировка окончена</string>
     <string name="notify_ad">Рекламное уведомление</string>
     <string name="view_ad">Реклама во вложении</string>
@@ -197,7 +197,7 @@
     <string name="block_scuess">блокировано</string>
     <string name="block_ad_risk_action">"Рекламные плагины с опасным поведением блокированны"</string>
     <string name="open_permission_monitor">Открыть разрешение мониторинга</string>
-    <string name="wait_for_open_permission_monitor">Открыть разрешение мониторинга. Пожалуйста, ждите...</string>
+    <string name="wait_for_open_permission_monitor">Открыть разрешение мониторинга. Пожалуйста, ждите…</string>
     <string name="no_app">Нет приложения</string>
     <string name="no_user_app">Нет личного приложения</string>
     <string name="no_app_for_add">Нет рекламного приложения</string>
