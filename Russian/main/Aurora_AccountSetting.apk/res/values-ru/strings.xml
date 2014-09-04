@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraAccountSettings</string>
+    <string name="app_name">Настройка аккаунта</string>
     <string name="action_settings">Настройки</string>
     <string name="account_settings">Аккаунты</string>
     <string name="aurora_account_category_title">Аккаунты</string>
@@ -16,7 +16,7 @@
     <string name="accessibility_sync_enabled">Синхронизация включена</string>
     <string name="accessibility_sync_disabled">Синхронизация выключена</string>
     <string name="accessibility_sync_error">Ошибка синхронизации</string>
-    <string name="sync_is_failing">При синхронизации возникли проблемы, скоро будет исправлено.</string>
+    <string name="sync_is_failing">При синхронизации возникли проблемы, скоро будет исправлено</string>
     <string name="help_url_accounts" />
     <string name="sync_item_title">%s</string>
     <string name="lock_settings_picker_title">Выберите режим блокировки экрана</string>
@@ -30,11 +30,11 @@
     <string name="sync_menu_sync_now">Синхронизировать сейчас</string>
     <string name="sync_menu_sync_cancel">Отменить синхронизацию</string>
     <string name="last_synced">"Нажмите Синхронизировать сейчас
- Последняя синхронизация:%1$s"</string>
+ Последняя синхронизация: %1$s"</string>
     <string name="auto_sync_start">Автоматическая синхронизация включена</string>
     <string name="sync_failed">Сбой синхронизации</string>
     <string name="sync_active">Синхронизирование</string>
-    <string name="sync_one_time_sync">Коснитесь для немедленной синхронизаци(\u0009%1$s)</string>
+    <string name="sync_one_time_sync">Коснитесь для немедленной синхронизаци (\u0009%1$s)</string>
     <string name="sync_automatically">Данные приложения автоматически синхронизируется</string>
-    <string name="global_change_warning">Этот параметр влияет на всех пользователей этого телефона.</string>
+    <string name="global_change_warning">Этот параметр влияет на всех пользователей этого телефона</string>
 </resources>
