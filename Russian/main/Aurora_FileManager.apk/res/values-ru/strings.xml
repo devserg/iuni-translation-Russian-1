@@ -49,7 +49,7 @@
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="send_file">Поделиться</string>
-    <string name="share_too_much">It is so kind of you to share so much</string>
+    <string name="share_too_much">Это так любезно с вашей стороны поделиться</string>
     <string name="move_file">Возникла ошибка при перемещении файла %s</string>
     <string name="copy_file">Возникли неполадки при копировании файла %s</string>
     <string name="del_file">Не удается удалить %s</string>
@@ -71,8 +71,8 @@
     <string name="cancel">Отмена</string>
     <string name="aurora_file_name_tint">Введите правильное имя файла</string>
     <string name="invalid_char_prompt">Введен недопустимый символ</string>
-    <string name="storage_internal">sdcard</string>
-    <string name="storage_external">SD-карты</string>
+    <string name="storage_internal">Внутренняя память</string>
+    <string name="storage_external">SD-карта</string>
     <string name="root_view">Память</string>
     <string name="has_no_free_memory">Недостаточно места для хранения. Пожалуйста, освободите место на диске.</string>
     <string name="mkdir_no_permission">Недостаточно прав для создания новой папки</string>
