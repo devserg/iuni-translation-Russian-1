@@ -9,7 +9,7 @@
     <string name="myselect_all">Выбрать все</string>
     <string name="unmyselect_all">Снять выделение</string>
     <string name="delete_finish">%1$d файлов удалено.</string>
-    <string name="update_pic">Обновление фотографий...</string>
+    <string name="update_pic">Обновление фотографий…</string>
     <string name="appwidget_empty_video">Не видео файлов</string>
     <string name="aurora_wallpaper">IUNI альбом</string>
     <string name="aurora_storage_root">Память</string>
@@ -42,7 +42,7 @@
     <string name="unsaved">Имеются несохраненные изменения этого изображения.</string>
     <string name="save_before_exit">Сохранить изменения?</string>
     <string name="save_and_exit">Сохранить и выйти</string>
-    <string name="save_and_processing">Обработка полного разрешения изображения...</string>
+    <string name="save_and_processing">Обработка полного разрешения изображения…</string>
     <string name="exit">Выход</string>
     <string name="history">История</string>
     <string name="reset">Обновить</string>
@@ -121,7 +121,7 @@
     <string name="state_panel_original">Оригинал</string>
     <string name="state_panel_result">Результат</string>
     <string name="filtershow_notification_label">Сохранение изображения</string>
-    <string name="filtershow_notification_message">Обработка...</string>
+    <string name="filtershow_notification_message">Обработка…</string>
     <string name="filtershow_save_preset">Сохранение текущей конфигурации</string>
     <string name="filtershow_manage_preset">Управление пользовательскими стилями</string>
     <string name="filtershow_new_preset">Новый стиль</string>
